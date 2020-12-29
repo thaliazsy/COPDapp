@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="COPDapp.Rehabilitation">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Welcome to COPD  復健" HorizontalOptions="CenterAndExpand" />
+                <StackLayout Orientation="Horizontal">
+                    <Button Text="戒菸" x:Name="btnIntro" Clicked="BtnMenu_Clicked" HorizontalOptions="CenterAndExpand"/>
+                    <Button Text="復健" x:Name="btnPrevent" Clicked="BtnMenu_Clicked" HorizontalOptions="CenterAndExpand"/>
+                    <Button Text="營養" x:Name="btnLastStage" Clicked="BtnMenu_Clicked" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+
+                <Label x:Name="lbl0" Text="" HorizontalOptions="CenterAndExpand" />
+                <Image x:Name="imgView" HeightRequest="300" WidthRequest="300"></Image>
+                <Label x:Name="lbl1" Text="" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"  />
+
+                <StackLayout x:Name="videoLayout"  IsVisible="False" >
+                    <MediaElement x:Name="videoView" WidthRequest="300" HeightRequest="200" ShowsPlaybackControls="True" AutoPlay="True"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" x:Name="buttonGrid" IsVisible="False">
+                    <Button Text="上一步" x:Name="btnPrev" Clicked="BtnPrev_Clicked" HorizontalOptions="CenterAndExpand" IsEnabled="False"/>
+                    <Button Text="下一步" x:Name="btnNext" Clicked="Button_Clicked" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

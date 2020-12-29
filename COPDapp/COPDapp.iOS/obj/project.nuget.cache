@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mp+2dLY/SU+gm2jTr5hCFF2WMr+RIeDi4ujex5PG35DIZHOAdLL1LHha2tIgGxmT6T/uhn3VB5ohu7wYOHP9Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thali\\source\\repos\\COPDapp\\COPDapp\\COPDapp.iOS\\COPDapp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thali\\.nuget\\packages\\xam.forms.videoplayer\\1.0.8\\xam.forms.videoplayer.1.0.8.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\thali\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}

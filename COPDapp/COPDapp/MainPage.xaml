@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:COPDapp"
+             x:Class="COPDapp.MainPage" BackgroundColor="LightGoldenrodYellow">
+
+    <StackLayout VerticalOptions="Center">
+        <!-- Place new controls here -->
+        <local:TextShadowButton x:Name="label1" Text="Welcome to COPD App!" FontSize="Large" BackgroundColor="#f8c220" HeightRequest="50" TextColor="White"/>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <ImageButton Source="button_study.png"
+                             x:Name="button_edu"
+                BackgroundColor="Transparent"
+                WidthRequest="100"
+                HeightRequest="100"
+                FlexLayout.AlignSelf="Center"
+                FlexLayout.Grow="1"
+                Clicked="OnButtonClicked"
+                Aspect="AspectFit">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="1"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                        <VisualState x:Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="0.8"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+            </ImageButton>
+            <ImageButton Source="button_therapy.png"
+                x:Name="button_therapy"
+                BackgroundColor="Transparent"
+                WidthRequest="100"
+                HeightRequest="100"
+                FlexLayout.AlignSelf="Center"
+                FlexLayout.Grow="1"
+                Clicked="OnButtonClicked"
+                
+                Aspect="AspectFit">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="1"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                        <VisualState x:Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="0.8"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+            </ImageButton>
+            <ImageButton Source="button_decision.png" 
+                x:Name="button_decision"
+                BackgroundColor="Transparent"
+                WidthRequest="100"
+                HeightRequest="100"
+                FlexLayout.AlignSelf="Center"
+                FlexLayout.Grow="1"
+                Clicked="OnButtonClicked"
+                Aspect="AspectFit">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="1"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                        <VisualState x:Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="0.8"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+            </ImageButton>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <ImageButton Source="button_drug.png" 
+                x:Name="button_drug"
+                BackgroundColor="Transparent"
+                WidthRequest="100"
+                HeightRequest="100"
+                FlexLayout.AlignSelf="Center"
+                FlexLayout.Grow="1"
+                Clicked="OnButtonClicked"
+                Aspect="AspectFit">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="1"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                        <VisualState x:Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="0.8"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+            </ImageButton>
+            <ImageButton Source="button_qa.png" 
+                             
+                x:Name="button_qa"
+                BackgroundColor="Transparent"
+                WidthRequest="100"
+                HeightRequest="100"
+                FlexLayout.AlignSelf="Center"
+                FlexLayout.Grow="1"
+                Clicked="OnButtonClicked"
+                Aspect="AspectFit">
+                <VisualStateManager.VisualStateGroups>
+                    <VisualStateGroup x:Name="CommonStates">
+                        <VisualState x:Name="Normal">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="1"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                        <VisualState x:Name="Pressed">
+                            <VisualState.Setters>
+                                <Setter Property="Scale" Value="0.8"/>
+                            </VisualState.Setters>
+                        </VisualState>
+
+                    </VisualStateGroup>
+                </VisualStateManager.VisualStateGroups>
+            </ImageButton>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="COPDapp.HealthEducation" BackgroundColor="LightGoldenrodYellow">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout x:Name="container" Orientation="Vertical" VerticalOptions="Center">
+                <Button x:Name="btn_selfAsses" Clicked="OnButtonClicked" Text="自我檢測" />
+                <Button x:Name="btn_prevention" Clicked="OnButtonClicked" Text="預防與治療" />
+                <Button x:Name="btn_vaccine" Clicked="OnButtonClicked" Text="非藥物治療" />
+                <Button x:Name="btn_aboutCOPD" Clicked="OnButtonClicked" Text="關於肺阻塞" />
+                <Button x:Name="btn_acuteExacerbation" Clicked="OnButtonClicked" Text="急性惡化的徵兆及處理" />
+                <Button x:Name="btn_comorbidity" Clicked="OnButtonClicked" Text="肺阻塞的共病症" />
+                <Button x:Name="btn_mucusRemoval" Clicked="OnButtonClicked" Text="呼吸道痰液清除方法" />
+                <Button x:Name="btn_oxygenTherapy" Clicked="OnButtonClicked" Text="居家氧氣治療" />
+                
+                
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
