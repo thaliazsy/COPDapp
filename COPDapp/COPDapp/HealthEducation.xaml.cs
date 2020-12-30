@@ -15,18 +15,11 @@ namespace COPDapp
         public HealthEducation()
         {
             InitializeComponent();
-            IList<View> buttons = container.Children;
-            foreach(Button b in buttons)
-            {
-                b.BackgroundColor = Color.Orange;
-                b.FontSize = 50;
-            }
         }
 
         private void OnButtonClicked(object sender, EventArgs args)
         {
             Button sen = (Button)sender;
-            //label1.Text = sen.Text.ToString();
             string video="";
             if (sen == sen.FindByName("btn_selfAsses"))  //self assesment video
             {

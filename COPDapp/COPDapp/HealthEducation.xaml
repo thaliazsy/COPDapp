@@ -1,24 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="COPDapp.HealthEducation" BackgroundColor="LightGoldenrodYellow">
+             x:Class="COPDapp.HealthEducation" 
+             xmlns:PanCake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             BackgroundColor="#ffdf90">
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
+        <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated"/>
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout x:Name="container" Orientation="Vertical" VerticalOptions="Center">
-                <Button x:Name="btn_selfAsses" Clicked="OnButtonClicked" Text="自我檢測" />
-                <Button x:Name="btn_prevention" Clicked="OnButtonClicked" Text="預防與治療" />
-                <Button x:Name="btn_vaccine" Clicked="OnButtonClicked" Text="非藥物治療" />
-                <Button x:Name="btn_aboutCOPD" Clicked="OnButtonClicked" Text="關於肺阻塞" />
-                <Button x:Name="btn_acuteExacerbation" Clicked="OnButtonClicked" Text="急性惡化的徵兆及處理" />
-                <Button x:Name="btn_comorbidity" Clicked="OnButtonClicked" Text="肺阻塞的共病症" />
-                <Button x:Name="btn_mucusRemoval" Clicked="OnButtonClicked" Text="呼吸道痰液清除方法" />
-                <Button x:Name="btn_oxygenTherapy" Clicked="OnButtonClicked" Text="居家氧氣治療" />
-                
-                
-            </StackLayout>
+            <!-- Main structure-->
+            <Grid RowDefinitions="Auto,Auto,Auto" ColumnDefinitions="*,Auto" RowSpacing="0">
+                <!-- 2.1 Header-->
+                <StackLayout Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BackgroundColor="White">
+                    <PanCake:PancakeView Grid.Row="0" CornerRadius="0,0,110,0" HeightRequest="150" BackgroundColor="#46ebcd">
+                        <Label Text="衛教" VerticalOptions="Center" HorizontalOptions="Center" CharacterSpacing="3" HorizontalTextAlignment="Center" FontSize="33" TextColor="White"/>
+                    </PanCake:PancakeView>
+                </StackLayout>
+
+                <StackLayout Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" VerticalOptions="End" BackgroundColor="#46ebcd">
+                    <PanCake:PancakeView Grid.Row="1" CornerRadius="0,90,0,0">
+                        <Grid RowDefinitions="Auto,Auto,Auto,Auto" VerticalOptions="Center" ColumnDefinitions="*, *" Padding="15,50,15,10" BackgroundColor="White">
+                            <Button Grid.Row="0" Grid.Column="0" x:Name="btn_selfAsses" Clicked="OnButtonClicked" Text="自我檢測" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                            <Button Grid.Row="0" Grid.Column="1" x:Name="btn_prevention" Clicked="OnButtonClicked" Text="預防與治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                            <Button Grid.Row="1" Grid.Column="0" x:Name="btn_vaccine" Clicked="OnButtonClicked" Text="非藥物治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                            <Button Grid.Row="1" Grid.Column="1" x:Name="btn_aboutCOPD" Clicked="OnButtonClicked" Text="關於肺阻塞" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                            <Button Grid.Row="2" Grid.Column="0" x:Name="btn_acuteExacerbation" Clicked="OnButtonClicked" Text="急性惡化的徵兆及處理" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                            <Button Grid.Row="2" Grid.Column="1" x:Name="btn_comorbidity" Clicked="OnButtonClicked" Text="肺阻塞的共病症" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                            <Button Grid.Row="3" Grid.Column="0" x:Name="btn_mucusRemoval" Clicked="OnButtonClicked" Text="呼吸道痰液清除方法" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                            <Button Grid.Row="3" Grid.Column="1" x:Name="btn_oxygenTherapy" Clicked="OnButtonClicked" Text="居家氧氣治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
+                        </Grid>
+                    </PanCake:PancakeView>
+                </StackLayout>
+                <!--Adding button corners -->
+                <PanCake:PancakeView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" CornerRadius="0,0,80,80" Margin="0,0,0,25" BackgroundColor="White" HeightRequest="{OnPlatform Android='50', iOS='75'}"/>
+            </Grid>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>

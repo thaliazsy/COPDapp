@@ -15,6 +15,7 @@ namespace COPDapp
         public EducationVideo(string video)
         {
             InitializeComponent();
+            header.TextColor = Color.White;
             header.FontSize = 40;
             switch (video)
             {
@@ -73,6 +74,14 @@ namespace COPDapp
                 case "turbuhaler":
                     header.Text = "藥物 Turbuhaler";
                     videoBox.Source = "http://203.64.84.218/copd/video/Turbuhaler.mp4";
+                    break;
+                case "rehabilitation":
+                    header.Text = "復健";
+                    videoBox.Source = "http://203.64.84.218/copd/video/what_is_COPD.mp4";
+                    break;
+                case "nutrition":
+                    header.Text = "營養";
+                    videoBox.Source = "http://203.64.84.218/copd/video/DietaryPrinciples.mp4";
                     break;
             }
         }

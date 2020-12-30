@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": ""
+    "signature": "8eee8548cc11bbfb0b51cd7099250c9de14f6e42"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,7 +12,8 @@
           "NETStandard.Library": "2.0.3",
           "Xam.Forms.VideoPlayer": "1.0.8",
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.8.0.1821"
+          "Xamarin.Forms": "4.8.0.1821",
+          "Xamarin.Forms.PancakeView": "1.3.7"
         },
         "runtime": {
           "COPDapp.dll": {}
@@ -69,6 +70,17 @@
             "fileVersion": "4.8.0.410"
           }
         }
+      },
+      "Xamarin.Forms.PancakeView/1.3.7": {
+        "dependencies": {
+          "Xamarin.Forms": "4.8.0.1821"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.PancakeView.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
       }
     }
   },
@@ -119,6 +131,13 @@
       "sha512": "sha512-3e/5DwE/bExRLtM1tA3iI9E6TCnIF+e9+lINgwLOUs0g49ebFmQiNDXBKb06jmqqV4VyNaUGZqs0bI13ruv8bQ==",
       "path": "xamarin.forms/4.8.0.1821",
       "hashPath": "xamarin.forms.4.8.0.1821.nupkg.sha512"
+    },
+    "Xamarin.Forms.PancakeView/1.3.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b6g3lVHV764yU4BRPzb1bvHT4G9xSQAXIPGtWQvryzLgU2qoqvnboiL5caJfLLFYXPtDy5ptoRD/TzC5i3VF3w==",
+      "path": "xamarin.forms.pancakeview/1.3.7",
+      "hashPath": "xamarin.forms.pancakeview.1.3.7.nupkg.sha512"
     }
   }
 }

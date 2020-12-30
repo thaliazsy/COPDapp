@@ -1,147 +1,200 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:COPDapp"
-             x:Class="COPDapp.MainPage" BackgroundColor="LightGoldenrodYellow">
+             x:Class="COPDapp.MainPage" 
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             Padding="0,40,0,0"
+             BackgroundColor="#46ebcd">
 
-    <StackLayout VerticalOptions="Center">
-        <!-- Place new controls here -->
-        <local:TextShadowButton x:Name="label1" Text="Welcome to COPD App!" FontSize="Large" BackgroundColor="#f8c220" HeightRequest="50" TextColor="White"/>
-        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
-            <ImageButton Source="button_study.png"
-                             x:Name="button_edu"
-                BackgroundColor="Transparent"
-                WidthRequest="100"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                <VisualStateManager.VisualStateGroups>
-                    <VisualStateGroup x:Name="CommonStates">
-                        <VisualState x:Name="Normal">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="1"/>
-                            </VisualState.Setters>
-                        </VisualState>
+    <ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <StackLayout>
+            <!-- Place new controls here -->
+            <Grid Margin="0,0,0,0">
+                <StackLayout Margin="10,0,10,0" Spacing="35">
+                    <Image
+                        HeightRequest="30"
+                        HorizontalOptions="Start"
+                        Source="hamburgerMenu"
+                        VerticalOptions="Start"
+                        WidthRequest="30"/>
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="28"
+                        HorizontalOptions="StartAndExpand"
+                        TextColor="White"
+                        VerticalOptions="StartAndExpand"
+                        WidthRequest="200"
+                        x:Name="title"
+                        Text="Tzu Chi Hospital COPD APP"/>
+                </StackLayout>
+                <Image
+                    HorizontalOptions="EndAndExpand"
+                    Source="lung04"
+                    WidthRequest="200" />
+            </Grid>
 
-                        <VisualState x:Name="Pressed">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="0.8"/>
-                            </VisualState.Setters>
-                        </VisualState>
+            <yummy:PancakeView
+	        Margin="0,10,0,0"
+	        Padding="30,0,30,30"
+	        BackgroundColor="White"
+	        CornerRadius="40,40,0,0"
+	        VerticalOptions="FillAndExpand">
+                <StackLayout>
+                    <Grid Margin="5" ColumnSpacing="20" RowSpacing="50">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="170" />
+                            <RowDefinition Height="170" />
+                            <RowDefinition Height="170" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <yummy:PancakeView
+				        Grid.Row="0"
+				        Grid.Column="0"
+				        Padding="10"
+                        x:Name="grid_edu"   
+                        BackgroundColor="White"   
+				        BorderThickness="1"
+				        CornerRadius="15"
+				        Elevation="3">
+                            <StackLayout>
+                                <ImageButton Source="button_edu"  
+					            x:Name="button_edu"
+                                BackgroundColor="White"
+					            WidthRequest="100"
+					            HeightRequest="100"
+					            Aspect="AspectFit"
+                                Clicked="OnButtonClicked">
+                                </ImageButton>
+                                <Label
+						        FontAttributes="Bold"
+						        FontSize="20"
+						        HorizontalOptions="CenterAndExpand"
+						        HorizontalTextAlignment="Center"
+						        Text="衛教"
+						        TextColor="Black"
+						        VerticalOptions="CenterAndExpand" />
+                            </StackLayout>
+                        </yummy:PancakeView>
 
-                    </VisualStateGroup>
-                </VisualStateManager.VisualStateGroups>
-            </ImageButton>
-            <ImageButton Source="button_therapy.png"
-                x:Name="button_therapy"
-                BackgroundColor="Transparent"
-                WidthRequest="100"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                
-                Aspect="AspectFit">
-                <VisualStateManager.VisualStateGroups>
-                    <VisualStateGroup x:Name="CommonStates">
-                        <VisualState x:Name="Normal">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="1"/>
-                            </VisualState.Setters>
-                        </VisualState>
+                        <yummy:PancakeView
+				        x:Name="grid_therapy"
+                        Grid.Row="0"
+				        Grid.Column="1"
+				        Padding="10"
+				        BackgroundColor="White"
+				        BorderThickness="1"
+				        CornerRadius="15"
+				        Elevation="3">
+                            <StackLayout>
+                                <ImageButton Source="button_therapy"
+					            x:Name="button_therapy"
+					            BackgroundColor="White"
+                                WidthRequest="100"
+					            HeightRequest="100"
+					            Aspect="AspectFit" 
+                                Clicked="OnButtonClicked">
+                                </ImageButton>
+                                <Label
+						        FontAttributes="Bold"
+						        FontSize="20"
+						        HorizontalOptions="CenterAndExpand"
+						        HorizontalTextAlignment="Center"
+						        Text="非藥物治療"
+						        TextColor="Black"
+						        VerticalOptions="CenterAndExpand" />
+                            </StackLayout>
+                        </yummy:PancakeView>
 
-                        <VisualState x:Name="Pressed">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="0.8"/>
-                            </VisualState.Setters>
-                        </VisualState>
-
-                    </VisualStateGroup>
-                </VisualStateManager.VisualStateGroups>
-            </ImageButton>
-            <ImageButton Source="button_decision.png" 
-                x:Name="button_decision"
-                BackgroundColor="Transparent"
-                WidthRequest="100"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                <VisualStateManager.VisualStateGroups>
-                    <VisualStateGroup x:Name="CommonStates">
-                        <VisualState x:Name="Normal">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="1"/>
-                            </VisualState.Setters>
-                        </VisualState>
-
-                        <VisualState x:Name="Pressed">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="0.8"/>
-                            </VisualState.Setters>
-                        </VisualState>
-
-                    </VisualStateGroup>
-                </VisualStateManager.VisualStateGroups>
-            </ImageButton>
+                        <yummy:PancakeView
+				        x:Name="grid_decision"
+                        Grid.Row="1"
+				        Grid.Column="0"
+				        Padding="10"
+				        BackgroundColor="White"
+				        BorderThickness="1"
+				        CornerRadius="15"
+				        Elevation="3">
+                            <StackLayout>
+                                <ImageButton Source="button_decision"
+					            x:Name="button_decision"
+					            BackgroundColor="White"
+                                WidthRequest="100"
+					            HeightRequest="100"
+					            Aspect="AspectFit"
+                                Clicked="OnButtonClicked">
+                                </ImageButton>
+                                <Label
+						        FontAttributes="Bold"
+						        FontSize="20"
+						        HorizontalOptions="CenterAndExpand"
+						        HorizontalTextAlignment="Center"
+						        TextColor="Black"
+						        VerticalOptions="CenterAndExpand"
+                                Text="SDM 共同決策"/>
+                            </StackLayout>
+                        </yummy:PancakeView>
+                        <yummy:PancakeView
+				        x:Name="grid_drug"
+                        Grid.Row="1"
+				        Grid.Column="1"
+				        Padding="10"
+				        BackgroundColor="White"
+				        BorderThickness="1"
+				        CornerRadius="15"
+				        Elevation="3">
+                            <StackLayout>
+                                <ImageButton Source="button_drug"
+					            x:Name="button_drug"
+					            BackgroundColor="White"
+                                WidthRequest="100"
+					            HeightRequest="100"
+					            Aspect="AspectFit"
+                                Clicked="OnButtonClicked">
+                                </ImageButton>
+                                <Label
+						FontAttributes="Bold"
+						FontSize="20"
+						HorizontalOptions="CenterAndExpand"
+						HorizontalTextAlignment="Center"
+						Text="藥物"
+						TextColor="Black"
+						VerticalOptions="CenterAndExpand" />
+                            </StackLayout>
+                        </yummy:PancakeView>
+                        <yummy:PancakeView
+				        x:Name="grid_qna"
+                        Grid.Row="2"
+				        Grid.Column="0"
+				        Padding="10"
+				        BackgroundColor="White"
+				        BorderThickness="1"
+				        CornerRadius="15"
+				        Elevation="3">
+                            <StackLayout>
+                                <ImageButton Source="button_qna"
+					            x:Name="button_qna"
+					            BackgroundColor="White"
+                                WidthRequest="100"
+					            HeightRequest="100"
+					            Aspect="AspectFit"
+                                Clicked="OnButtonClicked">
+                                </ImageButton>
+                                <Label
+						FontAttributes="Bold"
+						FontSize="20"
+						HorizontalOptions="CenterAndExpand"
+						HorizontalTextAlignment="Center"
+						Text="QnA"
+						TextColor="Black"
+						VerticalOptions="CenterAndExpand" />
+                            </StackLayout>
+                        </yummy:PancakeView>
+                    </Grid>
+                </StackLayout>
+            </yummy:PancakeView>
         </StackLayout>
-        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
-            <ImageButton Source="button_drug.png" 
-                x:Name="button_drug"
-                BackgroundColor="Transparent"
-                WidthRequest="100"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                <VisualStateManager.VisualStateGroups>
-                    <VisualStateGroup x:Name="CommonStates">
-                        <VisualState x:Name="Normal">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="1"/>
-                            </VisualState.Setters>
-                        </VisualState>
-
-                        <VisualState x:Name="Pressed">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="0.8"/>
-                            </VisualState.Setters>
-                        </VisualState>
-
-                    </VisualStateGroup>
-                </VisualStateManager.VisualStateGroups>
-            </ImageButton>
-            <ImageButton Source="button_qa.png" 
-                             
-                x:Name="button_qa"
-                BackgroundColor="Transparent"
-                WidthRequest="100"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                <VisualStateManager.VisualStateGroups>
-                    <VisualStateGroup x:Name="CommonStates">
-                        <VisualState x:Name="Normal">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="1"/>
-                            </VisualState.Setters>
-                        </VisualState>
-
-                        <VisualState x:Name="Pressed">
-                            <VisualState.Setters>
-                                <Setter Property="Scale" Value="0.8"/>
-                            </VisualState.Setters>
-                        </VisualState>
-
-                    </VisualStateGroup>
-                </VisualStateManager.VisualStateGroups>
-            </ImageButton>
-        </StackLayout>
-    </StackLayout>
-
+    </ScrollView>
 </ContentPage>
