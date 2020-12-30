@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="COPDapp.HealthEducation" 
              xmlns:PanCake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
-             BackgroundColor="#ffdf90">
+             BackgroundColor="#dff4d7">
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated"/>
     </ContentPage.ToolbarItems>

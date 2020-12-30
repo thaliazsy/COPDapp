@@ -809,8 +809,6 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\button_decision.png
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\button_drug.png
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\button_qna.png
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\button_study.png
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\button_therapy.png
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\intro_1.png
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\intro_2.png
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\intro_3.png
@@ -963,3 +961,4 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\andr
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\res\drawable\button_therapy.png

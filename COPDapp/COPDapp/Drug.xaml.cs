@@ -19,7 +19,7 @@ namespace COPDapp
 
         private void OnButtonClicked(object sender, EventArgs args)
         {
-            ImageButton sen = (ImageButton)sender;
+            Button sen = (Button)sender;
             //label1.Text = sen.Text.ToString();
             string video="";
             if (sen == sen.FindByName("btn_breezehaler"))

@@ -1,163 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="COPDapp.Drug" BackgroundColor="#46ebcd">
+             x:Class="COPDapp.Drug" BackgroundColor="#dff4d7"
+             xmlns:PanCake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView">
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Orientation="Vertical" VerticalOptions="Center">
-                <ImageButton Source="Breezehaler.png" 
-                             x:Name="btn_breezehaler"
-                BackgroundColor="Transparent"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                    <VisualStateManager.VisualStateGroups>
-                        <VisualStateGroup x:Name="CommonStates">
-                            <VisualState x:Name="Normal">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="1"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                            <VisualState x:Name="Pressed">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="0.8"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                        </VisualStateGroup>
-                    </VisualStateManager.VisualStateGroups>
-                </ImageButton>
-                <ImageButton Source="Ellipta.png"
-                x:Name="btn_ellipta"
-                BackgroundColor="Transparent"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                    <VisualStateManager.VisualStateGroups>
-                        <VisualStateGroup x:Name="CommonStates">
-                            <VisualState x:Name="Normal">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="1"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                            <VisualState x:Name="Pressed">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="0.8"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                        </VisualStateGroup>
-                    </VisualStateManager.VisualStateGroups>
-                </ImageButton>
-                <ImageButton Source="MDI_with_Spacer.png" 
-                x:Name="btn_mdiWspacer"
-                BackgroundColor="Transparent"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                    <VisualStateManager.VisualStateGroups>
-                        <VisualStateGroup x:Name="CommonStates">
-                            <VisualState x:Name="Normal">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="1"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                            <VisualState x:Name="Pressed">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="0.8"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                        </VisualStateGroup>
-                    </VisualStateManager.VisualStateGroups>
-                </ImageButton>
-                <ImageButton Source="MDI_without_Spacer.png" 
-                x:Name="btn_mdiWOspacer"
-                BackgroundColor="Transparent"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                    <VisualStateManager.VisualStateGroups>
-                        <VisualStateGroup x:Name="CommonStates">
-                            <VisualState x:Name="Normal">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="1"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                            <VisualState x:Name="Pressed">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="0.8"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                        </VisualStateGroup>
-                    </VisualStateManager.VisualStateGroups>
-                </ImageButton>
-                <ImageButton Source="Respimat.png" 
-                x:Name="btn_respimat"
-                BackgroundColor="Transparent"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                    <VisualStateManager.VisualStateGroups>
-                        <VisualStateGroup x:Name="CommonStates">
-                            <VisualState x:Name="Normal">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="1"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                            <VisualState x:Name="Pressed">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="0.8"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                        </VisualStateGroup>
-                    </VisualStateManager.VisualStateGroups>
-                </ImageButton>
-                <ImageButton Source="Turbuhaler.png" 
-                x:Name="btn_turbuhaler"
-                BackgroundColor="Transparent"
-                HeightRequest="100"
-                FlexLayout.AlignSelf="Center"
-                FlexLayout.Grow="1"
-                Clicked="OnButtonClicked"
-                Aspect="AspectFit">
-                    <VisualStateManager.VisualStateGroups>
-                        <VisualStateGroup x:Name="CommonStates">
-                            <VisualState x:Name="Normal">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="1"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                            <VisualState x:Name="Pressed">
-                                <VisualState.Setters>
-                                    <Setter Property="Scale" Value="0.8"/>
-                                </VisualState.Setters>
-                            </VisualState>
-
-                        </VisualStateGroup>
-                    </VisualStateManager.VisualStateGroups>
-                </ImageButton>
+                <Label Text="藥物" Padding="0, 15" HorizontalOptions="CenterAndExpand" CharacterSpacing="3" HorizontalTextAlignment="Center" FontSize="45"/>
+                <PanCake:PancakeView  CornerRadius="30">
+                    <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto" VerticalOptions="Center" ColumnDefinitions="10,*,10" Padding="15, 50" BackgroundColor="White">
+                        <Button Grid.Row="0" Grid.Column="1" x:Name="btn_breezehaler" Clicked="OnButtonClicked" Text="Breezehaler" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" FontSize="20" CornerRadius="55"/>
+                        <Button Grid.Row="1" Grid.Column="1" x:Name="btn_ellipta" Clicked="OnButtonClicked" Text="Ellipta" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" FontSize="20" CornerRadius="55"/>
+                        <Button Grid.Row="2" Grid.Column="1" x:Name="btn_mdiWspacer" Clicked="OnButtonClicked" Text="MDI With Spacer" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" FontSize="20" CornerRadius="55"/>
+                        <Button Grid.Row="3" Grid.Column="1" x:Name="btn_mdiWOspacer" Clicked="OnButtonClicked" Text="MDI Without Spacer" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" FontSize="20" CornerRadius="55"/>
+                        <Button Grid.Row="4" Grid.Column="1" x:Name="btn_respimat" Clicked="OnButtonClicked" Text="Respimat" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" FontSize="20" CornerRadius="55"/>
+                        <Button Grid.Row="5" Grid.Column="1" x:Name="btn_turbuhaler" Clicked="OnButtonClicked" Text="Turbuhaler" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" FontSize="20" CornerRadius="55"/>
+                    </Grid>
+                </PanCake:PancakeView>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

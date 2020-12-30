@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="COPDapp.Rehabilitation" BackgroundColor="#46ebcd">
+             x:Class="COPDapp.Rehabilitation" BackgroundColor="#ffdf90">
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
-                <Label Text="非藥物治療" Padding="0, 0" HorizontalOptions="CenterAndExpand" CharacterSpacing="3" HorizontalTextAlignment="Center" FontSize="33" TextColor="White"/>
+                <Label Text="非藥物治療" Padding="0, 15" HorizontalOptions="CenterAndExpand" CharacterSpacing="3" HorizontalTextAlignment="Center" FontSize="45"/>
                 <StackLayout Orientation="Horizontal">
-                    <Button Text="戒菸" x:Name="btn_smoke" ClassId="smoke" Clicked="BtnMenu_Clicked" BackgroundColor="#f78f8d" TextColor="#ffdf90" CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
-                    <Button Text="復健" x:Name="btn_rehabilitation" ClassId="rehabilitation" Clicked="BtnMenu_Clicked" BackgroundColor="#f78f8d" TextColor="#ffdf90" CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
-                    <Button Text="營養" x:Name="btn_nutrition" ClassId="nutrition" Clicked="BtnMenu_Clicked" BackgroundColor="#f78f8d" TextColor="#ffdf90" CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
+                    <Button Text="戒菸" x:Name="btn_smoke" ClassId="smoke" Clicked="BtnMenu_Clicked" FontSize="20" BackgroundColor="#f78f8d" TextColor="White" CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
+                    <Button Text="復健" x:Name="btn_rehabilitation" ClassId="rehabilitation" FontSize="20" Clicked="BtnMenu_Clicked" BackgroundColor="#f78f8d" TextColor="White" CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
+                    <Button Text="營養" x:Name="btn_nutrition" ClassId="nutrition" FontSize="20" Clicked="BtnMenu_Clicked" BackgroundColor="#f78f8d" TextColor="White" CornerRadius="15" HorizontalOptions="CenterAndExpand"/>
                 </StackLayout>
                 <Image x:Name="imgView" HeightRequest="300" WidthRequest="300"></Image>
                 <StackLayout Orientation="Horizontal" x:Name="buttonGrid" IsVisible="False">
-                    <Button Text="上一步" x:Name="btnPrev" Clicked="BtnPrev_Clicked" BackgroundColor="#ffdf90" TextColor="White" HorizontalOptions="CenterAndExpand" IsEnabled="False"/>
-                    <Button Text="下一步" x:Name="btnNext" Clicked="BtnNext_Clicked" BackgroundColor="#ffdf90" TextColor="White" HorizontalOptions="CenterAndExpand"/>
+                    <Button Text="上一步" x:Name="btnPrev" Clicked="BtnPrev_Clicked" FontSize="20" BackgroundColor="#46ebcd" TextColor="White" HorizontalOptions="CenterAndExpand" CornerRadius="40" IsEnabled="False"/>
+                    <Button Text="下一步" x:Name="btnNext" Clicked="BtnNext_Clicked" FontSize="20" BackgroundColor="#46ebcd" TextColor="White" HorizontalOptions="CenterAndExpand" CornerRadius="40"/>
                 </StackLayout>
             </StackLayout>
         </ScrollView>

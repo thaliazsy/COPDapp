@@ -4,12 +4,12 @@
              x:Class="COPDapp.MainPage" 
              xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
              Padding="0,40,0,0"
-             BackgroundColor="#46ebcd">
+             BackgroundColor="#ffdf90">
 
     <ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
         <StackLayout>
             <!-- Place new controls here -->
-            <Grid Margin="0,0,0,0">
+            <Grid Margin="0,0,0,0" VerticalOptions="Center">
                 <StackLayout Margin="10,0,10,0" Spacing="35">
                     <Image
                         HeightRequest="30"

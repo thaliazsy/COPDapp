@@ -15,7 +15,6 @@ namespace COPDapp
         public EducationVideo(string video)
         {
             InitializeComponent();
-            header.TextColor = Color.White;
             header.FontSize = 40;
             switch (video)
             {
