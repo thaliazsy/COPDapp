@@ -86,7 +86,7 @@
                             <StackLayout>
                                 <ImageButton Source="button_therapy"
 					            x:Name="button_therapy"
-					            BackgroundColor="#f68e8d"
+					            BackgroundColor="#ffe090"
                                 WidthRequest="100"
 					            HeightRequest="100"
 					            Padding="10"
@@ -116,7 +116,7 @@
                             <StackLayout>
                                 <ImageButton Source="button_decision"
 					            x:Name="button_decision"
-					            BackgroundColor="#ffe090"
+					            BackgroundColor="#b3e5a0"
                                 WidthRequest="100"
 					            HeightRequest="100"
                                 Padding="0"
@@ -174,7 +174,7 @@
                             <StackLayout>
                                 <ImageButton Source="button_qna"
 					            x:Name="button_qna"
-					            BackgroundColor="#b3e5a0"
+					            BackgroundColor="#f68e8d"
                                 WidthRequest="100"
 					            HeightRequest="100"
                                 Padding="10"
