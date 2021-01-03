@@ -33,22 +33,27 @@ namespace COPDapp
                 case "aboutCOPD":
                     header.Text = "關於肺阻塞";
                     videoBox.Source  = "https://www.tspccm.org.tw/streaming/doc/3/3c1c056316fda357/video/video_src.mp4";
+                    videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
                 case "acuteExacerbation":
                     header.Text = "急性惡化的徵兆及處理";
                     videoBox.Source = "https://www.tspccm.org.tw/streaming/doc/b/b6a59bcd633ce7ff/video/video.mp4";
+                    videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
                 case "comorbidity":
                     header.Text = "肺阻塞的共病症";
                     videoBox.Source = "https://www.tspccm.org.tw/streaming/doc/f/fc4490d535047e0c/video/video.mp4";
+                    videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
                 case "mucusRemoval":
                     header.Text = "呼吸道痰液清除方法";
                     videoBox.Source  = "https://www.tspccm.org.tw/streaming/doc/0/051996c4dea5d7b0/video/video_src.mp4";
+                    videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
                 case "oxygenTherapy":
                     header.Text = "居家氧氣治療";
                     videoBox.Source  = "https://www.tspccm.org.tw/streaming/doc/6/64d5751294545ba4/video/video_src.mp4";
+                    videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
                 case "breezehaler":
                     header.Text = "藥物 Breezehaler";
