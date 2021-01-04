@@ -7194,7 +7194,6 @@ namespace COPDapp.Droid
 			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingEnd = global::COPDapp.Droid.Resource.Styleable.View_paddingEnd;
 			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingStart = global::COPDapp.Droid.Resource.Styleable.View_paddingStart;
 			global::Xamarin.Forms.Platform.Resource.Styleable.View_theme = global::COPDapp.Droid.Resource.Styleable.View_theme;
-			global::Xamd.ImageCarousel.Forms.Plugin.Droid.Resource.String.library_name = global::COPDapp.Droid.Resource.String.library_name;
 		}
 		
 		public partial class Animation
@@ -11432,9 +11431,6 @@ namespace COPDapp.Droid
 			
 			// aapt resource value: 0x7F15002E
 			public const int hide_bottom_view_on_scroll_behavior = 2132082734;
-			
-			// aapt resource value: 0x7F070059
-			public const int library_name = 2131165273;
 			
 			// aapt resource value: 0x7F15002F
 			public const int mtrl_chip_close_icon_content_description = 2132082735;

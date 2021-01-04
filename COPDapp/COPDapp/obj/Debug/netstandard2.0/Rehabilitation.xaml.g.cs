@@ -26,15 +26,11 @@ namespace COPDapp {
         private global::Xamarin.Forms.Button btn_nutrition;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
-        private global::Xamd.ImageCarousel.Forms.Plugin.Abstractions.ImageCarousel imgSlider;
-        
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Rehabilitation));
             btn_smoke = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn_smoke");
             btn_rehabilitation = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn_rehabilitation");
             btn_nutrition = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "btn_nutrition");
-            imgSlider = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamd.ImageCarousel.Forms.Plugin.Abstractions.ImageCarousel>(this, "imgSlider");
         }
     }
 }

@@ -691,6 +691,8 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\System.
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\Mono.Security.pdb
+C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\COPDapp.Android.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\COPDapp.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
@@ -716,12 +718,6 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\link
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\System.Web.Services.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\Mono.Security.pdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\bin\Debug\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\COPDapp.Android.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\COPDapp.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
@@ -747,5 +743,3 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\andr
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll.mdb
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\Xamd.ImageCarousel.Forms.Plugin.Droid.dll.mdb

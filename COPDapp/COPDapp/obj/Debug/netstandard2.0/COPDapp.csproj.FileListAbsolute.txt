@@ -28,7 +28,6 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\HealthEducation.xaml.g.cs
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\Rehabilitation.xaml.g.cs
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\SharedDecisionMaking.xaml.g.cs
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\COPDapp.csproj.CoreCompileInputs.cache
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\COPDapp.AssemblyInfoInputs.cache
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\COPDapp.AssemblyInfo.cs
@@ -36,3 +35,4 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\ref\COPDapp.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\COPDapp.pdb
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp\obj\Debug\netstandard2.0\slideshowDisplay.xaml.g.cs

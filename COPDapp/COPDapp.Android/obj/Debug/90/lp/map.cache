@@ -46,6 +46,4 @@ Xamarin.Forms.PancakeView
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
-Xamd.ImageCarousel.Forms.Plugin.Abstractions
-Xamd.ImageCarousel.Forms.Plugin.Droid
 netstandard

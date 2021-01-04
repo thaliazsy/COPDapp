@@ -10,7 +10,7 @@ namespace COPDapp
         {
             Device.SetFlags(new string[] { "MediaElement_Experimental" });
             InitializeComponent();
-            MainPage = new Rehabilitation();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()

@@ -55,8 +55,6 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\andr
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Xamd.ImageCarousel.Forms.Plugin.Droid.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\netstandard.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Data.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Transactions.dll
@@ -67,11 +65,5 @@ C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\andr
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Web.Services.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Runtime.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\Mono.Security.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.ObjectModel.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Threading.Tasks.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
-C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\android\assets\System.Reflection.dll
 C:\Users\user\Documents\GitHub\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\linksrc\ru\Xam.Forms.VideoPlayer.Android.resources.dll

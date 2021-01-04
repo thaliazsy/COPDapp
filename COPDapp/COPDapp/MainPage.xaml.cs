@@ -31,7 +31,11 @@ namespace COPDapp
             }
             else if (sen == sen.FindByName("button_decision"))
             {
-                var page = new NavigationPage(new SharedDecisionMaking());
+                String[] imgsrc = new String[] { "sdm_1.png", "sdm_2.png", "sdm_3.png", "sdm_4.png", "sdm_5.png", "sdm_6.png", "sdm_7.png", "sdm_8.png",
+                "sdm_9.png", "sdm_10.png", "sdm_11.png", "sdm_12.png", "sdm_13.png", "sdm_14.png", "sdm_15.png", "sdm_16.png", "sdm_17.png", "sdm_18.png", "sdm_19.png",
+                "sdm_20.png", "sdm_21.png", "sdm_22.png", "sdm_23.png", "sdm_24.png", "sdm_25.png"};
+
+                var page = new NavigationPage(new slideshowDisplay(imgsrc));
                 Navigation.PushModalAsync(page);
             }
             else if (sen == sen.FindByName("button_drug"))
