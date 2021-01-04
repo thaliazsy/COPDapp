@@ -54,7 +54,7 @@
 				        CornerRadius="15"
 				        Elevation="3">
                             <StackLayout>
-                                <ImageButton Source="button_edu"  
+                                <ImageButton Source="button_edu"
 					            x:Name="button_edu"
                                 BackgroundColor="#a2e1db"
 					            WidthRequest="100"

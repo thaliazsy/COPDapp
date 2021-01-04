@@ -110,6 +110,26 @@ namespace COPDapp
             }
         }
 
+        void OnMediaOpened(object sender, EventArgs e)
+        {
+            alert.Text = "";
+        }
+
+        void OnMediaFailed(object sender, EventArgs e)
+        {
+            alert.TextColor = Color.Red;
+            alert.Text = "影片載入失敗，請重新載入。";
+        }
+
+        void OnMediaEnded(object sender, EventArgs e)
+        {
+
+        }
+
+        void OnSeekCompleted(object sender, EventArgs e)
+        {
+
+        }
         private void Home_Activated(object sender, EventArgs e)
         {
             foreach (Page page in Navigation.ModalStack)

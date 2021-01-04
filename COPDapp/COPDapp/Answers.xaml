@@ -36,7 +36,6 @@
                     <StackLayout x:Name="answerContainer">
                         <Label VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" 
                                FontSize="25" Text="A：" />
-                        <Image WidthRequest="100" Source="a1.jpg" />
                         <Label x:Name="textContent" 
                                FontSize="25"
                                HorizontalOptions="CenterAndExpand"
@@ -44,7 +43,6 @@
                                Text=""
                                TextColor="Black"
                                VerticalOptions="CenterAndExpand" />
-                        <WebView Source="a1.html" x:Name="answerContent" WidthRequest="1000" HeightRequest="1000"></WebView>
                     </StackLayout>
                 </yummy:PancakeView>
                 <yummy:PancakeView
