@@ -1,8 +1,5 @@
-COPDapp
 FormsViewGroup
-System.Runtime
 Xam.Forms.VideoPlayer.Android
-Xam.Forms.VideoPlayer
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime
 Xamarin.Android.Arch.Lifecycle.Common
@@ -41,11 +38,7 @@ Xamarin.Android.Support.Vector.Drawable
 Xamarin.Android.Support.VersionedParcelable
 Xamarin.Android.Support.ViewPager
 Xamarin.Essentials
-Xamarin.Forms.Core
 Xamarin.Forms.PancakeView
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
-Xamarin.Forms.Xaml
-Xamd.ImageCarousel.Forms.Plugin.Abstractions
 Xamd.ImageCarousel.Forms.Plugin.Droid
-netstandard

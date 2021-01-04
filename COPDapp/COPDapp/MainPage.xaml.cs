@@ -39,6 +39,11 @@ namespace COPDapp
                 var page = new NavigationPage(new Drug());
                 Navigation.PushModalAsync(page);
             }
+            else if (sen == sen.FindByName("button_qna"))
+            {
+                var page = new NavigationPage(new QnA());
+                Navigation.PushModalAsync(page);
+            }
         }
     }
 }

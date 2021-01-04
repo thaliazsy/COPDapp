@@ -35,6 +35,7 @@ resources;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\
 resources;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\values\attrs.xml
 resources;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\values\strings.xml
 resources;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
+resources;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\43\jl\res\values\strings.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\styles.xml
 set;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml
@@ -43,6 +44,7 @@ set;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\
 set;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\anim\exittoright.xml
 string;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\1\jl\res\values\strings.xml
 string;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\values\strings.xml
+string;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\43\jl\res\values\strings.xml
 style;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\values\styles.xml
 style;obj\Debug\90\res\values\styles.xml
 translate;C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.Android\obj\Debug\90\lp\41\jl\res\anim\enterfromleft.xml

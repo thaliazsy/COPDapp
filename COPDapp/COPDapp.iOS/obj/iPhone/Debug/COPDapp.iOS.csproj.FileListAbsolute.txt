@@ -44,6 +44,8 @@ C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\zh-HK\X
 C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\Xamd.ImageCarousel.Forms.Plugin.Abstractions.dll
+C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\Xamd.ImageCarousel.Forms.Plugin.iOS.dll
 C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\COPDapp.dll
 C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
 C:\Users\thali\source\repos\COPDapp\COPDapp\COPDapp.iOS\bin\iPhone\Debug\COPDapp.pdb
