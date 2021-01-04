@@ -56,7 +56,7 @@
                             <StackLayout>
                                 <ImageButton Source="button_edu"  
 					            x:Name="button_edu"
-                                BackgroundColor="#46ebcd"
+                                BackgroundColor="#a2e1db"
 					            WidthRequest="100"
 					            HeightRequest="100"
                                 Padding="0"
@@ -73,10 +73,67 @@
 						        VerticalOptions="CenterAndExpand" />
                             </StackLayout>
                         </yummy:PancakeView>
-
+                        <yummy:PancakeView
+				        Grid.Row="0"
+				        Grid.Column="1"
+				        Padding="10"
+                        x:Name="grid_selfAsses"   
+                        BackgroundColor="White"   
+				        BorderThickness="1"
+				        CornerRadius="15"
+				        Elevation="3">
+                            <StackLayout>
+                                <ImageButton Source="button_selfAssesment"  
+					            x:Name="button_selfAsses"
+                                BackgroundColor="#feadb9"
+					            WidthRequest="100"
+					            HeightRequest="100"
+                                Padding="10"
+					            Aspect="AspectFit"
+                                Clicked="OnButtonClicked"
+                                CornerRadius="20" />
+                                <Label
+						        FontAttributes="Bold"
+						        FontSize="20"
+						        HorizontalOptions="CenterAndExpand"
+						        HorizontalTextAlignment="Center"
+						        Text="自我檢測"
+						        TextColor="Black"
+						        VerticalOptions="CenterAndExpand" />
+                            </StackLayout>
+                        </yummy:PancakeView>
+                        <yummy:PancakeView
+				        x:Name="grid_drug"
+                        Grid.Row="1"
+				        Grid.Column="0"
+				        Padding="10"
+				        BackgroundColor="White"
+				        BorderThickness="1"
+				        CornerRadius="15"
+				        Elevation="3">
+                            <StackLayout>
+                                <ImageButton Source="button_drug"
+					            x:Name="button_drug"
+					            BackgroundColor="#a2b6d7"
+                                WidthRequest="100"
+					            HeightRequest="100"
+                                Padding="10"
+					            Aspect="AspectFit"
+                                Clicked="OnButtonClicked"
+                                CornerRadius="20" />
+                                <Label
+						FontAttributes="Bold"
+						FontSize="20"
+						HorizontalOptions="CenterAndExpand"
+						HorizontalTextAlignment="Center"
+						Text="藥物治療"
+						TextColor="Black"
+						VerticalOptions="CenterAndExpand" />
+                            </StackLayout>
+                        </yummy:PancakeView>
                         <yummy:PancakeView
 				        x:Name="grid_therapy"
-                        Grid.Row="0"
+                        Grid.Row="1"
 				        Grid.Column="1"
 				        Padding="10"
 				        BackgroundColor="White"
@@ -106,7 +163,7 @@
 
                         <yummy:PancakeView
 				        x:Name="grid_decision"
-                        Grid.Row="1"
+                        Grid.Row="2"
 				        Grid.Column="0"
 				        Padding="10"
 				        BackgroundColor="White"
@@ -133,39 +190,11 @@
                                 Text="SDM 共同決策"/>
                             </StackLayout>
                         </yummy:PancakeView>
-                        <yummy:PancakeView
-				        x:Name="grid_drug"
-                        Grid.Row="1"
-				        Grid.Column="1"
-				        Padding="10"
-				        BackgroundColor="White"
-				        BorderThickness="1"
-				        CornerRadius="15"
-				        Elevation="3">
-                            <StackLayout>
-                                <ImageButton Source="button_drug"
-					            x:Name="button_drug"
-					            BackgroundColor="#a2b6d7"
-                                WidthRequest="100"
-					            HeightRequest="100"
-                                Padding="10"
-					            Aspect="AspectFit"
-                                Clicked="OnButtonClicked"
-                                CornerRadius="20" />
-                                <Label
-						FontAttributes="Bold"
-						FontSize="20"
-						HorizontalOptions="CenterAndExpand"
-						HorizontalTextAlignment="Center"
-						Text="藥物治療"
-						TextColor="Black"
-						VerticalOptions="CenterAndExpand" />
-                            </StackLayout>
-                        </yummy:PancakeView>
+                        
                         <yummy:PancakeView
 				        x:Name="grid_qna"
                         Grid.Row="2"
-				        Grid.Column="0"
+				        Grid.Column="1"
 				        Padding="10"
 				        BackgroundColor="White"
 				        BorderThickness="1"

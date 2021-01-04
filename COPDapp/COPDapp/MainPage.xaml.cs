@@ -24,6 +24,11 @@ namespace COPDapp
                 var page = new NavigationPage(new HealthEducation());
                 Navigation.PushModalAsync(page);
             }
+            else if (sen == sen.FindByName("button_selfAsses"))
+            {
+                var page = new NavigationPage(new SelfAssesment());
+                Navigation.PushModalAsync(page);
+            }
             else if (sen == sen.FindByName("button_therapy"))
             {
                 var page = new NavigationPage(new Rehabilitation());

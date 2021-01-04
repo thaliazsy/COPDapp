@@ -6,10 +6,12 @@
         <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <StackLayout VerticalOptions="Center">
-            <Label x:Name="header" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-            <MediaElement x:Name="videoBox" Source="http://203.64.84.218/copd/video/1_肺阻塞_自我檢測.mp4" HeightRequest="300" ShowsPlaybackControls="True" AutoPlay="True"/>
-            <Label x:Name="videoSource" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout VerticalOptions="Center">
+                <Label x:Name="header" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                <MediaElement x:Name="videoBox" Source="http://203.64.84.218/copd/video/1_肺阻塞_自我檢測.mp4" HeightRequest="300" ShowsPlaybackControls="True" AutoPlay="True"/>
+                <Label x:Name="videoSource" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
