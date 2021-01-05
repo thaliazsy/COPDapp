@@ -8,14 +8,14 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout VerticalOptions="Center">
-                <Label x:Name="header" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-                <MediaElement x:Name="videoBox" Source="http://203.64.84.218/copd/video/1_肺阻塞_自我檢測.mp4" HeightRequest="300" ShowsPlaybackControls="True" AutoPlay="True" 
+                <Label x:Name="header" Padding="20" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                <MediaElement x:Name="videoBox" Source="" HeightRequest="300" ShowsPlaybackControls="True" AutoPlay="True" 
                               MediaOpened="OnMediaOpened"
                   MediaFailed="OnMediaFailed"
                   MediaEnded="OnMediaEnded"
                   SeekCompleted="OnSeekCompleted"/>
-                <Label x:Name="alert" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Text="影片載入中，請稍後..." FontSize="30" />
-                <Label x:Name="videoSource" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                <Label x:Name="alert" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Text="影片載入中，請稍後..." FontSize="30" />
+                <Label x:Name="videoSource" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

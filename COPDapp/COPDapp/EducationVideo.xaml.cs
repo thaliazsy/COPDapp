@@ -67,7 +67,7 @@ namespace COPDapp
                     header.Text = "藥物 MDI with Spacer";
                     videoBox.Source = "http://203.64.84.218/copd/video/MDI_with_spacer.mp4";
                     break;
-                case "MDIWOspacer":
+                case "mdiWOspacer":
                     header.Text = "藥物 MDI without Spacer";
                     videoBox.Source = "http://203.64.84.218/copd/video/MDI_without_spacer.mp4";
                     break;
