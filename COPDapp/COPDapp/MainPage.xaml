@@ -3,8 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="COPDapp.MainPage" 
              xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
-             Padding="0,40,0,0"
-             BackgroundColor="#46ebcd">
+             BackgroundColor="#b3e5a0">
 
     <ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
         <StackLayout>
@@ -14,12 +13,14 @@
                     <Label
                         FontAttributes="Bold"
                         FontSize="28"
-                        HorizontalOptions="StartAndExpand"
                         TextColor="White"
-                        VerticalOptions="StartAndExpand"
+                        HorizontalOptions="StartAndExpand"
+                        VerticalOptions="CenterAndExpand"
+                        VerticalTextAlignment="Center"
                         WidthRequest="200"
                         x:Name="title"
-                        Text="Tzu Chi Hospital COPD APP"/>
+                        Text="Tzu Chi Hospital COPD APP">
+                    </Label>
                 </StackLayout>
                 <Image
                     HorizontalOptions="EndAndExpand"
@@ -215,7 +216,7 @@
 						FontSize="20"
 						HorizontalOptions="CenterAndExpand"
 						HorizontalTextAlignment="Center"
-						Text="QnA"
+						Text="Q&amp;A"
 						TextColor="Black"
 						VerticalOptions="CenterAndExpand" />
                             </StackLayout>

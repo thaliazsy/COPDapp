@@ -16,5 +16,13 @@ namespace COPDapp
         {
             InitializeComponent();
         }
+
+        private void Home_Activated(object sender, EventArgs e)
+        {
+            while (Navigation.ModalStack.Count > 0)
+            {
+                Navigation.PopModalAsync();
+            }
+        }
     }
 }

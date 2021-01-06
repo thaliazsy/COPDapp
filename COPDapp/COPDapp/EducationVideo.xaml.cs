@@ -112,13 +112,21 @@ namespace COPDapp
 
         void OnMediaOpened(object sender, EventArgs e)
         {
-            alert.Text = "";
+            ai_layout.IsVisible = false;
+            ai.IsRunning = false;
+            ai.IsEnabled = false;
+            ai.IsVisible = false;
         }
 
         void OnMediaFailed(object sender, EventArgs e)
         {
-            alert.TextColor = Color.Red;
-            alert.Text = "影片載入失敗，請重新載入。";
+            header.Text = header.Text + "\n影片載入失敗，請重新載入。";
+            header.TextColor= Color.Red;
+            ai_layout.IsVisible = false;
+            ai.IsRunning = false;
+            ai.IsEnabled = false;
+            ai.IsVisible = false;
+            
         }
 
         void OnMediaEnded(object sender, EventArgs e)

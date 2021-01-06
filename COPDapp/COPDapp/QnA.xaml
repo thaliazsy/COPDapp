@@ -10,13 +10,13 @@
             <!-- Main structure-->
             <Grid RowDefinitions="Auto,Auto,Auto" ColumnDefinitions="*,Auto" RowSpacing="0">
                 <!-- 2.1 Header-->
-                <StackLayout Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BackgroundColor="LightSalmon">
-                    <PanCake:PancakeView Grid.Row="0" CornerRadius="0,0,110,0" HeightRequest="150" BackgroundColor="#c8d2fa">
-                        <Label Text="衛教" VerticalOptions="Center" HorizontalOptions="Center" CharacterSpacing="3" HorizontalTextAlignment="Center" FontSize="33" TextColor="White"/>
+                <StackLayout Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" BackgroundColor="#ffdf90">
+                    <PanCake:PancakeView Grid.Row="0" CornerRadius="0,0,110,0" HeightRequest="150" BackgroundColor="#b3e5a0">
+                        <Label Text="Q&amp;A" VerticalOptions="Center" HorizontalOptions="Center" CharacterSpacing="3" HorizontalTextAlignment="Center" FontSize="40" FontAttributes="Bold" />
                     </PanCake:PancakeView>
                 </StackLayout>
 
-                <StackLayout Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" VerticalOptions="End" Spacing="0" BackgroundColor="#c8d2fa">
+                <StackLayout Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" VerticalOptions="End" Spacing="0" BackgroundColor="#b3e5a0">
                     <StackLayout.Resources>
                         <Style TargetType="ImageButton">
                             <Setter Property="VisualStateManager.VisualStateGroups">
@@ -38,7 +38,7 @@
                         </Style>
                     </StackLayout.Resources>
                     <PanCake:PancakeView Grid.Row="1" CornerRadius="0,90,0,0">
-                        <Grid RowDefinitions="Auto,Auto,Auto,Auto" VerticalOptions="Center" ColumnDefinitions="*, *" RowSpacing="0" Padding="15,50,15,10" BackgroundColor="LightSalmon">
+                        <Grid RowDefinitions="Auto,Auto,Auto,Auto" VerticalOptions="Center" ColumnDefinitions="*, *" RowSpacing="0" Padding="15,50,15,10" BackgroundColor="#ffdf90">
                             <ImageButton Grid.Row="0" Grid.Column="0" x:Name="q1" Clicked="OnButtonClicked" Source="q1" VerticalOptions="CenterAndExpand" />
                             <ImageButton Grid.Row="0" Grid.Column="1" x:Name="q2" Clicked="OnButtonClicked" Source="q2" VerticalOptions="CenterAndExpand" />
                             <ImageButton Grid.Row="1" Grid.Column="0" x:Name="q3" Clicked="OnButtonClicked" Source="q3" VerticalOptions="CenterAndExpand" />
@@ -53,7 +53,7 @@
                     </PanCake:PancakeView>
                 </StackLayout>
                 <!--Adding button corners -->
-                <PanCake:PancakeView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" CornerRadius="0,0,80,80" Margin="0,0,0,25" BackgroundColor="LightSalmon" HeightRequest="{OnPlatform Android='50', iOS='75'}"/>
+                <PanCake:PancakeView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" CornerRadius="0,0,80,80" Margin="0,0,0,25" BackgroundColor="#ffdf90" HeightRequest="{OnPlatform Android='50', iOS='75'}"/>
             </Grid>
         </ScrollView>
     </ContentPage.Content>

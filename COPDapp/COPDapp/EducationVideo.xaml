@@ -7,16 +7,21 @@
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout VerticalOptions="Center">
-                <Label x:Name="header" Padding="20" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-                <MediaElement x:Name="videoBox" Source="" HeightRequest="300" ShowsPlaybackControls="True" AutoPlay="True" 
-                              MediaOpened="OnMediaOpened"
-                  MediaFailed="OnMediaFailed"
-                  MediaEnded="OnMediaEnded"
-                  SeekCompleted="OnSeekCompleted"/>
-                <Label x:Name="alert" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Text="影片載入中，請稍後..." FontSize="30" />
-                <Label x:Name="videoSource" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-            </StackLayout>
+            <AbsoluteLayout HorizontalOptions="CenterAndExpand">
+                <StackLayout VerticalOptions="Center" HorizontalOptions="CenterAndExpand">
+                    <Label x:Name="header" Padding="20" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                    <MediaElement x:Name="videoBox" Source="" HeightRequest="300" ShowsPlaybackControls="True" AutoPlay="True" 
+                                  MediaOpened="OnMediaOpened"
+                                  MediaFailed="OnMediaFailed"
+                                  MediaEnded="OnMediaEnded"
+                                  SeekCompleted="OnSeekCompleted"/>
+                    <Label x:Name="videoSource" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                </StackLayout>
+                <StackLayout x:Name="ai_layout" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"
+                             BackgroundColor="Gray" Opacity="0.5">
+                    <ActivityIndicator x:Name="ai" IsRunning="True" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Color="Black"/>
+                </StackLayout>
+            </AbsoluteLayout>
         </ScrollView>
     </ContentPage.Content>
 </ContentPage>
