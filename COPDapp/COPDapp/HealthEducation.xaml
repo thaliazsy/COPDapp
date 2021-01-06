@@ -20,16 +20,16 @@
 
                 <StackLayout Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" VerticalOptions="End" BackgroundColor="#b3e5a0">
                     <PanCake:PancakeView Grid.Row="1" CornerRadius="0,90,0,0">
-                        <Grid RowDefinitions="Auto,Auto,Auto,Auto" VerticalOptions="Center" ColumnDefinitions="*, *" Padding="15,50,15,10" BackgroundColor="White">
-                            <Button Grid.Row="0" Grid.Column="0" x:Name="btn_selfAsses" Clicked="OnButtonClicked" Text="自我檢測" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                            <Button Grid.Row="0" Grid.Column="1" x:Name="btn_prevention" Clicked="OnButtonClicked" Text="預防與治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                            <Button Grid.Row="1" Grid.Column="0" x:Name="btn_vaccine" Clicked="OnButtonClicked" Text="非藥物治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                            <Button Grid.Row="1" Grid.Column="1" x:Name="btn_aboutCOPD" Clicked="OnButtonClicked" Text="關於肺阻塞" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                            <Button Grid.Row="2" Grid.Column="0" x:Name="btn_acuteExacerbation" Clicked="OnButtonClicked" Text="急性惡化的徵兆及處理" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                            <Button Grid.Row="2" Grid.Column="1" x:Name="btn_comorbidity" Clicked="OnButtonClicked" Text="肺阻塞的共病症" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                            <Button Grid.Row="3" Grid.Column="0" x:Name="btn_mucusRemoval" Clicked="OnButtonClicked" Text="呼吸道痰液清除方法" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                            <Button Grid.Row="3" Grid.Column="1" x:Name="btn_oxygenTherapy" Clicked="OnButtonClicked" Text="居家氧氣治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5"/>
-                        </Grid>
+                        <StackLayout VerticalOptions="Center" Padding="15,50,15,10" BackgroundColor="White">
+                            <Button x:Name="btn_selfAsses" Clicked="OnButtonClicked" Text="自我檢測" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_prevention" Clicked="OnButtonClicked" Text="預防與治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_vaccine" Clicked="OnButtonClicked" Text="非藥物治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_aboutCOPD" Clicked="OnButtonClicked" Text="關於肺阻塞" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_acuteExacerbation" Clicked="OnButtonClicked" Text="急性惡化的徵兆及處理" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_comorbidity" Clicked="OnButtonClicked" Text="肺阻塞的共病症" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_mucusRemoval" Clicked="OnButtonClicked" Text="呼吸道痰液清除方法" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_oxygenTherapy" Clicked="OnButtonClicked" Text="居家氧氣治療" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                        </StackLayout>
                     </PanCake:PancakeView>
                 </StackLayout>
                 <!--Adding button corners -->

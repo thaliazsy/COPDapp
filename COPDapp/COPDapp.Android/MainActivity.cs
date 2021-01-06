@@ -15,7 +15,18 @@ namespace COPDapp.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
-            
+
+            Xamarin.Forms.MessagingCenter.Subscribe<EducationVideo>(this, "OnlyLandscape", sender =>
+            {
+                RequestedOrientation = ScreenOrientation.Landscape;
+            });
+
+            Xamarin.Forms.MessagingCenter.Subscribe<EducationVideo>(this, "Unspecified", sender =>
+            {
+                RequestedOrientation = ScreenOrientation.Portrait;
+                RequestedOrientation = ScreenOrientation.Unspecified;
+            });
+
             base.OnCreate(savedInstanceState);
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);

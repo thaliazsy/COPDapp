@@ -37,9 +37,9 @@
                 <StackLayout>
                     <Grid Margin="5" ColumnSpacing="20" RowSpacing="50">
                         <Grid.RowDefinitions>
-                            <RowDefinition Height="170" />
-                            <RowDefinition Height="170" />
-                            <RowDefinition Height="170" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
                         </Grid.RowDefinitions>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />

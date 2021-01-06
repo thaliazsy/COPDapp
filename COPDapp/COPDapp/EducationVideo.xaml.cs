@@ -19,11 +19,11 @@ namespace COPDapp
             switch (video)
             {
                 case "selfAsses":
-                    header.Text = "肺阻塞 自我檢測";
+                    header.Text = "自我檢測";
                     videoBox.Source = "http://203.64.84.218/copd/video/1_肺阻塞_自我檢測.mp4";
                     break;
                 case "prevention":
-                    header.Text = "肺阻塞 預防改善";
+                    header.Text = "預防改善";
                     videoBox.Source = "http://203.64.84.218/copd/video/2_肺阻塞_預防改善.mp4";
                     break;
                 case "vaccine":
@@ -90,24 +90,16 @@ namespace COPDapp
             }
         }
 
-        private double width = 0;
-        private double height = 0;
-        protected override void OnSizeAllocated(double width, double height)
+        protected override void OnAppearing()
         {
-            base.OnSizeAllocated(width, height);
-            if (width != this.width || height != this.height)
-            {
-                this.width = width;
-                this.height = height;
-                if (width > height)
-                {
-                    videoBox.HorizontalOptions = LayoutOptions.CenterAndExpand;
-                }
-                else
-                {
-                    videoBox.VerticalOptions = LayoutOptions.CenterAndExpand;
-                }
-            }
+            base.OnAppearing();
+            MessagingCenter.Send(this, "OnlyLandscape");
+        }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            MessagingCenter.Send(this, "Unspecified");
         }
 
         void OnMediaOpened(object sender, EventArgs e)
@@ -120,30 +112,11 @@ namespace COPDapp
 
         void OnMediaFailed(object sender, EventArgs e)
         {
-            header.Text = header.Text + "\n影片載入失敗，請重新載入。";
+            header.Text += "\n影片載入失敗，請重新載入。";
             header.TextColor= Color.Red;
-            ai_layout.IsVisible = false;
             ai.IsRunning = false;
             ai.IsEnabled = false;
             ai.IsVisible = false;
-            
-        }
-
-        void OnMediaEnded(object sender, EventArgs e)
-        {
-
-        }
-
-        void OnSeekCompleted(object sender, EventArgs e)
-        {
-
-        }
-        private void Home_Activated(object sender, EventArgs e)
-        {
-            while (Navigation.ModalStack.Count > 0)
-            {
-                Navigation.PopModalAsync();
-            }
         }
     }
 

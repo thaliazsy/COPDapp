@@ -1,27 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             NavigationPage.HasNavigationBar="False"
              x:Class="COPDapp.EducationVideo" BackgroundColor="#dff4d7">
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
-    </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <ScrollView>
-            <AbsoluteLayout HorizontalOptions="CenterAndExpand">
-                <StackLayout VerticalOptions="Center" HorizontalOptions="CenterAndExpand">
-                    <Label x:Name="header" Padding="20" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-                    <MediaElement x:Name="videoBox" Source="" HeightRequest="300" ShowsPlaybackControls="True" AutoPlay="True" 
-                                  MediaOpened="OnMediaOpened"
-                                  MediaFailed="OnMediaFailed"
-                                  MediaEnded="OnMediaEnded"
-                                  SeekCompleted="OnSeekCompleted"/>
-                    <Label x:Name="videoSource" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
-                </StackLayout>
-                <StackLayout x:Name="ai_layout" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"
-                             BackgroundColor="Gray" Opacity="0.5">
-                    <ActivityIndicator x:Name="ai" IsRunning="True" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Color="Black"/>
-                </StackLayout>
-            </AbsoluteLayout>
-        </ScrollView>
+        <AbsoluteLayout HorizontalOptions="FillAndExpand">
+            <MediaElement x:Name="videoBox" ShowsPlaybackControls="True" AutoPlay="True" KeepScreenOn="True"
+                          AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"
+                          MediaOpened="OnMediaOpened" MediaFailed="OnMediaFailed" />
+            
+            <StackLayout x:Name="ai_layout" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"
+                         BackgroundColor="White" Opacity="0.5">
+                <Label x:Name="header" Padding="20" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                <ActivityIndicator x:Name="ai" IsRunning="True" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Color="Black"/>
+                <Label x:Name="videoSource" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+                
+            </StackLayout>
+            
+        </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>
