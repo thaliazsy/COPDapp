@@ -16,75 +16,61 @@ namespace COPDapp
         {
             InitializeComponent();
             header.FontSize = 40;
+            header.Text = video;
             switch (video)
             {
-                case "selfAsses":
-                    header.Text = "自我檢測";
+                case "自我檢測":
                     videoBox.Source = "http://203.64.84.218/copd/video/1_肺阻塞_自我檢測.mp4";
                     break;
-                case "prevention":
-                    header.Text = "預防改善";
+                case "預防改善":
                     videoBox.Source = "http://203.64.84.218/copd/video/2_肺阻塞_預防改善.mp4";
                     break;
-                case "vaccine":
-                    header.Text = "疫苗施打";
+                case "疫苗施打":
                     videoBox.Source  = "http://203.64.84.218/copd/video/3_疫苗施打.mp4";
                     break;
-                case "aboutCOPD":
-                    header.Text = "關於肺阻塞";
+                case "關於肺阻塞":
                     videoBox.Source  = "https://www.tspccm.org.tw/streaming/doc/3/3c1c056316fda357/video/video_src.mp4";
                     videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
-                case "acuteExacerbation":
-                    header.Text = "急性惡化的徵兆及處理";
+                case "急性惡化的徵兆及處理":
                     videoBox.Source = "https://www.tspccm.org.tw/streaming/doc/b/b6a59bcd633ce7ff/video/video.mp4";
                     videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
-                case "comorbidity":
-                    header.Text = "肺阻塞的共病症";
+                case "肺阻塞的共病症":
                     videoBox.Source = "https://www.tspccm.org.tw/streaming/doc/f/fc4490d535047e0c/video/video.mp4";
                     videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
-                case "mucusRemoval":
-                    header.Text = "呼吸道痰液清除方法";
+                case "呼吸道痰液清除方法":
                     videoBox.Source  = "https://www.tspccm.org.tw/streaming/doc/0/051996c4dea5d7b0/video/video_src.mp4";
                     videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
-                case "oxygenTherapy":
+                case "居家氧氣治療":
                     header.Text = "居家氧氣治療";
                     videoBox.Source  = "https://www.tspccm.org.tw/streaming/doc/6/64d5751294545ba4/video/video_src.mp4";
                     videoSource.Text = "影片來源：台灣胸腔暨重症加護醫學會";
                     break;
-                case "breezehaler":
-                    header.Text = "藥物 Breezehaler";
+                case "Breezehaler":
                     videoBox.Source = "http://203.64.84.218/copd/video/breezehaler.mp4";
                     break;
-                case "ellipta":
-                    header.Text = "藥物 Ellipta";
+                case "Ellipta":
                     videoBox.Source = "http://203.64.84.218/copd/video/Ellipta.mp4";
                     break;
-                case "mdiWspacer":
-                    header.Text = "藥物 MDI with Spacer";
+                case "MDI With Spacer":
                     videoBox.Source = "http://203.64.84.218/copd/video/MDI_with_spacer.mp4";
                     break;
-                case "mdiWOspacer":
-                    header.Text = "藥物 MDI without Spacer";
+                case "MDI Without Spacer":
                     videoBox.Source = "http://203.64.84.218/copd/video/MDI_without_spacer.mp4";
                     break;
-                case "respimat":
-                    header.Text = "藥物 Respimat";
+                case "Respimat":
                     videoBox.Source = "http://203.64.84.218/copd/video/Respimat.mp4";
                     break;
-                case "turbuhaler":
-                    header.Text = "藥物 Turbuhaler";
+                case "Turbuhaler":
                     videoBox.Source = "http://203.64.84.218/copd/video/Turbuhaler.mp4";
                     break;
-                case "rehabilitation":
-                    header.Text = "復健";
+                case "復健":
                     videoBox.Source = "http://203.64.84.218/copd/video/what_is_COPD.mp4";
                     break;
-                case "nutrition":
-                    header.Text = "營養";
+                case "營養":
                     videoBox.Source = "http://203.64.84.218/copd/video/DietaryPrinciples.mp4";
                     break;
             }

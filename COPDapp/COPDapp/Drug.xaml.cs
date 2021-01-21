@@ -20,33 +20,7 @@ namespace COPDapp
         private void OnButtonClicked(object sender, EventArgs args)
         {
             Button sen = (Button)sender;
-            //label1.Text = sen.Text.ToString();
-            string video="";
-            if (sen == sen.FindByName("btn_breezehaler"))
-            {
-                video = "breezehaler";
-            }
-            else if (sen == sen.FindByName("btn_ellipta"))
-            {
-                video = "ellipta";
-            }
-            else if (sen == sen.FindByName("btn_mdiWspacer"))
-            {
-                video = "mdiWspacer";
-            }
-            else if (sen == sen.FindByName("btn_mdiWOspacer"))
-            {
-                video = "mdiWOspacer";
-            }
-            else if (sen == sen.FindByName("btn_respimat"))
-            {
-                video = "respimat";
-            }
-            else if (sen == sen.FindByName("btn_turbuhaler"))
-            {
-                video = "turbuhaler";
-            }
-            var page = new NavigationPage(new EducationVideo(video));
+            var page = new NavigationPage(new EducationVideo(sen.Text));
             Navigation.PushModalAsync(page);
         }
 

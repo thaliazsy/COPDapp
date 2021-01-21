@@ -12,56 +12,18 @@ namespace COPDapp
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class HealthEducation : ContentPage
     {
-        public HealthEducation()
-        {
+        public HealthEducation(){
             InitializeComponent();
         }
 
-        private void OnButtonClicked(object sender, EventArgs args)
-        {
+        private void OnButtonClicked(object sender, EventArgs args){        //點擊某一個按鈕時會執行以下的程式
             Button sen = (Button)sender;
-            string video="";
-            if (sen == sen.FindByName("btn_selfAsses"))  //self assesment video
-            {
-                video = "selfAsses";
-            }
-            else if (sen == sen.FindByName("btn_prevention")) //prevention video
-            {
-                video = "prevention";
-            }
-            else if (sen == sen.FindByName("btn_vaccine")) //vaccine video
-            {
-                video = "vaccine";
-            }
-            else if (sen == sen.FindByName("btn_aboutCOPD"))
-            {
-                video = "aboutCOPD";
-            }
-            else if (sen == sen.FindByName("btn_acuteExacerbation"))
-            {
-                video = "acuteExacerbation";
-            }
-            else if (sen == sen.FindByName("btn_comorbidity"))
-            {
-                video = "comorbidity";
-            }
-            else if (sen == sen.FindByName("btn_mucusRemoval"))
-            {
-                video = "mucusRemoval";
-            }
-            else if (sen == sen.FindByName("btn_oxygenTherapy"))
-            {
-                video = "oxygenTherapy";
-            }
-
-            var page = new NavigationPage(new EducationVideo(video));
+            var page = new NavigationPage(new EducationVideo(sen.Text));    //把 Button.text 傳到下一個頁面來顯示影片
             Navigation.PushModalAsync(page);
         }
 
-        private void Home_Activated(object sender, EventArgs e)
-        {
-            while (Navigation.ModalStack.Count > 0)
-            {
+        private void Home_Activated(object sender, EventArgs e){            //連到主頁面
+            while (Navigation.ModalStack.Count > 0){
                 Navigation.PopModalAsync();
             }
         }

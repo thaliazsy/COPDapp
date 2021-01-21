@@ -15,10 +15,10 @@ namespace COPDapp
 		public slideshowDisplay (String[] imgsrc)
 		{
 			InitializeComponent ();
-            carouselPPT.ItemsSource = imgsrc;
+            carouselPPT.ItemsSource = imgsrc;		//設定 CarouselView的資料來源
         }
 
-        private void Home_Activated(object sender, EventArgs e)
+        private void Home_Activated(object sender, EventArgs e)		//連到主頁面
         {
             while (Navigation.ModalStack.Count > 0)
             {
