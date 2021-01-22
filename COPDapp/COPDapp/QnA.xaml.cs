@@ -58,12 +58,12 @@ namespace COPDapp
             {
                 question = 9;
             }
-            else if (sen == sen.FindByName("q10"))
+            else if (sen == sen.FindByName("q10"))  //使用button的名稱Name來判斷
             {
                 question = 10;
             }
 
-            var page = new NavigationPage(new Answers(question));
+            var page = new NavigationPage(new Answers(question));   //傳到新的頁面
             Navigation.PushModalAsync(page);
         }
 
