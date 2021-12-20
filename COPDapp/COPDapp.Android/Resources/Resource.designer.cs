@@ -14,7 +14,7 @@ namespace COPDapp.Droid
 {
 	
 	
-	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "1.0.0.0")]
+	[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Android.Build.Tasks", "12.1.0.11")]
 	public partial class Resource
 	{
 		
@@ -25,1972 +25,6 @@ namespace COPDapp.Droid
 		
 		public static void UpdateIdValues()
 		{
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_fade_in = global::COPDapp.Droid.Resource.Animation.abc_fade_in;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_fade_out = global::COPDapp.Droid.Resource.Animation.abc_fade_out;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::COPDapp.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_popup_enter = global::COPDapp.Droid.Resource.Animation.abc_popup_enter;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_popup_exit = global::COPDapp.Droid.Resource.Animation.abc_popup_exit;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::COPDapp.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_slide_in_bottom = global::COPDapp.Droid.Resource.Animation.abc_slide_in_bottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_slide_in_top = global::COPDapp.Droid.Resource.Animation.abc_slide_in_top;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_slide_out_bottom = global::COPDapp.Droid.Resource.Animation.abc_slide_out_bottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.abc_slide_out_top = global::COPDapp.Droid.Resource.Animation.abc_slide_out_top;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.design_bottom_sheet_slide_in = global::COPDapp.Droid.Resource.Animation.design_bottom_sheet_slide_in;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.design_bottom_sheet_slide_out = global::COPDapp.Droid.Resource.Animation.design_bottom_sheet_slide_out;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.design_snackbar_in = global::COPDapp.Droid.Resource.Animation.design_snackbar_in;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.design_snackbar_out = global::COPDapp.Droid.Resource.Animation.design_snackbar_out;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.EnterFromLeft = global::COPDapp.Droid.Resource.Animation.EnterFromLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.EnterFromRight = global::COPDapp.Droid.Resource.Animation.EnterFromRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.ExitToLeft = global::COPDapp.Droid.Resource.Animation.ExitToLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animation.ExitToRight = global::COPDapp.Droid.Resource.Animation.ExitToRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Animator.design_appbar_state_list_animator = global::COPDapp.Droid.Resource.Animator.design_appbar_state_list_animator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarDivider = global::COPDapp.Droid.Resource.Attribute.actionBarDivider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarItemBackground = global::COPDapp.Droid.Resource.Attribute.actionBarItemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarPopupTheme = global::COPDapp.Droid.Resource.Attribute.actionBarPopupTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarSize = global::COPDapp.Droid.Resource.Attribute.actionBarSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarSplitStyle = global::COPDapp.Droid.Resource.Attribute.actionBarSplitStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarStyle = global::COPDapp.Droid.Resource.Attribute.actionBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarTabBarStyle = global::COPDapp.Droid.Resource.Attribute.actionBarTabBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarTabStyle = global::COPDapp.Droid.Resource.Attribute.actionBarTabStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarTabTextStyle = global::COPDapp.Droid.Resource.Attribute.actionBarTabTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarTheme = global::COPDapp.Droid.Resource.Attribute.actionBarTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionBarWidgetTheme = global::COPDapp.Droid.Resource.Attribute.actionBarWidgetTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionButtonStyle = global::COPDapp.Droid.Resource.Attribute.actionButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionDropDownStyle = global::COPDapp.Droid.Resource.Attribute.actionDropDownStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionLayout = global::COPDapp.Droid.Resource.Attribute.actionLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionMenuTextAppearance = global::COPDapp.Droid.Resource.Attribute.actionMenuTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionMenuTextColor = global::COPDapp.Droid.Resource.Attribute.actionMenuTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeBackground = global::COPDapp.Droid.Resource.Attribute.actionModeBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeCloseButtonStyle = global::COPDapp.Droid.Resource.Attribute.actionModeCloseButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeCloseDrawable = global::COPDapp.Droid.Resource.Attribute.actionModeCloseDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeCopyDrawable = global::COPDapp.Droid.Resource.Attribute.actionModeCopyDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeCutDrawable = global::COPDapp.Droid.Resource.Attribute.actionModeCutDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeFindDrawable = global::COPDapp.Droid.Resource.Attribute.actionModeFindDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModePasteDrawable = global::COPDapp.Droid.Resource.Attribute.actionModePasteDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModePopupWindowStyle = global::COPDapp.Droid.Resource.Attribute.actionModePopupWindowStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeSelectAllDrawable = global::COPDapp.Droid.Resource.Attribute.actionModeSelectAllDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeShareDrawable = global::COPDapp.Droid.Resource.Attribute.actionModeShareDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeSplitBackground = global::COPDapp.Droid.Resource.Attribute.actionModeSplitBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeStyle = global::COPDapp.Droid.Resource.Attribute.actionModeStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionModeWebSearchDrawable = global::COPDapp.Droid.Resource.Attribute.actionModeWebSearchDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionOverflowButtonStyle = global::COPDapp.Droid.Resource.Attribute.actionOverflowButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionOverflowMenuStyle = global::COPDapp.Droid.Resource.Attribute.actionOverflowMenuStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionProviderClass = global::COPDapp.Droid.Resource.Attribute.actionProviderClass;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.actionViewClass = global::COPDapp.Droid.Resource.Attribute.actionViewClass;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.activityChooserViewStyle = global::COPDapp.Droid.Resource.Attribute.activityChooserViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::COPDapp.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.alertDialogCenterButtons = global::COPDapp.Droid.Resource.Attribute.alertDialogCenterButtons;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.alertDialogStyle = global::COPDapp.Droid.Resource.Attribute.alertDialogStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.alertDialogTheme = global::COPDapp.Droid.Resource.Attribute.alertDialogTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.allowStacking = global::COPDapp.Droid.Resource.Attribute.allowStacking;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.alpha = global::COPDapp.Droid.Resource.Attribute.alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.alphabeticModifiers = global::COPDapp.Droid.Resource.Attribute.alphabeticModifiers;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.arrowHeadLength = global::COPDapp.Droid.Resource.Attribute.arrowHeadLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.arrowShaftLength = global::COPDapp.Droid.Resource.Attribute.arrowShaftLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.autoCompleteTextViewStyle = global::COPDapp.Droid.Resource.Attribute.autoCompleteTextViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.autoSizeMaxTextSize = global::COPDapp.Droid.Resource.Attribute.autoSizeMaxTextSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.autoSizeMinTextSize = global::COPDapp.Droid.Resource.Attribute.autoSizeMinTextSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.autoSizePresetSizes = global::COPDapp.Droid.Resource.Attribute.autoSizePresetSizes;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.autoSizeStepGranularity = global::COPDapp.Droid.Resource.Attribute.autoSizeStepGranularity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.autoSizeTextType = global::COPDapp.Droid.Resource.Attribute.autoSizeTextType;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.background = global::COPDapp.Droid.Resource.Attribute.background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.backgroundSplit = global::COPDapp.Droid.Resource.Attribute.backgroundSplit;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.backgroundStacked = global::COPDapp.Droid.Resource.Attribute.backgroundStacked;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.backgroundTint = global::COPDapp.Droid.Resource.Attribute.backgroundTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.backgroundTintMode = global::COPDapp.Droid.Resource.Attribute.backgroundTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.barLength = global::COPDapp.Droid.Resource.Attribute.barLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.behavior_autoHide = global::COPDapp.Droid.Resource.Attribute.behavior_autoHide;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.behavior_hideable = global::COPDapp.Droid.Resource.Attribute.behavior_hideable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.behavior_overlapTop = global::COPDapp.Droid.Resource.Attribute.behavior_overlapTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.behavior_peekHeight = global::COPDapp.Droid.Resource.Attribute.behavior_peekHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.behavior_skipCollapsed = global::COPDapp.Droid.Resource.Attribute.behavior_skipCollapsed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.borderWidth = global::COPDapp.Droid.Resource.Attribute.borderWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.borderlessButtonStyle = global::COPDapp.Droid.Resource.Attribute.borderlessButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.bottomSheetDialogTheme = global::COPDapp.Droid.Resource.Attribute.bottomSheetDialogTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.bottomSheetStyle = global::COPDapp.Droid.Resource.Attribute.bottomSheetStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonBarButtonStyle = global::COPDapp.Droid.Resource.Attribute.buttonBarButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::COPDapp.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::COPDapp.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::COPDapp.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonBarStyle = global::COPDapp.Droid.Resource.Attribute.buttonBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonGravity = global::COPDapp.Droid.Resource.Attribute.buttonGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonPanelSideLayout = global::COPDapp.Droid.Resource.Attribute.buttonPanelSideLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonStyle = global::COPDapp.Droid.Resource.Attribute.buttonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonStyleSmall = global::COPDapp.Droid.Resource.Attribute.buttonStyleSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonTint = global::COPDapp.Droid.Resource.Attribute.buttonTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.buttonTintMode = global::COPDapp.Droid.Resource.Attribute.buttonTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.cardBackgroundColor = global::COPDapp.Droid.Resource.Attribute.cardBackgroundColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.cardCornerRadius = global::COPDapp.Droid.Resource.Attribute.cardCornerRadius;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.cardElevation = global::COPDapp.Droid.Resource.Attribute.cardElevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.cardMaxElevation = global::COPDapp.Droid.Resource.Attribute.cardMaxElevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.cardPreventCornerOverlap = global::COPDapp.Droid.Resource.Attribute.cardPreventCornerOverlap;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.cardUseCompatPadding = global::COPDapp.Droid.Resource.Attribute.cardUseCompatPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.checkboxStyle = global::COPDapp.Droid.Resource.Attribute.checkboxStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.checkedTextViewStyle = global::COPDapp.Droid.Resource.Attribute.checkedTextViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.closeIcon = global::COPDapp.Droid.Resource.Attribute.closeIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.closeItemLayout = global::COPDapp.Droid.Resource.Attribute.closeItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.collapseContentDescription = global::COPDapp.Droid.Resource.Attribute.collapseContentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.collapseIcon = global::COPDapp.Droid.Resource.Attribute.collapseIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.collapsedTitleGravity = global::COPDapp.Droid.Resource.Attribute.collapsedTitleGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.collapsedTitleTextAppearance = global::COPDapp.Droid.Resource.Attribute.collapsedTitleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.color = global::COPDapp.Droid.Resource.Attribute.color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorAccent = global::COPDapp.Droid.Resource.Attribute.colorAccent;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorBackgroundFloating = global::COPDapp.Droid.Resource.Attribute.colorBackgroundFloating;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorButtonNormal = global::COPDapp.Droid.Resource.Attribute.colorButtonNormal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorControlActivated = global::COPDapp.Droid.Resource.Attribute.colorControlActivated;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorControlHighlight = global::COPDapp.Droid.Resource.Attribute.colorControlHighlight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorControlNormal = global::COPDapp.Droid.Resource.Attribute.colorControlNormal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorError = global::COPDapp.Droid.Resource.Attribute.colorError;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorPrimary = global::COPDapp.Droid.Resource.Attribute.colorPrimary;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorPrimaryDark = global::COPDapp.Droid.Resource.Attribute.colorPrimaryDark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.colorSwitchThumbNormal = global::COPDapp.Droid.Resource.Attribute.colorSwitchThumbNormal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.commitIcon = global::COPDapp.Droid.Resource.Attribute.commitIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentDescription = global::COPDapp.Droid.Resource.Attribute.contentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentInsetEnd = global::COPDapp.Droid.Resource.Attribute.contentInsetEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentInsetEndWithActions = global::COPDapp.Droid.Resource.Attribute.contentInsetEndWithActions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentInsetLeft = global::COPDapp.Droid.Resource.Attribute.contentInsetLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentInsetRight = global::COPDapp.Droid.Resource.Attribute.contentInsetRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentInsetStart = global::COPDapp.Droid.Resource.Attribute.contentInsetStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentInsetStartWithNavigation = global::COPDapp.Droid.Resource.Attribute.contentInsetStartWithNavigation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentPadding = global::COPDapp.Droid.Resource.Attribute.contentPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentPaddingBottom = global::COPDapp.Droid.Resource.Attribute.contentPaddingBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentPaddingLeft = global::COPDapp.Droid.Resource.Attribute.contentPaddingLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentPaddingRight = global::COPDapp.Droid.Resource.Attribute.contentPaddingRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentPaddingTop = global::COPDapp.Droid.Resource.Attribute.contentPaddingTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.contentScrim = global::COPDapp.Droid.Resource.Attribute.contentScrim;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.controlBackground = global::COPDapp.Droid.Resource.Attribute.controlBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.counterEnabled = global::COPDapp.Droid.Resource.Attribute.counterEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.counterMaxLength = global::COPDapp.Droid.Resource.Attribute.counterMaxLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.counterOverflowTextAppearance = global::COPDapp.Droid.Resource.Attribute.counterOverflowTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.counterTextAppearance = global::COPDapp.Droid.Resource.Attribute.counterTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.customNavigationLayout = global::COPDapp.Droid.Resource.Attribute.customNavigationLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.defaultQueryHint = global::COPDapp.Droid.Resource.Attribute.defaultQueryHint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.dialogPreferredPadding = global::COPDapp.Droid.Resource.Attribute.dialogPreferredPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.dialogTheme = global::COPDapp.Droid.Resource.Attribute.dialogTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.displayOptions = global::COPDapp.Droid.Resource.Attribute.displayOptions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.divider = global::COPDapp.Droid.Resource.Attribute.divider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.dividerHorizontal = global::COPDapp.Droid.Resource.Attribute.dividerHorizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.dividerPadding = global::COPDapp.Droid.Resource.Attribute.dividerPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.dividerVertical = global::COPDapp.Droid.Resource.Attribute.dividerVertical;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.drawableSize = global::COPDapp.Droid.Resource.Attribute.drawableSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.drawerArrowStyle = global::COPDapp.Droid.Resource.Attribute.drawerArrowStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.dropDownListViewStyle = global::COPDapp.Droid.Resource.Attribute.dropDownListViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::COPDapp.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.editTextBackground = global::COPDapp.Droid.Resource.Attribute.editTextBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.editTextColor = global::COPDapp.Droid.Resource.Attribute.editTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.editTextStyle = global::COPDapp.Droid.Resource.Attribute.editTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.elevation = global::COPDapp.Droid.Resource.Attribute.elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.errorEnabled = global::COPDapp.Droid.Resource.Attribute.errorEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.errorTextAppearance = global::COPDapp.Droid.Resource.Attribute.errorTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::COPDapp.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expanded = global::COPDapp.Droid.Resource.Attribute.expanded;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandedTitleGravity = global::COPDapp.Droid.Resource.Attribute.expandedTitleGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandedTitleMargin = global::COPDapp.Droid.Resource.Attribute.expandedTitleMargin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandedTitleMarginBottom = global::COPDapp.Droid.Resource.Attribute.expandedTitleMarginBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandedTitleMarginEnd = global::COPDapp.Droid.Resource.Attribute.expandedTitleMarginEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandedTitleMarginStart = global::COPDapp.Droid.Resource.Attribute.expandedTitleMarginStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandedTitleMarginTop = global::COPDapp.Droid.Resource.Attribute.expandedTitleMarginTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.expandedTitleTextAppearance = global::COPDapp.Droid.Resource.Attribute.expandedTitleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fabSize = global::COPDapp.Droid.Resource.Attribute.fabSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fastScrollEnabled = global::COPDapp.Droid.Resource.Attribute.fastScrollEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::COPDapp.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::COPDapp.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::COPDapp.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::COPDapp.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.font = global::COPDapp.Droid.Resource.Attribute.font;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontFamily = global::COPDapp.Droid.Resource.Attribute.fontFamily;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontProviderAuthority = global::COPDapp.Droid.Resource.Attribute.fontProviderAuthority;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontProviderCerts = global::COPDapp.Droid.Resource.Attribute.fontProviderCerts;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontProviderFetchStrategy = global::COPDapp.Droid.Resource.Attribute.fontProviderFetchStrategy;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontProviderFetchTimeout = global::COPDapp.Droid.Resource.Attribute.fontProviderFetchTimeout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontProviderPackage = global::COPDapp.Droid.Resource.Attribute.fontProviderPackage;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontProviderQuery = global::COPDapp.Droid.Resource.Attribute.fontProviderQuery;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontStyle = global::COPDapp.Droid.Resource.Attribute.fontStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.fontWeight = global::COPDapp.Droid.Resource.Attribute.fontWeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.foregroundInsidePadding = global::COPDapp.Droid.Resource.Attribute.foregroundInsidePadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.gapBetweenBars = global::COPDapp.Droid.Resource.Attribute.gapBetweenBars;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.goIcon = global::COPDapp.Droid.Resource.Attribute.goIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.headerLayout = global::COPDapp.Droid.Resource.Attribute.headerLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.height = global::COPDapp.Droid.Resource.Attribute.height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.hideOnContentScroll = global::COPDapp.Droid.Resource.Attribute.hideOnContentScroll;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.hintAnimationEnabled = global::COPDapp.Droid.Resource.Attribute.hintAnimationEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.hintEnabled = global::COPDapp.Droid.Resource.Attribute.hintEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.hintTextAppearance = global::COPDapp.Droid.Resource.Attribute.hintTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.homeAsUpIndicator = global::COPDapp.Droid.Resource.Attribute.homeAsUpIndicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.homeLayout = global::COPDapp.Droid.Resource.Attribute.homeLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.icon = global::COPDapp.Droid.Resource.Attribute.icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.iconTint = global::COPDapp.Droid.Resource.Attribute.iconTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.iconTintMode = global::COPDapp.Droid.Resource.Attribute.iconTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.iconifiedByDefault = global::COPDapp.Droid.Resource.Attribute.iconifiedByDefault;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.imageButtonStyle = global::COPDapp.Droid.Resource.Attribute.imageButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.indeterminateProgressStyle = global::COPDapp.Droid.Resource.Attribute.indeterminateProgressStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.initialActivityCount = global::COPDapp.Droid.Resource.Attribute.initialActivityCount;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.insetForeground = global::COPDapp.Droid.Resource.Attribute.insetForeground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.isLightTheme = global::COPDapp.Droid.Resource.Attribute.isLightTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.itemBackground = global::COPDapp.Droid.Resource.Attribute.itemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.itemIconTint = global::COPDapp.Droid.Resource.Attribute.itemIconTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.itemPadding = global::COPDapp.Droid.Resource.Attribute.itemPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.itemTextAppearance = global::COPDapp.Droid.Resource.Attribute.itemTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.itemTextColor = global::COPDapp.Droid.Resource.Attribute.itemTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.keylines = global::COPDapp.Droid.Resource.Attribute.keylines;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout = global::COPDapp.Droid.Resource.Attribute.layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layoutManager = global::COPDapp.Droid.Resource.Attribute.layoutManager;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_anchor = global::COPDapp.Droid.Resource.Attribute.layout_anchor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_anchorGravity = global::COPDapp.Droid.Resource.Attribute.layout_anchorGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_behavior = global::COPDapp.Droid.Resource.Attribute.layout_behavior;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_collapseMode = global::COPDapp.Droid.Resource.Attribute.layout_collapseMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::COPDapp.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_dodgeInsetEdges = global::COPDapp.Droid.Resource.Attribute.layout_dodgeInsetEdges;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_insetEdge = global::COPDapp.Droid.Resource.Attribute.layout_insetEdge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_keyline = global::COPDapp.Droid.Resource.Attribute.layout_keyline;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_scrollFlags = global::COPDapp.Droid.Resource.Attribute.layout_scrollFlags;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.layout_scrollInterpolator = global::COPDapp.Droid.Resource.Attribute.layout_scrollInterpolator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::COPDapp.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listDividerAlertDialog = global::COPDapp.Droid.Resource.Attribute.listDividerAlertDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listItemLayout = global::COPDapp.Droid.Resource.Attribute.listItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listLayout = global::COPDapp.Droid.Resource.Attribute.listLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listMenuViewStyle = global::COPDapp.Droid.Resource.Attribute.listMenuViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listPopupWindowStyle = global::COPDapp.Droid.Resource.Attribute.listPopupWindowStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listPreferredItemHeight = global::COPDapp.Droid.Resource.Attribute.listPreferredItemHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listPreferredItemHeightLarge = global::COPDapp.Droid.Resource.Attribute.listPreferredItemHeightLarge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listPreferredItemHeightSmall = global::COPDapp.Droid.Resource.Attribute.listPreferredItemHeightSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::COPDapp.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.listPreferredItemPaddingRight = global::COPDapp.Droid.Resource.Attribute.listPreferredItemPaddingRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.logo = global::COPDapp.Droid.Resource.Attribute.logo;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.logoDescription = global::COPDapp.Droid.Resource.Attribute.logoDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.maxActionInlineWidth = global::COPDapp.Droid.Resource.Attribute.maxActionInlineWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.maxButtonHeight = global::COPDapp.Droid.Resource.Attribute.maxButtonHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.measureWithLargestChild = global::COPDapp.Droid.Resource.Attribute.measureWithLargestChild;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.menu = global::COPDapp.Droid.Resource.Attribute.menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.multiChoiceItemLayout = global::COPDapp.Droid.Resource.Attribute.multiChoiceItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.navigationContentDescription = global::COPDapp.Droid.Resource.Attribute.navigationContentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.navigationIcon = global::COPDapp.Droid.Resource.Attribute.navigationIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.navigationMode = global::COPDapp.Droid.Resource.Attribute.navigationMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.numericModifiers = global::COPDapp.Droid.Resource.Attribute.numericModifiers;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.overlapAnchor = global::COPDapp.Droid.Resource.Attribute.overlapAnchor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.paddingBottomNoButtons = global::COPDapp.Droid.Resource.Attribute.paddingBottomNoButtons;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.paddingEnd = global::COPDapp.Droid.Resource.Attribute.paddingEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.paddingStart = global::COPDapp.Droid.Resource.Attribute.paddingStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.paddingTopNoTitle = global::COPDapp.Droid.Resource.Attribute.paddingTopNoTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.panelBackground = global::COPDapp.Droid.Resource.Attribute.panelBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.panelMenuListTheme = global::COPDapp.Droid.Resource.Attribute.panelMenuListTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.panelMenuListWidth = global::COPDapp.Droid.Resource.Attribute.panelMenuListWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.passwordToggleContentDescription = global::COPDapp.Droid.Resource.Attribute.passwordToggleContentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.passwordToggleDrawable = global::COPDapp.Droid.Resource.Attribute.passwordToggleDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.passwordToggleEnabled = global::COPDapp.Droid.Resource.Attribute.passwordToggleEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.passwordToggleTint = global::COPDapp.Droid.Resource.Attribute.passwordToggleTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.passwordToggleTintMode = global::COPDapp.Droid.Resource.Attribute.passwordToggleTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.popupMenuStyle = global::COPDapp.Droid.Resource.Attribute.popupMenuStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.popupTheme = global::COPDapp.Droid.Resource.Attribute.popupTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.popupWindowStyle = global::COPDapp.Droid.Resource.Attribute.popupWindowStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.preserveIconSpacing = global::COPDapp.Droid.Resource.Attribute.preserveIconSpacing;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.pressedTranslationZ = global::COPDapp.Droid.Resource.Attribute.pressedTranslationZ;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.progressBarPadding = global::COPDapp.Droid.Resource.Attribute.progressBarPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.progressBarStyle = global::COPDapp.Droid.Resource.Attribute.progressBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.queryBackground = global::COPDapp.Droid.Resource.Attribute.queryBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.queryHint = global::COPDapp.Droid.Resource.Attribute.queryHint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.radioButtonStyle = global::COPDapp.Droid.Resource.Attribute.radioButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.ratingBarStyle = global::COPDapp.Droid.Resource.Attribute.ratingBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.ratingBarStyleIndicator = global::COPDapp.Droid.Resource.Attribute.ratingBarStyleIndicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.ratingBarStyleSmall = global::COPDapp.Droid.Resource.Attribute.ratingBarStyleSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.reverseLayout = global::COPDapp.Droid.Resource.Attribute.reverseLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.rippleColor = global::COPDapp.Droid.Resource.Attribute.rippleColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.scrimAnimationDuration = global::COPDapp.Droid.Resource.Attribute.scrimAnimationDuration;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::COPDapp.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.searchHintIcon = global::COPDapp.Droid.Resource.Attribute.searchHintIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.searchIcon = global::COPDapp.Droid.Resource.Attribute.searchIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.searchViewStyle = global::COPDapp.Droid.Resource.Attribute.searchViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.seekBarStyle = global::COPDapp.Droid.Resource.Attribute.seekBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.selectableItemBackground = global::COPDapp.Droid.Resource.Attribute.selectableItemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::COPDapp.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.showAsAction = global::COPDapp.Droid.Resource.Attribute.showAsAction;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.showDividers = global::COPDapp.Droid.Resource.Attribute.showDividers;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.showText = global::COPDapp.Droid.Resource.Attribute.showText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.showTitle = global::COPDapp.Droid.Resource.Attribute.showTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.singleChoiceItemLayout = global::COPDapp.Droid.Resource.Attribute.singleChoiceItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.spanCount = global::COPDapp.Droid.Resource.Attribute.spanCount;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.spinBars = global::COPDapp.Droid.Resource.Attribute.spinBars;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.spinnerDropDownItemStyle = global::COPDapp.Droid.Resource.Attribute.spinnerDropDownItemStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.spinnerStyle = global::COPDapp.Droid.Resource.Attribute.spinnerStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.splitTrack = global::COPDapp.Droid.Resource.Attribute.splitTrack;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.srcCompat = global::COPDapp.Droid.Resource.Attribute.srcCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.stackFromEnd = global::COPDapp.Droid.Resource.Attribute.stackFromEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.state_above_anchor = global::COPDapp.Droid.Resource.Attribute.state_above_anchor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.state_collapsed = global::COPDapp.Droid.Resource.Attribute.state_collapsed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.state_collapsible = global::COPDapp.Droid.Resource.Attribute.state_collapsible;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.statusBarBackground = global::COPDapp.Droid.Resource.Attribute.statusBarBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.statusBarScrim = global::COPDapp.Droid.Resource.Attribute.statusBarScrim;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.subMenuArrow = global::COPDapp.Droid.Resource.Attribute.subMenuArrow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.submitBackground = global::COPDapp.Droid.Resource.Attribute.submitBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.subtitle = global::COPDapp.Droid.Resource.Attribute.subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.subtitleTextAppearance = global::COPDapp.Droid.Resource.Attribute.subtitleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.subtitleTextColor = global::COPDapp.Droid.Resource.Attribute.subtitleTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.subtitleTextStyle = global::COPDapp.Droid.Resource.Attribute.subtitleTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.suggestionRowLayout = global::COPDapp.Droid.Resource.Attribute.suggestionRowLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.switchMinWidth = global::COPDapp.Droid.Resource.Attribute.switchMinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.switchPadding = global::COPDapp.Droid.Resource.Attribute.switchPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.switchStyle = global::COPDapp.Droid.Resource.Attribute.switchStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.switchTextAppearance = global::COPDapp.Droid.Resource.Attribute.switchTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabBackground = global::COPDapp.Droid.Resource.Attribute.tabBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabContentStart = global::COPDapp.Droid.Resource.Attribute.tabContentStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabGravity = global::COPDapp.Droid.Resource.Attribute.tabGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabIndicatorColor = global::COPDapp.Droid.Resource.Attribute.tabIndicatorColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabIndicatorHeight = global::COPDapp.Droid.Resource.Attribute.tabIndicatorHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabMaxWidth = global::COPDapp.Droid.Resource.Attribute.tabMaxWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabMinWidth = global::COPDapp.Droid.Resource.Attribute.tabMinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabMode = global::COPDapp.Droid.Resource.Attribute.tabMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabPadding = global::COPDapp.Droid.Resource.Attribute.tabPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabPaddingBottom = global::COPDapp.Droid.Resource.Attribute.tabPaddingBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabPaddingEnd = global::COPDapp.Droid.Resource.Attribute.tabPaddingEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabPaddingStart = global::COPDapp.Droid.Resource.Attribute.tabPaddingStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabPaddingTop = global::COPDapp.Droid.Resource.Attribute.tabPaddingTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabSelectedTextColor = global::COPDapp.Droid.Resource.Attribute.tabSelectedTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabTextAppearance = global::COPDapp.Droid.Resource.Attribute.tabTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tabTextColor = global::COPDapp.Droid.Resource.Attribute.tabTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAllCaps = global::COPDapp.Droid.Resource.Attribute.textAllCaps;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::COPDapp.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearanceListItem = global::COPDapp.Droid.Resource.Attribute.textAppearanceListItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearanceListItemSecondary = global::COPDapp.Droid.Resource.Attribute.textAppearanceListItemSecondary;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearanceListItemSmall = global::COPDapp.Droid.Resource.Attribute.textAppearanceListItemSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::COPDapp.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::COPDapp.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::COPDapp.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::COPDapp.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textColorAlertDialogListItem = global::COPDapp.Droid.Resource.Attribute.textColorAlertDialogListItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.textColorSearchUrl = global::COPDapp.Droid.Resource.Attribute.textColorSearchUrl;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.theme = global::COPDapp.Droid.Resource.Attribute.theme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.thickness = global::COPDapp.Droid.Resource.Attribute.thickness;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.thumbTextPadding = global::COPDapp.Droid.Resource.Attribute.thumbTextPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.thumbTint = global::COPDapp.Droid.Resource.Attribute.thumbTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.thumbTintMode = global::COPDapp.Droid.Resource.Attribute.thumbTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tickMark = global::COPDapp.Droid.Resource.Attribute.tickMark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tickMarkTint = global::COPDapp.Droid.Resource.Attribute.tickMarkTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tickMarkTintMode = global::COPDapp.Droid.Resource.Attribute.tickMarkTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tint = global::COPDapp.Droid.Resource.Attribute.tint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tintMode = global::COPDapp.Droid.Resource.Attribute.tintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.title = global::COPDapp.Droid.Resource.Attribute.title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleEnabled = global::COPDapp.Droid.Resource.Attribute.titleEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleMargin = global::COPDapp.Droid.Resource.Attribute.titleMargin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleMarginBottom = global::COPDapp.Droid.Resource.Attribute.titleMarginBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleMarginEnd = global::COPDapp.Droid.Resource.Attribute.titleMarginEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleMarginStart = global::COPDapp.Droid.Resource.Attribute.titleMarginStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleMarginTop = global::COPDapp.Droid.Resource.Attribute.titleMarginTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleMargins = global::COPDapp.Droid.Resource.Attribute.titleMargins;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleTextAppearance = global::COPDapp.Droid.Resource.Attribute.titleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleTextColor = global::COPDapp.Droid.Resource.Attribute.titleTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.titleTextStyle = global::COPDapp.Droid.Resource.Attribute.titleTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.toolbarId = global::COPDapp.Droid.Resource.Attribute.toolbarId;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::COPDapp.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.toolbarStyle = global::COPDapp.Droid.Resource.Attribute.toolbarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tooltipForegroundColor = global::COPDapp.Droid.Resource.Attribute.tooltipForegroundColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tooltipFrameBackground = global::COPDapp.Droid.Resource.Attribute.tooltipFrameBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.tooltipText = global::COPDapp.Droid.Resource.Attribute.tooltipText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.track = global::COPDapp.Droid.Resource.Attribute.track;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.trackTint = global::COPDapp.Droid.Resource.Attribute.trackTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.trackTintMode = global::COPDapp.Droid.Resource.Attribute.trackTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.useCompatPadding = global::COPDapp.Droid.Resource.Attribute.useCompatPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.voiceIcon = global::COPDapp.Droid.Resource.Attribute.voiceIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowActionBar = global::COPDapp.Droid.Resource.Attribute.windowActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowActionBarOverlay = global::COPDapp.Droid.Resource.Attribute.windowActionBarOverlay;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowActionModeOverlay = global::COPDapp.Droid.Resource.Attribute.windowActionModeOverlay;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowFixedHeightMajor = global::COPDapp.Droid.Resource.Attribute.windowFixedHeightMajor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowFixedHeightMinor = global::COPDapp.Droid.Resource.Attribute.windowFixedHeightMinor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowFixedWidthMajor = global::COPDapp.Droid.Resource.Attribute.windowFixedWidthMajor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowFixedWidthMinor = global::COPDapp.Droid.Resource.Attribute.windowFixedWidthMinor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowMinWidthMajor = global::COPDapp.Droid.Resource.Attribute.windowMinWidthMajor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowMinWidthMinor = global::COPDapp.Droid.Resource.Attribute.windowMinWidthMinor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Attribute.windowNoTitle = global::COPDapp.Droid.Resource.Attribute.windowNoTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::COPDapp.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::COPDapp.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::COPDapp.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::COPDapp.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::COPDapp.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::COPDapp.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_btn_colored_text_material = global::COPDapp.Droid.Resource.Color.abc_btn_colored_text_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_color_highlight_material = global::COPDapp.Droid.Resource.Color.abc_color_highlight_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_hint_foreground_material_dark = global::COPDapp.Droid.Resource.Color.abc_hint_foreground_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_hint_foreground_material_light = global::COPDapp.Droid.Resource.Color.abc_hint_foreground_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_input_method_navigation_guard = global::COPDapp.Droid.Resource.Color.abc_input_method_navigation_guard;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::COPDapp.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::COPDapp.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_primary_text_material_dark = global::COPDapp.Droid.Resource.Color.abc_primary_text_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_primary_text_material_light = global::COPDapp.Droid.Resource.Color.abc_primary_text_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_search_url_text = global::COPDapp.Droid.Resource.Color.abc_search_url_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_search_url_text_normal = global::COPDapp.Droid.Resource.Color.abc_search_url_text_normal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_search_url_text_pressed = global::COPDapp.Droid.Resource.Color.abc_search_url_text_pressed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_search_url_text_selected = global::COPDapp.Droid.Resource.Color.abc_search_url_text_selected;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_secondary_text_material_dark = global::COPDapp.Droid.Resource.Color.abc_secondary_text_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_secondary_text_material_light = global::COPDapp.Droid.Resource.Color.abc_secondary_text_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_tint_btn_checkable = global::COPDapp.Droid.Resource.Color.abc_tint_btn_checkable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_tint_default = global::COPDapp.Droid.Resource.Color.abc_tint_default;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_tint_edittext = global::COPDapp.Droid.Resource.Color.abc_tint_edittext;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_tint_seek_thumb = global::COPDapp.Droid.Resource.Color.abc_tint_seek_thumb;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_tint_spinner = global::COPDapp.Droid.Resource.Color.abc_tint_spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.abc_tint_switch_track = global::COPDapp.Droid.Resource.Color.abc_tint_switch_track;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.accent_material_dark = global::COPDapp.Droid.Resource.Color.accent_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.accent_material_light = global::COPDapp.Droid.Resource.Color.accent_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.background_floating_material_dark = global::COPDapp.Droid.Resource.Color.background_floating_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.background_floating_material_light = global::COPDapp.Droid.Resource.Color.background_floating_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.background_material_dark = global::COPDapp.Droid.Resource.Color.background_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.background_material_light = global::COPDapp.Droid.Resource.Color.background_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.bright_foreground_disabled_material_dark = global::COPDapp.Droid.Resource.Color.bright_foreground_disabled_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.bright_foreground_disabled_material_light = global::COPDapp.Droid.Resource.Color.bright_foreground_disabled_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.bright_foreground_inverse_material_dark = global::COPDapp.Droid.Resource.Color.bright_foreground_inverse_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.bright_foreground_inverse_material_light = global::COPDapp.Droid.Resource.Color.bright_foreground_inverse_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.bright_foreground_material_dark = global::COPDapp.Droid.Resource.Color.bright_foreground_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.bright_foreground_material_light = global::COPDapp.Droid.Resource.Color.bright_foreground_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.button_material_dark = global::COPDapp.Droid.Resource.Color.button_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.button_material_light = global::COPDapp.Droid.Resource.Color.button_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.cardview_dark_background = global::COPDapp.Droid.Resource.Color.cardview_dark_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.cardview_light_background = global::COPDapp.Droid.Resource.Color.cardview_light_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.cardview_shadow_end_color = global::COPDapp.Droid.Resource.Color.cardview_shadow_end_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.cardview_shadow_start_color = global::COPDapp.Droid.Resource.Color.cardview_shadow_start_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_bottom_navigation_shadow_color = global::COPDapp.Droid.Resource.Color.design_bottom_navigation_shadow_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_error = global::COPDapp.Droid.Resource.Color.design_error;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_fab_shadow_end_color = global::COPDapp.Droid.Resource.Color.design_fab_shadow_end_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_fab_shadow_mid_color = global::COPDapp.Droid.Resource.Color.design_fab_shadow_mid_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_fab_shadow_start_color = global::COPDapp.Droid.Resource.Color.design_fab_shadow_start_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_fab_stroke_end_inner_color = global::COPDapp.Droid.Resource.Color.design_fab_stroke_end_inner_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_fab_stroke_end_outer_color = global::COPDapp.Droid.Resource.Color.design_fab_stroke_end_outer_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_fab_stroke_top_inner_color = global::COPDapp.Droid.Resource.Color.design_fab_stroke_top_inner_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_fab_stroke_top_outer_color = global::COPDapp.Droid.Resource.Color.design_fab_stroke_top_outer_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_snackbar_background_color = global::COPDapp.Droid.Resource.Color.design_snackbar_background_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.design_tint_password_toggle = global::COPDapp.Droid.Resource.Color.design_tint_password_toggle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.dim_foreground_disabled_material_dark = global::COPDapp.Droid.Resource.Color.dim_foreground_disabled_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.dim_foreground_disabled_material_light = global::COPDapp.Droid.Resource.Color.dim_foreground_disabled_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.dim_foreground_material_dark = global::COPDapp.Droid.Resource.Color.dim_foreground_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.dim_foreground_material_light = global::COPDapp.Droid.Resource.Color.dim_foreground_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.foreground_material_dark = global::COPDapp.Droid.Resource.Color.foreground_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.foreground_material_light = global::COPDapp.Droid.Resource.Color.foreground_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.highlighted_text_material_dark = global::COPDapp.Droid.Resource.Color.highlighted_text_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.highlighted_text_material_light = global::COPDapp.Droid.Resource.Color.highlighted_text_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_blue_grey_800 = global::COPDapp.Droid.Resource.Color.material_blue_grey_800;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_blue_grey_900 = global::COPDapp.Droid.Resource.Color.material_blue_grey_900;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_blue_grey_950 = global::COPDapp.Droid.Resource.Color.material_blue_grey_950;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_deep_teal_200 = global::COPDapp.Droid.Resource.Color.material_deep_teal_200;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_deep_teal_500 = global::COPDapp.Droid.Resource.Color.material_deep_teal_500;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_grey_100 = global::COPDapp.Droid.Resource.Color.material_grey_100;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_grey_300 = global::COPDapp.Droid.Resource.Color.material_grey_300;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_grey_50 = global::COPDapp.Droid.Resource.Color.material_grey_50;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_grey_600 = global::COPDapp.Droid.Resource.Color.material_grey_600;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_grey_800 = global::COPDapp.Droid.Resource.Color.material_grey_800;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_grey_850 = global::COPDapp.Droid.Resource.Color.material_grey_850;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.material_grey_900 = global::COPDapp.Droid.Resource.Color.material_grey_900;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.notification_action_color_filter = global::COPDapp.Droid.Resource.Color.notification_action_color_filter;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.notification_icon_bg_color = global::COPDapp.Droid.Resource.Color.notification_icon_bg_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.notification_material_background_media_default_color = global::COPDapp.Droid.Resource.Color.notification_material_background_media_default_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_dark_material_dark = global::COPDapp.Droid.Resource.Color.primary_dark_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_dark_material_light = global::COPDapp.Droid.Resource.Color.primary_dark_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_material_dark = global::COPDapp.Droid.Resource.Color.primary_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_material_light = global::COPDapp.Droid.Resource.Color.primary_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_text_default_material_dark = global::COPDapp.Droid.Resource.Color.primary_text_default_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_text_default_material_light = global::COPDapp.Droid.Resource.Color.primary_text_default_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_text_disabled_material_dark = global::COPDapp.Droid.Resource.Color.primary_text_disabled_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.primary_text_disabled_material_light = global::COPDapp.Droid.Resource.Color.primary_text_disabled_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.ripple_material_dark = global::COPDapp.Droid.Resource.Color.ripple_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.ripple_material_light = global::COPDapp.Droid.Resource.Color.ripple_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.secondary_text_default_material_dark = global::COPDapp.Droid.Resource.Color.secondary_text_default_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.secondary_text_default_material_light = global::COPDapp.Droid.Resource.Color.secondary_text_default_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.secondary_text_disabled_material_dark = global::COPDapp.Droid.Resource.Color.secondary_text_disabled_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.secondary_text_disabled_material_light = global::COPDapp.Droid.Resource.Color.secondary_text_disabled_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.switch_thumb_disabled_material_dark = global::COPDapp.Droid.Resource.Color.switch_thumb_disabled_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.switch_thumb_disabled_material_light = global::COPDapp.Droid.Resource.Color.switch_thumb_disabled_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.switch_thumb_material_dark = global::COPDapp.Droid.Resource.Color.switch_thumb_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.switch_thumb_material_light = global::COPDapp.Droid.Resource.Color.switch_thumb_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.switch_thumb_normal_material_dark = global::COPDapp.Droid.Resource.Color.switch_thumb_normal_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.switch_thumb_normal_material_light = global::COPDapp.Droid.Resource.Color.switch_thumb_normal_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.tooltip_background_dark = global::COPDapp.Droid.Resource.Color.tooltip_background_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Color.tooltip_background_light = global::COPDapp.Droid.Resource.Color.tooltip_background_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_default_height_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_default_height_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_elevation_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_elevation_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::COPDapp.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_button_min_height_material = global::COPDapp.Droid.Resource.Dimension.abc_action_button_min_height_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_button_min_width_material = global::COPDapp.Droid.Resource.Dimension.abc_action_button_min_width_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::COPDapp.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::COPDapp.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::COPDapp.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_button_inset_vertical_material = global::COPDapp.Droid.Resource.Dimension.abc_button_inset_vertical_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::COPDapp.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_button_padding_vertical_material = global::COPDapp.Droid.Resource.Dimension.abc_button_padding_vertical_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::COPDapp.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_config_prefDialogWidth = global::COPDapp.Droid.Resource.Dimension.abc_config_prefDialogWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_control_corner_material = global::COPDapp.Droid.Resource.Dimension.abc_control_corner_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_control_inset_material = global::COPDapp.Droid.Resource.Dimension.abc_control_inset_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_control_padding_material = global::COPDapp.Droid.Resource.Dimension.abc_control_padding_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::COPDapp.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::COPDapp.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::COPDapp.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::COPDapp.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::COPDapp.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::COPDapp.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_min_width_major = global::COPDapp.Droid.Resource.Dimension.abc_dialog_min_width_major;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_min_width_minor = global::COPDapp.Droid.Resource.Dimension.abc_dialog_min_width_minor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_padding_material = global::COPDapp.Droid.Resource.Dimension.abc_dialog_padding_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_padding_top_material = global::COPDapp.Droid.Resource.Dimension.abc_dialog_padding_top_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dialog_title_divider_material = global::COPDapp.Droid.Resource.Dimension.abc_dialog_title_divider_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::COPDapp.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::COPDapp.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::COPDapp.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::COPDapp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::COPDapp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::COPDapp.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::COPDapp.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::COPDapp.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_floating_window_z = global::COPDapp.Droid.Resource.Dimension.abc_floating_window_z;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::COPDapp.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_panel_menu_list_width = global::COPDapp.Droid.Resource.Dimension.abc_panel_menu_list_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_progress_bar_height_material = global::COPDapp.Droid.Resource.Dimension.abc_progress_bar_height_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_search_view_preferred_height = global::COPDapp.Droid.Resource.Dimension.abc_search_view_preferred_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_search_view_preferred_width = global::COPDapp.Droid.Resource.Dimension.abc_search_view_preferred_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::COPDapp.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::COPDapp.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::COPDapp.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_switch_padding = global::COPDapp.Droid.Resource.Dimension.abc_switch_padding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_body_1_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_body_1_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_body_2_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_body_2_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_button_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_button_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_caption_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_caption_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_display_1_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_display_1_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_display_2_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_display_2_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_display_3_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_display_3_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_display_4_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_display_4_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_headline_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_headline_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_large_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_large_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_medium_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_medium_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_menu_header_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_menu_header_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_menu_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_menu_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_small_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_small_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_subhead_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_subhead_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::COPDapp.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_title_material = global::COPDapp.Droid.Resource.Dimension.abc_text_size_title_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::COPDapp.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.cardview_compat_inset_shadow = global::COPDapp.Droid.Resource.Dimension.cardview_compat_inset_shadow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.cardview_default_elevation = global::COPDapp.Droid.Resource.Dimension.cardview_default_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.cardview_default_radius = global::COPDapp.Droid.Resource.Dimension.cardview_default_radius;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::COPDapp.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.compat_button_inset_vertical_material = global::COPDapp.Droid.Resource.Dimension.compat_button_inset_vertical_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::COPDapp.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.compat_button_padding_vertical_material = global::COPDapp.Droid.Resource.Dimension.compat_button_padding_vertical_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.compat_control_corner_material = global::COPDapp.Droid.Resource.Dimension.compat_control_corner_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_appbar_elevation = global::COPDapp.Droid.Resource.Dimension.design_appbar_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_elevation = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_height = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_margin = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_margin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_navigation_text_size = global::COPDapp.Droid.Resource.Dimension.design_bottom_navigation_text_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::COPDapp.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::COPDapp.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_fab_border_width = global::COPDapp.Droid.Resource.Dimension.design_fab_border_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_fab_elevation = global::COPDapp.Droid.Resource.Dimension.design_fab_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_fab_image_size = global::COPDapp.Droid.Resource.Dimension.design_fab_image_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_fab_size_mini = global::COPDapp.Droid.Resource.Dimension.design_fab_size_mini;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_fab_size_normal = global::COPDapp.Droid.Resource.Dimension.design_fab_size_normal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_fab_translation_z_pressed = global::COPDapp.Droid.Resource.Dimension.design_fab_translation_z_pressed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_navigation_elevation = global::COPDapp.Droid.Resource.Dimension.design_navigation_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_navigation_icon_padding = global::COPDapp.Droid.Resource.Dimension.design_navigation_icon_padding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_navigation_icon_size = global::COPDapp.Droid.Resource.Dimension.design_navigation_icon_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_navigation_max_width = global::COPDapp.Droid.Resource.Dimension.design_navigation_max_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_navigation_padding_bottom = global::COPDapp.Droid.Resource.Dimension.design_navigation_padding_bottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::COPDapp.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::COPDapp.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::COPDapp.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_elevation = global::COPDapp.Droid.Resource.Dimension.design_snackbar_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::COPDapp.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_max_width = global::COPDapp.Droid.Resource.Dimension.design_snackbar_max_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_min_width = global::COPDapp.Droid.Resource.Dimension.design_snackbar_min_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::COPDapp.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_padding_vertical = global::COPDapp.Droid.Resource.Dimension.design_snackbar_padding_vertical;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::COPDapp.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_snackbar_text_size = global::COPDapp.Droid.Resource.Dimension.design_snackbar_text_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_tab_max_width = global::COPDapp.Droid.Resource.Dimension.design_tab_max_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_tab_scrollable_min_width = global::COPDapp.Droid.Resource.Dimension.design_tab_scrollable_min_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_tab_text_size = global::COPDapp.Droid.Resource.Dimension.design_tab_text_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.design_tab_text_size_2line = global::COPDapp.Droid.Resource.Dimension.design_tab_text_size_2line;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.disabled_alpha_material_dark = global::COPDapp.Droid.Resource.Dimension.disabled_alpha_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.disabled_alpha_material_light = global::COPDapp.Droid.Resource.Dimension.disabled_alpha_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.fastscroll_default_thickness = global::COPDapp.Droid.Resource.Dimension.fastscroll_default_thickness;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.fastscroll_margin = global::COPDapp.Droid.Resource.Dimension.fastscroll_margin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.fastscroll_minimum_range = global::COPDapp.Droid.Resource.Dimension.fastscroll_minimum_range;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.highlight_alpha_material_colored = global::COPDapp.Droid.Resource.Dimension.highlight_alpha_material_colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.highlight_alpha_material_dark = global::COPDapp.Droid.Resource.Dimension.highlight_alpha_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.highlight_alpha_material_light = global::COPDapp.Droid.Resource.Dimension.highlight_alpha_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.hint_alpha_material_dark = global::COPDapp.Droid.Resource.Dimension.hint_alpha_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.hint_alpha_material_light = global::COPDapp.Droid.Resource.Dimension.hint_alpha_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::COPDapp.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::COPDapp.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::COPDapp.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::COPDapp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::COPDapp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_action_icon_size = global::COPDapp.Droid.Resource.Dimension.notification_action_icon_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_action_text_size = global::COPDapp.Droid.Resource.Dimension.notification_action_text_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_big_circle_margin = global::COPDapp.Droid.Resource.Dimension.notification_big_circle_margin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_content_margin_start = global::COPDapp.Droid.Resource.Dimension.notification_content_margin_start;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_large_icon_height = global::COPDapp.Droid.Resource.Dimension.notification_large_icon_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_large_icon_width = global::COPDapp.Droid.Resource.Dimension.notification_large_icon_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_main_column_padding_top = global::COPDapp.Droid.Resource.Dimension.notification_main_column_padding_top;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_media_narrow_margin = global::COPDapp.Droid.Resource.Dimension.notification_media_narrow_margin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_right_icon_size = global::COPDapp.Droid.Resource.Dimension.notification_right_icon_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_right_side_padding_top = global::COPDapp.Droid.Resource.Dimension.notification_right_side_padding_top;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_small_icon_background_padding = global::COPDapp.Droid.Resource.Dimension.notification_small_icon_background_padding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_small_icon_size_as_large = global::COPDapp.Droid.Resource.Dimension.notification_small_icon_size_as_large;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_subtext_size = global::COPDapp.Droid.Resource.Dimension.notification_subtext_size;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_top_pad = global::COPDapp.Droid.Resource.Dimension.notification_top_pad;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.notification_top_pad_large_text = global::COPDapp.Droid.Resource.Dimension.notification_top_pad_large_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_corner_radius = global::COPDapp.Droid.Resource.Dimension.tooltip_corner_radius;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_horizontal_padding = global::COPDapp.Droid.Resource.Dimension.tooltip_horizontal_padding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_margin = global::COPDapp.Droid.Resource.Dimension.tooltip_margin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::COPDapp.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::COPDapp.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_vertical_padding = global::COPDapp.Droid.Resource.Dimension.tooltip_vertical_padding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::COPDapp.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Dimension.tooltip_y_offset_touch = global::COPDapp.Droid.Resource.Dimension.tooltip_y_offset_touch;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_action_bar_item_background_material = global::COPDapp.Droid.Resource.Drawable.abc_action_bar_item_background_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_borderless_material = global::COPDapp.Droid.Resource.Drawable.abc_btn_borderless_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_check_material = global::COPDapp.Droid.Resource.Drawable.abc_btn_check_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::COPDapp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::COPDapp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_colored_material = global::COPDapp.Droid.Resource.Drawable.abc_btn_colored_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::COPDapp.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_radio_material = global::COPDapp.Droid.Resource.Drawable.abc_btn_radio_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::COPDapp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::COPDapp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::COPDapp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::COPDapp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_cab_background_internal_bg = global::COPDapp.Droid.Resource.Drawable.abc_cab_background_internal_bg;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_cab_background_top_material = global::COPDapp.Droid.Resource.Drawable.abc_cab_background_top_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_control_background_material = global::COPDapp.Droid.Resource.Drawable.abc_control_background_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_dialog_material_background = global::COPDapp.Droid.Resource.Drawable.abc_dialog_material_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_edit_text_material = global::COPDapp.Droid.Resource.Drawable.abc_edit_text_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_ab_back_material = global::COPDapp.Droid.Resource.Drawable.abc_ic_ab_back_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::COPDapp.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_clear_material = global::COPDapp.Droid.Resource.Drawable.abc_ic_clear_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_go_search_api_material = global::COPDapp.Droid.Resource.Drawable.abc_ic_go_search_api_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::COPDapp.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::COPDapp.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::COPDapp.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_search_api_material = global::COPDapp.Droid.Resource.Drawable.abc_ic_search_api_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_star_black_16dp = global::COPDapp.Droid.Resource.Drawable.abc_ic_star_black_16dp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_star_black_36dp = global::COPDapp.Droid.Resource.Drawable.abc_ic_star_black_36dp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_star_black_48dp = global::COPDapp.Droid.Resource.Drawable.abc_ic_star_black_48dp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::COPDapp.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::COPDapp.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::COPDapp.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::COPDapp.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_item_background_holo_dark = global::COPDapp.Droid.Resource.Drawable.abc_item_background_holo_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_item_background_holo_light = global::COPDapp.Droid.Resource.Drawable.abc_item_background_holo_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_focused_holo = global::COPDapp.Droid.Resource.Drawable.abc_list_focused_holo;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_longpressed_holo = global::COPDapp.Droid.Resource.Drawable.abc_list_longpressed_holo;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::COPDapp.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_pressed_holo_light = global::COPDapp.Droid.Resource.Drawable.abc_list_pressed_holo_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::COPDapp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::COPDapp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::COPDapp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::COPDapp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_selector_holo_dark = global::COPDapp.Droid.Resource.Drawable.abc_list_selector_holo_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_list_selector_holo_light = global::COPDapp.Droid.Resource.Drawable.abc_list_selector_holo_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::COPDapp.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::COPDapp.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::COPDapp.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ratingbar_material = global::COPDapp.Droid.Resource.Drawable.abc_ratingbar_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_ratingbar_small_material = global::COPDapp.Droid.Resource.Drawable.abc_ratingbar_small_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::COPDapp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::COPDapp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_seekbar_thumb_material = global::COPDapp.Droid.Resource.Drawable.abc_seekbar_thumb_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::COPDapp.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_seekbar_track_material = global::COPDapp.Droid.Resource.Drawable.abc_seekbar_track_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::COPDapp.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::COPDapp.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_switch_thumb_material = global::COPDapp.Droid.Resource.Drawable.abc_switch_thumb_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_tab_indicator_material = global::COPDapp.Droid.Resource.Drawable.abc_tab_indicator_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_text_cursor_material = global::COPDapp.Droid.Resource.Drawable.abc_text_cursor_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::COPDapp.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::COPDapp.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::COPDapp.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::COPDapp.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::COPDapp.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::COPDapp.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::COPDapp.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_textfield_search_material = global::COPDapp.Droid.Resource.Drawable.abc_textfield_search_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.abc_vector_test = global::COPDapp.Droid.Resource.Drawable.abc_vector_test;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.avd_hide_password = global::COPDapp.Droid.Resource.Drawable.avd_hide_password;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.avd_show_password = global::COPDapp.Droid.Resource.Drawable.avd_show_password;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.design_bottom_navigation_item_background = global::COPDapp.Droid.Resource.Drawable.design_bottom_navigation_item_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.design_fab_background = global::COPDapp.Droid.Resource.Drawable.design_fab_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.design_ic_visibility = global::COPDapp.Droid.Resource.Drawable.design_ic_visibility;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.design_ic_visibility_off = global::COPDapp.Droid.Resource.Drawable.design_ic_visibility_off;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.design_password_eye = global::COPDapp.Droid.Resource.Drawable.design_password_eye;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.design_snackbar_background = global::COPDapp.Droid.Resource.Drawable.design_snackbar_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.ic_fullscreen = global::COPDapp.Droid.Resource.Drawable.ic_fullscreen;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.ic_fullscreen_exit = global::COPDapp.Droid.Resource.Drawable.ic_fullscreen_exit;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.navigation_empty_icon = global::COPDapp.Droid.Resource.Drawable.navigation_empty_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_action_background = global::COPDapp.Droid.Resource.Drawable.notification_action_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_bg = global::COPDapp.Droid.Resource.Drawable.notification_bg;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_bg_low = global::COPDapp.Droid.Resource.Drawable.notification_bg_low;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_bg_low_normal = global::COPDapp.Droid.Resource.Drawable.notification_bg_low_normal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_bg_low_pressed = global::COPDapp.Droid.Resource.Drawable.notification_bg_low_pressed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_bg_normal = global::COPDapp.Droid.Resource.Drawable.notification_bg_normal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_bg_normal_pressed = global::COPDapp.Droid.Resource.Drawable.notification_bg_normal_pressed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_icon_background = global::COPDapp.Droid.Resource.Drawable.notification_icon_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_template_icon_bg = global::COPDapp.Droid.Resource.Drawable.notification_template_icon_bg;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_template_icon_low_bg = global::COPDapp.Droid.Resource.Drawable.notification_template_icon_low_bg;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notification_tile_bg = global::COPDapp.Droid.Resource.Drawable.notification_tile_bg;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::COPDapp.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.tooltip_frame_dark = global::COPDapp.Droid.Resource.Drawable.tooltip_frame_dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Drawable.tooltip_frame_light = global::COPDapp.Droid.Resource.Drawable.tooltip_frame_light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.ALT = global::COPDapp.Droid.Resource.Id.ALT;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.CTRL = global::COPDapp.Droid.Resource.Id.CTRL;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.FUNCTION = global::COPDapp.Droid.Resource.Id.FUNCTION;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.META = global::COPDapp.Droid.Resource.Id.META;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.SHIFT = global::COPDapp.Droid.Resource.Id.SHIFT;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.SYM = global::COPDapp.Droid.Resource.Id.SYM;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action0 = global::COPDapp.Droid.Resource.Id.action0;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_bar = global::COPDapp.Droid.Resource.Id.action_bar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_bar_activity_content = global::COPDapp.Droid.Resource.Id.action_bar_activity_content;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_bar_container = global::COPDapp.Droid.Resource.Id.action_bar_container;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_bar_root = global::COPDapp.Droid.Resource.Id.action_bar_root;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_bar_spinner = global::COPDapp.Droid.Resource.Id.action_bar_spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_bar_subtitle = global::COPDapp.Droid.Resource.Id.action_bar_subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_bar_title = global::COPDapp.Droid.Resource.Id.action_bar_title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_container = global::COPDapp.Droid.Resource.Id.action_container;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_context_bar = global::COPDapp.Droid.Resource.Id.action_context_bar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_divider = global::COPDapp.Droid.Resource.Id.action_divider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_image = global::COPDapp.Droid.Resource.Id.action_image;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_menu_divider = global::COPDapp.Droid.Resource.Id.action_menu_divider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_menu_presenter = global::COPDapp.Droid.Resource.Id.action_menu_presenter;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_mode_bar = global::COPDapp.Droid.Resource.Id.action_mode_bar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_mode_bar_stub = global::COPDapp.Droid.Resource.Id.action_mode_bar_stub;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_mode_close_button = global::COPDapp.Droid.Resource.Id.action_mode_close_button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.action_text = global::COPDapp.Droid.Resource.Id.action_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.actions = global::COPDapp.Droid.Resource.Id.actions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.activity_chooser_view_content = global::COPDapp.Droid.Resource.Id.activity_chooser_view_content;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.add = global::COPDapp.Droid.Resource.Id.add;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.alertTitle = global::COPDapp.Droid.Resource.Id.alertTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.all = global::COPDapp.Droid.Resource.Id.all;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.always = global::COPDapp.Droid.Resource.Id.always;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.async = global::COPDapp.Droid.Resource.Id.async;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.auto = global::COPDapp.Droid.Resource.Id.auto;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.beginning = global::COPDapp.Droid.Resource.Id.beginning;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.blocking = global::COPDapp.Droid.Resource.Id.blocking;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.bottom = global::COPDapp.Droid.Resource.Id.bottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.bottomtab_navarea = global::COPDapp.Droid.Resource.Id.bottomtab_navarea;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.bottomtab_tabbar = global::COPDapp.Droid.Resource.Id.bottomtab_tabbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.buttonPanel = global::COPDapp.Droid.Resource.Id.buttonPanel;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.cancel_action = global::COPDapp.Droid.Resource.Id.cancel_action;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.center = global::COPDapp.Droid.Resource.Id.center;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.center_horizontal = global::COPDapp.Droid.Resource.Id.center_horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.center_vertical = global::COPDapp.Droid.Resource.Id.center_vertical;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.checkbox = global::COPDapp.Droid.Resource.Id.checkbox;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.chronometer = global::COPDapp.Droid.Resource.Id.chronometer;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.clip_horizontal = global::COPDapp.Droid.Resource.Id.clip_horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.clip_vertical = global::COPDapp.Droid.Resource.Id.clip_vertical;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.collapseActionView = global::COPDapp.Droid.Resource.Id.collapseActionView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.container = global::COPDapp.Droid.Resource.Id.container;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.contentPanel = global::COPDapp.Droid.Resource.Id.contentPanel;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.coordinator = global::COPDapp.Droid.Resource.Id.coordinator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.custom = global::COPDapp.Droid.Resource.Id.custom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.customPanel = global::COPDapp.Droid.Resource.Id.customPanel;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.decor_content_parent = global::COPDapp.Droid.Resource.Id.decor_content_parent;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.default_activity_button = global::COPDapp.Droid.Resource.Id.default_activity_button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.design_bottom_sheet = global::COPDapp.Droid.Resource.Id.design_bottom_sheet;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.design_menu_item_action_area = global::COPDapp.Droid.Resource.Id.design_menu_item_action_area;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.design_menu_item_action_area_stub = global::COPDapp.Droid.Resource.Id.design_menu_item_action_area_stub;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.design_menu_item_text = global::COPDapp.Droid.Resource.Id.design_menu_item_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.design_navigation_view = global::COPDapp.Droid.Resource.Id.design_navigation_view;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.disableHome = global::COPDapp.Droid.Resource.Id.disableHome;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.edit_query = global::COPDapp.Droid.Resource.Id.edit_query;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.end = global::COPDapp.Droid.Resource.Id.end;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.end_padder = global::COPDapp.Droid.Resource.Id.end_padder;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.enterAlways = global::COPDapp.Droid.Resource.Id.enterAlways;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.enterAlwaysCollapsed = global::COPDapp.Droid.Resource.Id.enterAlwaysCollapsed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.exitUntilCollapsed = global::COPDapp.Droid.Resource.Id.exitUntilCollapsed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.expand_activities_button = global::COPDapp.Droid.Resource.Id.expand_activities_button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.expanded_menu = global::COPDapp.Droid.Resource.Id.expanded_menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.fill = global::COPDapp.Droid.Resource.Id.fill;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.fill_horizontal = global::COPDapp.Droid.Resource.Id.fill_horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.fill_vertical = global::COPDapp.Droid.Resource.Id.fill_vertical;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.@fixed = global::COPDapp.Droid.Resource.Id.@fixed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.flyoutcontent_appbar = global::COPDapp.Droid.Resource.Id.flyoutcontent_appbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.flyoutcontent_recycler = global::COPDapp.Droid.Resource.Id.flyoutcontent_recycler;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.forever = global::COPDapp.Droid.Resource.Id.forever;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.ghost_view = global::COPDapp.Droid.Resource.Id.ghost_view;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.home = global::COPDapp.Droid.Resource.Id.home;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.homeAsUp = global::COPDapp.Droid.Resource.Id.homeAsUp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.icon = global::COPDapp.Droid.Resource.Id.icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.icon_group = global::COPDapp.Droid.Resource.Id.icon_group;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.ifRoom = global::COPDapp.Droid.Resource.Id.ifRoom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.image = global::COPDapp.Droid.Resource.Id.image;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.info = global::COPDapp.Droid.Resource.Id.info;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.italic = global::COPDapp.Droid.Resource.Id.italic;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.item_touch_helper_previous_elevation = global::COPDapp.Droid.Resource.Id.item_touch_helper_previous_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.largeLabel = global::COPDapp.Droid.Resource.Id.largeLabel;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.left = global::COPDapp.Droid.Resource.Id.left;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.line1 = global::COPDapp.Droid.Resource.Id.line1;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.line3 = global::COPDapp.Droid.Resource.Id.line3;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.listMode = global::COPDapp.Droid.Resource.Id.listMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.list_item = global::COPDapp.Droid.Resource.Id.list_item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.main_appbar = global::COPDapp.Droid.Resource.Id.main_appbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.main_tablayout = global::COPDapp.Droid.Resource.Id.main_tablayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.main_toolbar = global::COPDapp.Droid.Resource.Id.main_toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.main_viewpager = global::COPDapp.Droid.Resource.Id.main_viewpager;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.masked = global::COPDapp.Droid.Resource.Id.masked;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.media_actions = global::COPDapp.Droid.Resource.Id.media_actions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.message = global::COPDapp.Droid.Resource.Id.message;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.middle = global::COPDapp.Droid.Resource.Id.middle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.mini = global::COPDapp.Droid.Resource.Id.mini;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.multiply = global::COPDapp.Droid.Resource.Id.multiply;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.navigation_header_container = global::COPDapp.Droid.Resource.Id.navigation_header_container;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.never = global::COPDapp.Droid.Resource.Id.never;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.none = global::COPDapp.Droid.Resource.Id.none;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.normal = global::COPDapp.Droid.Resource.Id.normal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.notification_background = global::COPDapp.Droid.Resource.Id.notification_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.notification_main_column = global::COPDapp.Droid.Resource.Id.notification_main_column;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.notification_main_column_container = global::COPDapp.Droid.Resource.Id.notification_main_column_container;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.parallax = global::COPDapp.Droid.Resource.Id.parallax;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.parentPanel = global::COPDapp.Droid.Resource.Id.parentPanel;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.parent_matrix = global::COPDapp.Droid.Resource.Id.parent_matrix;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.pin = global::COPDapp.Droid.Resource.Id.pin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.progress_circular = global::COPDapp.Droid.Resource.Id.progress_circular;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.progress_horizontal = global::COPDapp.Droid.Resource.Id.progress_horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.radio = global::COPDapp.Droid.Resource.Id.radio;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.right = global::COPDapp.Droid.Resource.Id.right;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.right_icon = global::COPDapp.Droid.Resource.Id.right_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.right_side = global::COPDapp.Droid.Resource.Id.right_side;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.save_image_matrix = global::COPDapp.Droid.Resource.Id.save_image_matrix;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.save_non_transition_alpha = global::COPDapp.Droid.Resource.Id.save_non_transition_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.save_scale_type = global::COPDapp.Droid.Resource.Id.save_scale_type;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.screen = global::COPDapp.Droid.Resource.Id.screen;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.scroll = global::COPDapp.Droid.Resource.Id.scroll;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.scrollIndicatorDown = global::COPDapp.Droid.Resource.Id.scrollIndicatorDown;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.scrollIndicatorUp = global::COPDapp.Droid.Resource.Id.scrollIndicatorUp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.scrollView = global::COPDapp.Droid.Resource.Id.scrollView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.scrollable = global::COPDapp.Droid.Resource.Id.scrollable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_badge = global::COPDapp.Droid.Resource.Id.search_badge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_bar = global::COPDapp.Droid.Resource.Id.search_bar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_button = global::COPDapp.Droid.Resource.Id.search_button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_close_btn = global::COPDapp.Droid.Resource.Id.search_close_btn;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_edit_frame = global::COPDapp.Droid.Resource.Id.search_edit_frame;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_go_btn = global::COPDapp.Droid.Resource.Id.search_go_btn;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_mag_icon = global::COPDapp.Droid.Resource.Id.search_mag_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_plate = global::COPDapp.Droid.Resource.Id.search_plate;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_src_text = global::COPDapp.Droid.Resource.Id.search_src_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.search_voice_btn = global::COPDapp.Droid.Resource.Id.search_voice_btn;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.select_dialog_listview = global::COPDapp.Droid.Resource.Id.select_dialog_listview;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.shellcontent_appbar = global::COPDapp.Droid.Resource.Id.shellcontent_appbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.shellcontent_toolbar = global::COPDapp.Droid.Resource.Id.shellcontent_toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.shortcut = global::COPDapp.Droid.Resource.Id.shortcut;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.showCustom = global::COPDapp.Droid.Resource.Id.showCustom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.showHome = global::COPDapp.Droid.Resource.Id.showHome;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.showTitle = global::COPDapp.Droid.Resource.Id.showTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.smallLabel = global::COPDapp.Droid.Resource.Id.smallLabel;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.snackbar_action = global::COPDapp.Droid.Resource.Id.snackbar_action;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.snackbar_text = global::COPDapp.Droid.Resource.Id.snackbar_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.snap = global::COPDapp.Droid.Resource.Id.snap;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.spacer = global::COPDapp.Droid.Resource.Id.spacer;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.split_action_bar = global::COPDapp.Droid.Resource.Id.split_action_bar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.src_atop = global::COPDapp.Droid.Resource.Id.src_atop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.src_in = global::COPDapp.Droid.Resource.Id.src_in;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.src_over = global::COPDapp.Droid.Resource.Id.src_over;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.start = global::COPDapp.Droid.Resource.Id.start;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.status_bar_latest_event_content = global::COPDapp.Droid.Resource.Id.status_bar_latest_event_content;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.submenuarrow = global::COPDapp.Droid.Resource.Id.submenuarrow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.submit_area = global::COPDapp.Droid.Resource.Id.submit_area;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.tabMode = global::COPDapp.Droid.Resource.Id.tabMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.tag_transition_group = global::COPDapp.Droid.Resource.Id.tag_transition_group;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.text = global::COPDapp.Droid.Resource.Id.text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.text2 = global::COPDapp.Droid.Resource.Id.text2;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.textSpacerNoButtons = global::COPDapp.Droid.Resource.Id.textSpacerNoButtons;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.textSpacerNoTitle = global::COPDapp.Droid.Resource.Id.textSpacerNoTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.text_input_password_toggle = global::COPDapp.Droid.Resource.Id.text_input_password_toggle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.textinput_counter = global::COPDapp.Droid.Resource.Id.textinput_counter;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.textinput_error = global::COPDapp.Droid.Resource.Id.textinput_error;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.time = global::COPDapp.Droid.Resource.Id.time;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.title = global::COPDapp.Droid.Resource.Id.title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.titleDividerNoCustom = global::COPDapp.Droid.Resource.Id.titleDividerNoCustom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.title_template = global::COPDapp.Droid.Resource.Id.title_template;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.top = global::COPDapp.Droid.Resource.Id.top;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.topPanel = global::COPDapp.Droid.Resource.Id.topPanel;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.touch_outside = global::COPDapp.Droid.Resource.Id.touch_outside;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.transition_current_scene = global::COPDapp.Droid.Resource.Id.transition_current_scene;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.transition_layout_save = global::COPDapp.Droid.Resource.Id.transition_layout_save;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.transition_position = global::COPDapp.Droid.Resource.Id.transition_position;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.transition_scene_layoutid_cache = global::COPDapp.Droid.Resource.Id.transition_scene_layoutid_cache;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.transition_transform = global::COPDapp.Droid.Resource.Id.transition_transform;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.uniform = global::COPDapp.Droid.Resource.Id.uniform;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.up = global::COPDapp.Droid.Resource.Id.up;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.useLogo = global::COPDapp.Droid.Resource.Id.useLogo;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.view_offset_helper = global::COPDapp.Droid.Resource.Id.view_offset_helper;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.visible = global::COPDapp.Droid.Resource.Id.visible;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.withText = global::COPDapp.Droid.Resource.Id.withText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Id.wrap_content = global::COPDapp.Droid.Resource.Id.wrap_content;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.abc_config_activityDefaultDur = global::COPDapp.Droid.Resource.Integer.abc_config_activityDefaultDur;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.abc_config_activityShortDur = global::COPDapp.Droid.Resource.Integer.abc_config_activityShortDur;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.app_bar_elevation_anim_duration = global::COPDapp.Droid.Resource.Integer.app_bar_elevation_anim_duration;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.bottom_sheet_slide_duration = global::COPDapp.Droid.Resource.Integer.bottom_sheet_slide_duration;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.cancel_button_image_alpha = global::COPDapp.Droid.Resource.Integer.cancel_button_image_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.config_tooltipAnimTime = global::COPDapp.Droid.Resource.Integer.config_tooltipAnimTime;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.design_snackbar_text_max_lines = global::COPDapp.Droid.Resource.Integer.design_snackbar_text_max_lines;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.hide_password_duration = global::COPDapp.Droid.Resource.Integer.hide_password_duration;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.show_password_duration = global::COPDapp.Droid.Resource.Integer.show_password_duration;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Integer.status_bar_notification_info_maxnum = global::COPDapp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_action_bar_title_item = global::COPDapp.Droid.Resource.Layout.abc_action_bar_title_item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_action_bar_up_container = global::COPDapp.Droid.Resource.Layout.abc_action_bar_up_container;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_action_menu_item_layout = global::COPDapp.Droid.Resource.Layout.abc_action_menu_item_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_action_menu_layout = global::COPDapp.Droid.Resource.Layout.abc_action_menu_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_action_mode_bar = global::COPDapp.Droid.Resource.Layout.abc_action_mode_bar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_action_mode_close_item_material = global::COPDapp.Droid.Resource.Layout.abc_action_mode_close_item_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_activity_chooser_view = global::COPDapp.Droid.Resource.Layout.abc_activity_chooser_view;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::COPDapp.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::COPDapp.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_alert_dialog_material = global::COPDapp.Droid.Resource.Layout.abc_alert_dialog_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_alert_dialog_title_material = global::COPDapp.Droid.Resource.Layout.abc_alert_dialog_title_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_dialog_title_material = global::COPDapp.Droid.Resource.Layout.abc_dialog_title_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_expanded_menu_layout = global::COPDapp.Droid.Resource.Layout.abc_expanded_menu_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_list_menu_item_checkbox = global::COPDapp.Droid.Resource.Layout.abc_list_menu_item_checkbox;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_list_menu_item_icon = global::COPDapp.Droid.Resource.Layout.abc_list_menu_item_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_list_menu_item_layout = global::COPDapp.Droid.Resource.Layout.abc_list_menu_item_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_list_menu_item_radio = global::COPDapp.Droid.Resource.Layout.abc_list_menu_item_radio;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::COPDapp.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_popup_menu_item_layout = global::COPDapp.Droid.Resource.Layout.abc_popup_menu_item_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_screen_content_include = global::COPDapp.Droid.Resource.Layout.abc_screen_content_include;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_screen_simple = global::COPDapp.Droid.Resource.Layout.abc_screen_simple;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::COPDapp.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_screen_toolbar = global::COPDapp.Droid.Resource.Layout.abc_screen_toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::COPDapp.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_search_view = global::COPDapp.Droid.Resource.Layout.abc_search_view;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.abc_select_dialog_material = global::COPDapp.Droid.Resource.Layout.abc_select_dialog_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.BottomTabLayout = global::COPDapp.Droid.Resource.Layout.BottomTabLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_bottom_navigation_item = global::COPDapp.Droid.Resource.Layout.design_bottom_navigation_item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_bottom_sheet_dialog = global::COPDapp.Droid.Resource.Layout.design_bottom_sheet_dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_layout_snackbar = global::COPDapp.Droid.Resource.Layout.design_layout_snackbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_layout_snackbar_include = global::COPDapp.Droid.Resource.Layout.design_layout_snackbar_include;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_layout_tab_icon = global::COPDapp.Droid.Resource.Layout.design_layout_tab_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_layout_tab_text = global::COPDapp.Droid.Resource.Layout.design_layout_tab_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_menu_item_action_area = global::COPDapp.Droid.Resource.Layout.design_menu_item_action_area;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_navigation_item = global::COPDapp.Droid.Resource.Layout.design_navigation_item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_navigation_item_header = global::COPDapp.Droid.Resource.Layout.design_navigation_item_header;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_navigation_item_separator = global::COPDapp.Droid.Resource.Layout.design_navigation_item_separator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_navigation_item_subheader = global::COPDapp.Droid.Resource.Layout.design_navigation_item_subheader;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_navigation_menu = global::COPDapp.Droid.Resource.Layout.design_navigation_menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_navigation_menu_item = global::COPDapp.Droid.Resource.Layout.design_navigation_menu_item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.design_text_input_password_icon = global::COPDapp.Droid.Resource.Layout.design_text_input_password_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.FlyoutContent = global::COPDapp.Droid.Resource.Layout.FlyoutContent;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_action = global::COPDapp.Droid.Resource.Layout.notification_action;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_action_tombstone = global::COPDapp.Droid.Resource.Layout.notification_action_tombstone;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_media_action = global::COPDapp.Droid.Resource.Layout.notification_media_action;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_media_cancel_action = global::COPDapp.Droid.Resource.Layout.notification_media_cancel_action;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_big_media = global::COPDapp.Droid.Resource.Layout.notification_template_big_media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_big_media_custom = global::COPDapp.Droid.Resource.Layout.notification_template_big_media_custom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_big_media_narrow = global::COPDapp.Droid.Resource.Layout.notification_template_big_media_narrow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::COPDapp.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_custom_big = global::COPDapp.Droid.Resource.Layout.notification_template_custom_big;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_icon_group = global::COPDapp.Droid.Resource.Layout.notification_template_icon_group;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_lines_media = global::COPDapp.Droid.Resource.Layout.notification_template_lines_media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_media = global::COPDapp.Droid.Resource.Layout.notification_template_media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_media_custom = global::COPDapp.Droid.Resource.Layout.notification_template_media_custom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_part_chronometer = global::COPDapp.Droid.Resource.Layout.notification_template_part_chronometer;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.notification_template_part_time = global::COPDapp.Droid.Resource.Layout.notification_template_part_time;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.RootLayout = global::COPDapp.Droid.Resource.Layout.RootLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.select_dialog_item_material = global::COPDapp.Droid.Resource.Layout.select_dialog_item_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.select_dialog_multichoice_material = global::COPDapp.Droid.Resource.Layout.select_dialog_multichoice_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.select_dialog_singlechoice_material = global::COPDapp.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.ShellContent = global::COPDapp.Droid.Resource.Layout.ShellContent;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::COPDapp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_action_bar_home_description = global::COPDapp.Droid.Resource.String.abc_action_bar_home_description;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_action_bar_up_description = global::COPDapp.Droid.Resource.String.abc_action_bar_up_description;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_action_menu_overflow_description = global::COPDapp.Droid.Resource.String.abc_action_menu_overflow_description;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_action_mode_done = global::COPDapp.Droid.Resource.String.abc_action_mode_done;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_activity_chooser_view_see_all = global::COPDapp.Droid.Resource.String.abc_activity_chooser_view_see_all;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_activitychooserview_choose_application = global::COPDapp.Droid.Resource.String.abc_activitychooserview_choose_application;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_capital_off = global::COPDapp.Droid.Resource.String.abc_capital_off;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_capital_on = global::COPDapp.Droid.Resource.String.abc_capital_on;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_body_1_material = global::COPDapp.Droid.Resource.String.abc_font_family_body_1_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_body_2_material = global::COPDapp.Droid.Resource.String.abc_font_family_body_2_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_button_material = global::COPDapp.Droid.Resource.String.abc_font_family_button_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_caption_material = global::COPDapp.Droid.Resource.String.abc_font_family_caption_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_display_1_material = global::COPDapp.Droid.Resource.String.abc_font_family_display_1_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_display_2_material = global::COPDapp.Droid.Resource.String.abc_font_family_display_2_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_display_3_material = global::COPDapp.Droid.Resource.String.abc_font_family_display_3_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_display_4_material = global::COPDapp.Droid.Resource.String.abc_font_family_display_4_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_headline_material = global::COPDapp.Droid.Resource.String.abc_font_family_headline_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_menu_material = global::COPDapp.Droid.Resource.String.abc_font_family_menu_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_subhead_material = global::COPDapp.Droid.Resource.String.abc_font_family_subhead_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_font_family_title_material = global::COPDapp.Droid.Resource.String.abc_font_family_title_material;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_search_hint = global::COPDapp.Droid.Resource.String.abc_search_hint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_searchview_description_clear = global::COPDapp.Droid.Resource.String.abc_searchview_description_clear;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_searchview_description_query = global::COPDapp.Droid.Resource.String.abc_searchview_description_query;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_searchview_description_search = global::COPDapp.Droid.Resource.String.abc_searchview_description_search;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_searchview_description_submit = global::COPDapp.Droid.Resource.String.abc_searchview_description_submit;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_searchview_description_voice = global::COPDapp.Droid.Resource.String.abc_searchview_description_voice;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_shareactionprovider_share_with = global::COPDapp.Droid.Resource.String.abc_shareactionprovider_share_with;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_shareactionprovider_share_with_application = global::COPDapp.Droid.Resource.String.abc_shareactionprovider_share_with_application;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.abc_toolbar_collapse_description = global::COPDapp.Droid.Resource.String.abc_toolbar_collapse_description;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.app_name = global::COPDapp.Droid.Resource.String.app_name;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.appbar_scrolling_view_behavior = global::COPDapp.Droid.Resource.String.appbar_scrolling_view_behavior;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.bottom_sheet_behavior = global::COPDapp.Droid.Resource.String.bottom_sheet_behavior;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.character_counter_pattern = global::COPDapp.Droid.Resource.String.character_counter_pattern;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.hello = global::COPDapp.Droid.Resource.String.hello;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.password_toggle_content_description = global::COPDapp.Droid.Resource.String.password_toggle_content_description;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.path_password_eye = global::COPDapp.Droid.Resource.String.path_password_eye;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.path_password_eye_mask_strike_through = global::COPDapp.Droid.Resource.String.path_password_eye_mask_strike_through;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.path_password_eye_mask_visible = global::COPDapp.Droid.Resource.String.path_password_eye_mask_visible;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.path_password_strike_through = global::COPDapp.Droid.Resource.String.path_password_strike_through;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.search_menu_title = global::COPDapp.Droid.Resource.String.search_menu_title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.String.status_bar_notification_info_overflow = global::COPDapp.Droid.Resource.String.status_bar_notification_info_overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.AlertDialog_AppCompat = global::COPDapp.Droid.Resource.Style.AlertDialog_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.AlertDialog_AppCompat_Light = global::COPDapp.Droid.Resource.Style.AlertDialog_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Animation_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Animation_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::COPDapp.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Animation_AppCompat_Tooltip = global::COPDapp.Droid.Resource.Style.Animation_AppCompat_Tooltip;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::COPDapp.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_AlertDialog_AppCompat = global::COPDapp.Droid.Resource.Style.Base_AlertDialog_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::COPDapp.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::COPDapp.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_CardView = global::COPDapp.Droid.Resource.Style.Base_CardView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::COPDapp.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::COPDapp.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::COPDapp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::COPDapp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::COPDapp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::COPDapp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::COPDapp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::COPDapp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::COPDapp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V21_Theme_AppCompat = global::COPDapp.Droid.Resource.Style.Base_V21_Theme_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::COPDapp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V22_Theme_AppCompat = global::COPDapp.Droid.Resource.Style.Base_V22_Theme_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V23_Theme_AppCompat = global::COPDapp.Droid.Resource.Style.Base_V23_Theme_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V26_Theme_AppCompat = global::COPDapp.Droid.Resource.Style.Base_V26_Theme_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::COPDapp.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_Theme_AppCompat = global::COPDapp.Droid.Resource.Style.Base_V7_Theme_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::COPDapp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::COPDapp.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::COPDapp.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::COPDapp.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Button = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::COPDapp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Base_Widget_Design_TabLayout = global::COPDapp.Droid.Resource.Style.Base_Widget_Design_TabLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.CardView = global::COPDapp.Droid.Resource.Style.CardView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.CardView_Dark = global::COPDapp.Droid.Resource.Style.CardView_Dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.CardView_Light = global::COPDapp.Droid.Resource.Style.CardView_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_AppCompat = global::COPDapp.Droid.Resource.Style.Platform_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Platform_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::COPDapp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::COPDapp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_V21_AppCompat = global::COPDapp.Droid.Resource.Style.Platform_V21_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_V21_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Platform_V21_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_V25_AppCompat = global::COPDapp.Droid.Resource.Style.Platform_V25_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_V25_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Platform_V25_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::COPDapp.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::COPDapp.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::COPDapp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::COPDapp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::COPDapp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Button = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Large = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Large;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Small = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Title = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::COPDapp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::COPDapp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::COPDapp.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Design_Counter = global::COPDapp.Droid.Resource.Style.TextAppearance_Design_Counter;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::COPDapp.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Design_Error = global::COPDapp.Droid.Resource.Style.TextAppearance_Design_Error;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Design_Hint = global::COPDapp.Droid.Resource.Style.TextAppearance_Design_Hint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::COPDapp.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Design_Tab = global::COPDapp.Droid.Resource.Style.TextAppearance_Design_Tab;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::COPDapp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::COPDapp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::COPDapp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat = global::COPDapp.Droid.Resource.Style.Theme_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DayNight = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DayNight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Light = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::COPDapp.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_Design = global::COPDapp.Droid.Resource.Style.Theme_Design;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::COPDapp.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_Design_Light = global::COPDapp.Droid.Resource.Style.Theme_Design_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::COPDapp.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::COPDapp.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Theme_Design_NoActionBar = global::COPDapp.Droid.Resource.Style.Theme_Design_NoActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.ThemeOverlay_AppCompat = global::COPDapp.Droid.Resource.Style.ThemeOverlay_AppCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::COPDapp.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::COPDapp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::COPDapp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::COPDapp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::COPDapp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::COPDapp.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionButton = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActionMode = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActionMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Button = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Button_Small = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Button_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_EditText = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_EditText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ImageButton = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ImageButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ListView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ListView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_RatingBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_RatingBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_SearchView = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_SearchView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_SeekBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_SeekBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Spinner = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Toolbar = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::COPDapp.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::COPDapp.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Compat_NotificationActionText = global::COPDapp.Droid.Resource.Style.Widget_Compat_NotificationActionText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_AppBarLayout = global::COPDapp.Droid.Resource.Style.Widget_Design_AppBarLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_BottomNavigationView = global::COPDapp.Droid.Resource.Style.Widget_Design_BottomNavigationView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::COPDapp.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::COPDapp.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_FloatingActionButton = global::COPDapp.Droid.Resource.Style.Widget_Design_FloatingActionButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_NavigationView = global::COPDapp.Droid.Resource.Style.Widget_Design_NavigationView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::COPDapp.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_Snackbar = global::COPDapp.Droid.Resource.Style.Widget_Design_Snackbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_TabLayout = global::COPDapp.Droid.Resource.Style.Widget_Design_TabLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Style.Widget_Design_TextInputLayout = global::COPDapp.Droid.Resource.Style.Widget_Design_TextInputLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar = global::COPDapp.Droid.Resource.Styleable.ActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_background = global::COPDapp.Droid.Resource.Styleable.ActionBar_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_backgroundSplit = global::COPDapp.Droid.Resource.Styleable.ActionBar_backgroundSplit;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_backgroundStacked = global::COPDapp.Droid.Resource.Styleable.ActionBar_backgroundStacked;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::COPDapp.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::COPDapp.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::COPDapp.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_contentInsetRight = global::COPDapp.Droid.Resource.Styleable.ActionBar_contentInsetRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_contentInsetStart = global::COPDapp.Droid.Resource.Styleable.ActionBar_contentInsetStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::COPDapp.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::COPDapp.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_displayOptions = global::COPDapp.Droid.Resource.Styleable.ActionBar_displayOptions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_divider = global::COPDapp.Droid.Resource.Styleable.ActionBar_divider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_elevation = global::COPDapp.Droid.Resource.Styleable.ActionBar_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_height = global::COPDapp.Droid.Resource.Styleable.ActionBar_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::COPDapp.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::COPDapp.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_homeLayout = global::COPDapp.Droid.Resource.Styleable.ActionBar_homeLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_icon = global::COPDapp.Droid.Resource.Styleable.ActionBar_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::COPDapp.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_itemPadding = global::COPDapp.Droid.Resource.Styleable.ActionBar_itemPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_logo = global::COPDapp.Droid.Resource.Styleable.ActionBar_logo;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_navigationMode = global::COPDapp.Droid.Resource.Styleable.ActionBar_navigationMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_popupTheme = global::COPDapp.Droid.Resource.Styleable.ActionBar_popupTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_progressBarPadding = global::COPDapp.Droid.Resource.Styleable.ActionBar_progressBarPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_progressBarStyle = global::COPDapp.Droid.Resource.Styleable.ActionBar_progressBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_subtitle = global::COPDapp.Droid.Resource.Styleable.ActionBar_subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::COPDapp.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_title = global::COPDapp.Droid.Resource.Styleable.ActionBar_title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBar_titleTextStyle = global::COPDapp.Droid.Resource.Styleable.ActionBar_titleTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBarLayout = global::COPDapp.Droid.Resource.Styleable.ActionBarLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::COPDapp.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMenuItemView = global::COPDapp.Droid.Resource.Styleable.ActionMenuItemView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::COPDapp.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMenuView = global::COPDapp.Droid.Resource.Styleable.ActionMenuView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMode = global::COPDapp.Droid.Resource.Styleable.ActionMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMode_background = global::COPDapp.Droid.Resource.Styleable.ActionMode_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMode_backgroundSplit = global::COPDapp.Droid.Resource.Styleable.ActionMode_backgroundSplit;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMode_closeItemLayout = global::COPDapp.Droid.Resource.Styleable.ActionMode_closeItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMode_height = global::COPDapp.Droid.Resource.Styleable.ActionMode_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::COPDapp.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActionMode_titleTextStyle = global::COPDapp.Droid.Resource.Styleable.ActionMode_titleTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActivityChooserView = global::COPDapp.Droid.Resource.Styleable.ActivityChooserView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::COPDapp.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::COPDapp.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog = global::COPDapp.Droid.Resource.Styleable.AlertDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog_android_layout = global::COPDapp.Droid.Resource.Styleable.AlertDialog_android_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::COPDapp.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog_listItemLayout = global::COPDapp.Droid.Resource.Styleable.AlertDialog_listItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog_listLayout = global::COPDapp.Droid.Resource.Styleable.AlertDialog_listLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::COPDapp.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog_showTitle = global::COPDapp.Droid.Resource.Styleable.AlertDialog_showTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::COPDapp.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout = global::COPDapp.Droid.Resource.Styleable.AppBarLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_android_background = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_android_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_elevation = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_expanded = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_expanded;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayoutStates = global::COPDapp.Droid.Resource.Styleable.AppBarLayoutStates;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::COPDapp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::COPDapp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_Layout = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_Layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::COPDapp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatImageView = global::COPDapp.Droid.Resource.Styleable.AppCompatImageView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatImageView_android_src = global::COPDapp.Droid.Resource.Styleable.AppCompatImageView_android_src;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::COPDapp.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatImageView_tint = global::COPDapp.Droid.Resource.Styleable.AppCompatImageView_tint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatImageView_tintMode = global::COPDapp.Droid.Resource.Styleable.AppCompatImageView_tintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatSeekBar = global::COPDapp.Droid.Resource.Styleable.AppCompatSeekBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::COPDapp.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::COPDapp.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::COPDapp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::COPDapp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::COPDapp.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::COPDapp.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorError = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorError;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::COPDapp.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomNavigationView = global::COPDapp.Droid.Resource.Styleable.BottomNavigationView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomNavigationView_elevation = global::COPDapp.Droid.Resource.Styleable.BottomNavigationView_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::COPDapp.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::COPDapp.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::COPDapp.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomNavigationView_menu = global::COPDapp.Droid.Resource.Styleable.BottomNavigationView_menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::COPDapp.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::COPDapp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::COPDapp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::COPDapp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ButtonBarLayout = global::COPDapp.Droid.Resource.Styleable.ButtonBarLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::COPDapp.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView = global::COPDapp.Droid.Resource.Styleable.CardView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_android_minHeight = global::COPDapp.Droid.Resource.Styleable.CardView_android_minHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_android_minWidth = global::COPDapp.Droid.Resource.Styleable.CardView_android_minWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_cardBackgroundColor = global::COPDapp.Droid.Resource.Styleable.CardView_cardBackgroundColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_cardCornerRadius = global::COPDapp.Droid.Resource.Styleable.CardView_cardCornerRadius;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_cardElevation = global::COPDapp.Droid.Resource.Styleable.CardView_cardElevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_cardMaxElevation = global::COPDapp.Droid.Resource.Styleable.CardView_cardMaxElevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::COPDapp.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::COPDapp.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_contentPadding = global::COPDapp.Droid.Resource.Styleable.CardView_contentPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_contentPaddingBottom = global::COPDapp.Droid.Resource.Styleable.CardView_contentPaddingBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_contentPaddingLeft = global::COPDapp.Droid.Resource.Styleable.CardView_contentPaddingLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_contentPaddingRight = global::COPDapp.Droid.Resource.Styleable.CardView_contentPaddingRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CardView_contentPaddingTop = global::COPDapp.Droid.Resource.Styleable.CardView_contentPaddingTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::COPDapp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ColorStateListItem = global::COPDapp.Droid.Resource.Styleable.ColorStateListItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ColorStateListItem_alpha = global::COPDapp.Droid.Resource.Styleable.ColorStateListItem_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::COPDapp.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ColorStateListItem_android_color = global::COPDapp.Droid.Resource.Styleable.ColorStateListItem_android_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CompoundButton = global::COPDapp.Droid.Resource.Styleable.CompoundButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CompoundButton_android_button = global::COPDapp.Droid.Resource.Styleable.CompoundButton_android_button;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CompoundButton_buttonTint = global::COPDapp.Droid.Resource.Styleable.CompoundButton_buttonTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::COPDapp.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_keylines = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_keylines;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::COPDapp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DesignTheme = global::COPDapp.Droid.Resource.Styleable.DesignTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::COPDapp.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::COPDapp.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_color = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_color;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::COPDapp.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_elevation = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_fabSize = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_fabSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::COPDapp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamily = global::COPDapp.Droid.Resource.Styleable.FontFamily;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::COPDapp.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::COPDapp.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::COPDapp.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::COPDapp.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::COPDapp.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::COPDapp.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamilyFont = global::COPDapp.Droid.Resource.Styleable.FontFamilyFont;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamilyFont_android_font = global::COPDapp.Droid.Resource.Styleable.FontFamilyFont_android_font;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::COPDapp.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::COPDapp.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamilyFont_font = global::COPDapp.Droid.Resource.Styleable.FontFamilyFont_font;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::COPDapp.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::COPDapp.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ForegroundLinearLayout = global::COPDapp.Droid.Resource.Styleable.ForegroundLinearLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::COPDapp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::COPDapp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::COPDapp.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_divider = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_divider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::COPDapp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ListPopupWindow = global::COPDapp.Droid.Resource.Styleable.ListPopupWindow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::COPDapp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::COPDapp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuGroup = global::COPDapp.Droid.Resource.Styleable.MenuGroup;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::COPDapp.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuGroup_android_enabled = global::COPDapp.Droid.Resource.Styleable.MenuGroup_android_enabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuGroup_android_id = global::COPDapp.Droid.Resource.Styleable.MenuGroup_android_id;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::COPDapp.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::COPDapp.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuGroup_android_visible = global::COPDapp.Droid.Resource.Styleable.MenuGroup_android_visible;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem = global::COPDapp.Droid.Resource.Styleable.MenuItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_actionLayout = global::COPDapp.Droid.Resource.Styleable.MenuItem_actionLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_actionProviderClass = global::COPDapp.Droid.Resource.Styleable.MenuItem_actionProviderClass;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_actionViewClass = global::COPDapp.Droid.Resource.Styleable.MenuItem_actionViewClass;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::COPDapp.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_checkable = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_checkable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_checked = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_checked;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_enabled = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_enabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_icon = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_id = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_id;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_menuCategory = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_menuCategory;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_onClick = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_onClick;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_title = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_android_visible = global::COPDapp.Droid.Resource.Styleable.MenuItem_android_visible;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_contentDescription = global::COPDapp.Droid.Resource.Styleable.MenuItem_contentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_iconTint = global::COPDapp.Droid.Resource.Styleable.MenuItem_iconTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_iconTintMode = global::COPDapp.Droid.Resource.Styleable.MenuItem_iconTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_numericModifiers = global::COPDapp.Droid.Resource.Styleable.MenuItem_numericModifiers;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_showAsAction = global::COPDapp.Droid.Resource.Styleable.MenuItem_showAsAction;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuItem_tooltipText = global::COPDapp.Droid.Resource.Styleable.MenuItem_tooltipText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView = global::COPDapp.Droid.Resource.Styleable.MenuView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_android_headerBackground = global::COPDapp.Droid.Resource.Styleable.MenuView_android_headerBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::COPDapp.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_android_itemBackground = global::COPDapp.Droid.Resource.Styleable.MenuView_android_itemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::COPDapp.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::COPDapp.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_android_verticalDivider = global::COPDapp.Droid.Resource.Styleable.MenuView_android_verticalDivider;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::COPDapp.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::COPDapp.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.MenuView_subMenuArrow = global::COPDapp.Droid.Resource.Styleable.MenuView_subMenuArrow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView = global::COPDapp.Droid.Resource.Styleable.NavigationView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_android_background = global::COPDapp.Droid.Resource.Styleable.NavigationView_android_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::COPDapp.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_android_maxWidth = global::COPDapp.Droid.Resource.Styleable.NavigationView_android_maxWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_elevation = global::COPDapp.Droid.Resource.Styleable.NavigationView_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_headerLayout = global::COPDapp.Droid.Resource.Styleable.NavigationView_headerLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_itemBackground = global::COPDapp.Droid.Resource.Styleable.NavigationView_itemBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_itemIconTint = global::COPDapp.Droid.Resource.Styleable.NavigationView_itemIconTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::COPDapp.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_itemTextColor = global::COPDapp.Droid.Resource.Styleable.NavigationView_itemTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.NavigationView_menu = global::COPDapp.Droid.Resource.Styleable.NavigationView_menu;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.PopupWindow = global::COPDapp.Droid.Resource.Styleable.PopupWindow;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::COPDapp.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::COPDapp.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::COPDapp.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.PopupWindowBackgroundState = global::COPDapp.Droid.Resource.Styleable.PopupWindowBackgroundState;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::COPDapp.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecycleListView = global::COPDapp.Droid.Resource.Styleable.RecycleListView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::COPDapp.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::COPDapp.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView = global::COPDapp.Droid.Resource.Styleable.RecyclerView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::COPDapp.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_android_orientation = global::COPDapp.Droid.Resource.Styleable.RecyclerView_android_orientation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::COPDapp.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::COPDapp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::COPDapp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::COPDapp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::COPDapp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_layoutManager = global::COPDapp.Droid.Resource.Styleable.RecyclerView_layoutManager;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_reverseLayout = global::COPDapp.Droid.Resource.Styleable.RecyclerView_reverseLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_spanCount = global::COPDapp.Droid.Resource.Styleable.RecyclerView_spanCount;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::COPDapp.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::COPDapp.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::COPDapp.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::COPDapp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::COPDapp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView = global::COPDapp.Droid.Resource.Styleable.SearchView;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_android_focusable = global::COPDapp.Droid.Resource.Styleable.SearchView_android_focusable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_android_imeOptions = global::COPDapp.Droid.Resource.Styleable.SearchView_android_imeOptions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_android_inputType = global::COPDapp.Droid.Resource.Styleable.SearchView_android_inputType;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_android_maxWidth = global::COPDapp.Droid.Resource.Styleable.SearchView_android_maxWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_closeIcon = global::COPDapp.Droid.Resource.Styleable.SearchView_closeIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_commitIcon = global::COPDapp.Droid.Resource.Styleable.SearchView_commitIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_defaultQueryHint = global::COPDapp.Droid.Resource.Styleable.SearchView_defaultQueryHint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_goIcon = global::COPDapp.Droid.Resource.Styleable.SearchView_goIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::COPDapp.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_layout = global::COPDapp.Droid.Resource.Styleable.SearchView_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_queryBackground = global::COPDapp.Droid.Resource.Styleable.SearchView_queryBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_queryHint = global::COPDapp.Droid.Resource.Styleable.SearchView_queryHint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_searchHintIcon = global::COPDapp.Droid.Resource.Styleable.SearchView_searchHintIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_searchIcon = global::COPDapp.Droid.Resource.Styleable.SearchView_searchIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_submitBackground = global::COPDapp.Droid.Resource.Styleable.SearchView_submitBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::COPDapp.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SearchView_voiceIcon = global::COPDapp.Droid.Resource.Styleable.SearchView_voiceIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SnackbarLayout = global::COPDapp.Droid.Resource.Styleable.SnackbarLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::COPDapp.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SnackbarLayout_elevation = global::COPDapp.Droid.Resource.Styleable.SnackbarLayout_elevation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::COPDapp.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Spinner = global::COPDapp.Droid.Resource.Styleable.Spinner;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::COPDapp.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Spinner_android_entries = global::COPDapp.Droid.Resource.Styleable.Spinner_android_entries;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Spinner_android_popupBackground = global::COPDapp.Droid.Resource.Styleable.Spinner_android_popupBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Spinner_android_prompt = global::COPDapp.Droid.Resource.Styleable.Spinner_android_prompt;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Spinner_popupTheme = global::COPDapp.Droid.Resource.Styleable.Spinner_popupTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat = global::COPDapp.Droid.Resource.Styleable.SwitchCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_android_textOff = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_android_textOff;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_android_textOn = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_android_textOn;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_android_thumb = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_android_thumb;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_showText = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_showText;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_splitTrack = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_splitTrack;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_switchPadding = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_switchPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_thumbTint = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_thumbTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_track = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_track;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_trackTint = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_trackTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::COPDapp.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabItem = global::COPDapp.Droid.Resource.Styleable.TabItem;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabItem_android_icon = global::COPDapp.Droid.Resource.Styleable.TabItem_android_icon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabItem_android_layout = global::COPDapp.Droid.Resource.Styleable.TabItem_android_layout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabItem_android_text = global::COPDapp.Droid.Resource.Styleable.TabItem_android_text;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout = global::COPDapp.Droid.Resource.Styleable.TabLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabBackground = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabBackground;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabContentStart = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabContentStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabGravity = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabMinWidth = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabMinWidth;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabMode = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabPadding = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabPadding;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TabLayout_tabTextColor = global::COPDapp.Droid.Resource.Styleable.TabLayout_tabTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance = global::COPDapp.Droid.Resource.Styleable.TextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_textColor = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_textColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_textSize = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_textSize;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_textStyle = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_textStyle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_android_typeface = global::COPDapp.Droid.Resource.Styleable.TextAppearance_android_typeface;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_fontFamily = global::COPDapp.Droid.Resource.Styleable.TextAppearance_fontFamily;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextAppearance_textAllCaps = global::COPDapp.Droid.Resource.Styleable.TextAppearance_textAllCaps;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout = global::COPDapp.Droid.Resource.Styleable.TextInputLayout;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_android_hint = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_android_hint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::COPDapp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar = global::COPDapp.Droid.Resource.Styleable.Toolbar;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_android_gravity = global::COPDapp.Droid.Resource.Styleable.Toolbar_android_gravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_android_minHeight = global::COPDapp.Droid.Resource.Styleable.Toolbar_android_minHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_buttonGravity = global::COPDapp.Droid.Resource.Styleable.Toolbar_buttonGravity;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::COPDapp.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_collapseIcon = global::COPDapp.Droid.Resource.Styleable.Toolbar_collapseIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::COPDapp.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::COPDapp.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::COPDapp.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_contentInsetRight = global::COPDapp.Droid.Resource.Styleable.Toolbar_contentInsetRight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_contentInsetStart = global::COPDapp.Droid.Resource.Styleable.Toolbar_contentInsetStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::COPDapp.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_logo = global::COPDapp.Droid.Resource.Styleable.Toolbar_logo;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_logoDescription = global::COPDapp.Droid.Resource.Styleable.Toolbar_logoDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::COPDapp.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::COPDapp.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_navigationIcon = global::COPDapp.Droid.Resource.Styleable.Toolbar_navigationIcon;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_popupTheme = global::COPDapp.Droid.Resource.Styleable.Toolbar_popupTheme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_subtitle = global::COPDapp.Droid.Resource.Styleable.Toolbar_subtitle;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::COPDapp.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::COPDapp.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_title = global::COPDapp.Droid.Resource.Styleable.Toolbar_title;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleMargin = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleMargin;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleMarginStart = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleMarginStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleMarginTop = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleMarginTop;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleMargins = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleMargins;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.Toolbar_titleTextColor = global::COPDapp.Droid.Resource.Styleable.Toolbar_titleTextColor;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.View = global::COPDapp.Droid.Resource.Styleable.View;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.View_android_focusable = global::COPDapp.Droid.Resource.Styleable.View_android_focusable;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.View_android_theme = global::COPDapp.Droid.Resource.Styleable.View_android_theme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.View_paddingEnd = global::COPDapp.Droid.Resource.Styleable.View_paddingEnd;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.View_paddingStart = global::COPDapp.Droid.Resource.Styleable.View_paddingStart;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.View_theme = global::COPDapp.Droid.Resource.Styleable.View_theme;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewBackgroundHelper = global::COPDapp.Droid.Resource.Styleable.ViewBackgroundHelper;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::COPDapp.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::COPDapp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::COPDapp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewStubCompat = global::COPDapp.Droid.Resource.Styleable.ViewStubCompat;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewStubCompat_android_id = global::COPDapp.Droid.Resource.Styleable.ViewStubCompat_android_id;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::COPDapp.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
-			global::Xam.Forms.VideoPlayer.Android.Resource.Styleable.ViewStubCompat_android_layout = global::COPDapp.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::COPDapp.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::COPDapp.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::COPDapp.Droid.Resource.Attribute.font;
@@ -10321,268 +8355,262 @@ namespace COPDapp.Droid
 			public const int home = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int ic_fullscreen = 2131165291;
+			public const int ic_mtrl_chip_checked_black = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int ic_fullscreen_exit = 2131165292;
+			public const int ic_mtrl_chip_checked_circle = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int ic_mtrl_chip_checked_black = 2131165293;
+			public const int ic_mtrl_chip_close_circle = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int ic_mtrl_chip_checked_circle = 2131165294;
+			public const int intro_1 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int ic_mtrl_chip_close_circle = 2131165295;
+			public const int intro_2 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int intro_1 = 2131165296;
+			public const int intro_3 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int intro_2 = 2131165297;
+			public const int intro_4 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int intro_3 = 2131165298;
+			public const int intro_5 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int intro_4 = 2131165299;
+			public const int intro_6 = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int intro_5 = 2131165300;
+			public const int intro_7 = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int intro_6 = 2131165301;
+			public const int intro_8 = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int intro_7 = 2131165302;
+			public const int intro_9 = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int intro_8 = 2131165303;
+			public const int last_1 = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int intro_9 = 2131165304;
+			public const int last_2 = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int last_1 = 2131165305;
+			public const int last_3 = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int last_2 = 2131165306;
+			public const int last_4 = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int last_3 = 2131165307;
+			public const int last_5 = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int last_4 = 2131165308;
+			public const int last_6 = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int last_5 = 2131165309;
+			public const int lung04 = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int last_6 = 2131165310;
+			public const int mtrl_snackbar_background = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int lung04 = 2131165311;
+			public const int mtrl_tabs_default_indicator = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int mtrl_snackbar_background = 2131165312;
+			public const int navigation_empty_icon = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int mtrl_tabs_default_indicator = 2131165313;
+			public const int notification_action_background = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int navigation_empty_icon = 2131165314;
+			public const int notification_bg = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int notification_action_background = 2131165315;
+			public const int notification_bg_low = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int notification_bg = 2131165316;
+			public const int notification_bg_low_normal = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int notification_bg_low = 2131165317;
+			public const int notification_bg_low_pressed = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int notification_bg_low_normal = 2131165318;
+			public const int notification_bg_normal = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int notification_bg_low_pressed = 2131165319;
+			public const int notification_bg_normal_pressed = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int notification_bg_normal = 2131165320;
+			public const int notification_icon_background = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int notification_bg_normal_pressed = 2131165321;
+			public const int notification_template_icon_bg = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int notification_icon_background = 2131165322;
+			public const int notification_template_icon_low_bg = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int notification_template_icon_bg = 2131165323;
+			public const int notification_tile_bg = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int notification_template_icon_low_bg = 2131165324;
+			public const int notify_panel_notification_icon_bg = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int notification_tile_bg = 2131165325;
+			public const int prevent_1 = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int notify_panel_notification_icon_bg = 2131165326;
+			public const int prevent_2 = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int prevent_1 = 2131165327;
+			public const int q1 = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int prevent_2 = 2131165328;
+			public const int q10 = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int q1 = 2131165329;
+			public const int q2 = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int q10 = 2131165330;
+			public const int q3 = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int q2 = 2131165331;
+			public const int q4 = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int q3 = 2131165332;
+			public const int q5 = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int q4 = 2131165333;
+			public const int q6 = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int q5 = 2131165334;
+			public const int q7 = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int q6 = 2131165335;
+			public const int q8 = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int q7 = 2131165336;
+			public const int q9 = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int q8 = 2131165337;
+			public const int sdm_1 = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int q9 = 2131165338;
+			public const int sdm_10 = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int sdm_1 = 2131165339;
+			public const int sdm_11 = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int sdm_10 = 2131165340;
+			public const int sdm_12 = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int sdm_11 = 2131165341;
+			public const int sdm_13 = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int sdm_12 = 2131165342;
+			public const int sdm_14 = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int sdm_13 = 2131165343;
+			public const int sdm_15 = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int sdm_14 = 2131165344;
+			public const int sdm_16 = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int sdm_15 = 2131165345;
+			public const int sdm_17 = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int sdm_16 = 2131165346;
+			public const int sdm_18 = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
-			public const int sdm_17 = 2131165347;
+			public const int sdm_19 = 2131165347;
 			
 			// aapt resource value: 0x7F0700A4
-			public const int sdm_18 = 2131165348;
+			public const int sdm_2 = 2131165348;
 			
 			// aapt resource value: 0x7F0700A5
-			public const int sdm_19 = 2131165349;
+			public const int sdm_20 = 2131165349;
 			
 			// aapt resource value: 0x7F0700A6
-			public const int sdm_2 = 2131165350;
+			public const int sdm_21 = 2131165350;
 			
 			// aapt resource value: 0x7F0700A7
-			public const int sdm_20 = 2131165351;
+			public const int sdm_22 = 2131165351;
 			
 			// aapt resource value: 0x7F0700A8
-			public const int sdm_21 = 2131165352;
+			public const int sdm_23 = 2131165352;
 			
 			// aapt resource value: 0x7F0700A9
-			public const int sdm_22 = 2131165353;
+			public const int sdm_24 = 2131165353;
 			
 			// aapt resource value: 0x7F0700AA
-			public const int sdm_23 = 2131165354;
+			public const int sdm_25 = 2131165354;
 			
 			// aapt resource value: 0x7F0700AB
-			public const int sdm_24 = 2131165355;
+			public const int sdm_3 = 2131165355;
 			
 			// aapt resource value: 0x7F0700AC
-			public const int sdm_25 = 2131165356;
+			public const int sdm_4 = 2131165356;
 			
 			// aapt resource value: 0x7F0700AD
-			public const int sdm_3 = 2131165357;
+			public const int sdm_5 = 2131165357;
 			
 			// aapt resource value: 0x7F0700AE
-			public const int sdm_4 = 2131165358;
+			public const int sdm_6 = 2131165358;
 			
 			// aapt resource value: 0x7F0700AF
-			public const int sdm_5 = 2131165359;
+			public const int sdm_7 = 2131165359;
 			
 			// aapt resource value: 0x7F0700B0
-			public const int sdm_6 = 2131165360;
+			public const int sdm_8 = 2131165360;
 			
 			// aapt resource value: 0x7F0700B1
-			public const int sdm_7 = 2131165361;
+			public const int sdm_9 = 2131165361;
 			
 			// aapt resource value: 0x7F0700B2
-			public const int sdm_8 = 2131165362;
+			public const int smoking_1 = 2131165362;
 			
 			// aapt resource value: 0x7F0700B3
-			public const int sdm_9 = 2131165363;
+			public const int smoking_10 = 2131165363;
 			
 			// aapt resource value: 0x7F0700B4
-			public const int smoking_1 = 2131165364;
+			public const int smoking_11 = 2131165364;
 			
 			// aapt resource value: 0x7F0700B5
-			public const int smoking_10 = 2131165365;
+			public const int smoking_2 = 2131165365;
 			
 			// aapt resource value: 0x7F0700B6
-			public const int smoking_11 = 2131165366;
+			public const int smoking_3 = 2131165366;
 			
 			// aapt resource value: 0x7F0700B7
-			public const int smoking_2 = 2131165367;
+			public const int smoking_4 = 2131165367;
 			
 			// aapt resource value: 0x7F0700B8
-			public const int smoking_3 = 2131165368;
+			public const int smoking_5 = 2131165368;
 			
 			// aapt resource value: 0x7F0700B9
-			public const int smoking_4 = 2131165369;
+			public const int smoking_6 = 2131165369;
 			
 			// aapt resource value: 0x7F0700BA
-			public const int smoking_5 = 2131165370;
+			public const int smoking_7 = 2131165370;
 			
 			// aapt resource value: 0x7F0700BB
-			public const int smoking_6 = 2131165371;
+			public const int smoking_8 = 2131165371;
 			
 			// aapt resource value: 0x7F0700BC
-			public const int smoking_7 = 2131165372;
+			public const int smoking_9 = 2131165372;
 			
 			// aapt resource value: 0x7F0700BD
-			public const int smoking_8 = 2131165373;
+			public const int splash_logo = 2131165373;
 			
 			// aapt resource value: 0x7F0700BE
-			public const int smoking_9 = 2131165374;
+			public const int splash_screen = 2131165374;
 			
 			// aapt resource value: 0x7F0700BF
-			public const int splash_logo = 2131165375;
+			public const int tooltip_frame_dark = 2131165375;
 			
 			// aapt resource value: 0x7F0700C0
-			public const int splash_screen = 2131165376;
-			
-			// aapt resource value: 0x7F0700C1
-			public const int tooltip_frame_dark = 2131165377;
-			
-			// aapt resource value: 0x7F0700C2
-			public const int tooltip_frame_light = 2131165378;
+			public const int tooltip_frame_light = 2131165376;
 			
 			static Drawable()
 			{
@@ -11559,179 +9587,228 @@ namespace COPDapp.Droid
 			}
 		}
 		
-		public partial class String
+		public partial class Raw
 		{
 			
 			// aapt resource value: 0x7F0D0000
-			public const int abc_action_bar_home_description = 2131558400;
+			public const int About_COPD = 2131558400;
 			
 			// aapt resource value: 0x7F0D0001
-			public const int abc_action_bar_up_description = 2131558401;
+			public const int Acute_Exacerbations_of_COPD = 2131558401;
 			
 			// aapt resource value: 0x7F0D0002
-			public const int abc_action_menu_overflow_description = 2131558402;
+			public const int breezehaler = 2131558402;
 			
 			// aapt resource value: 0x7F0D0003
-			public const int abc_action_mode_done = 2131558403;
-			
-			// aapt resource value: 0x7F0D0005
-			public const int abc_activitychooserview_choose_application = 2131558405;
+			public const int Comorbidities_of_COPD = 2131558403;
 			
 			// aapt resource value: 0x7F0D0004
-			public const int abc_activity_chooser_view_see_all = 2131558404;
+			public const int COPD_Self_Evaluation = 2131558404;
+			
+			// aapt resource value: 0x7F0D0005
+			public const int DietaryPrinciples = 2131558405;
 			
 			// aapt resource value: 0x7F0D0006
-			public const int abc_capital_off = 2131558406;
+			public const int Ellipta = 2131558406;
 			
 			// aapt resource value: 0x7F0D0007
-			public const int abc_capital_on = 2131558407;
-			
-			// aapt resource value: 0x7F0D0008
-			public const int abc_font_family_body_1_material = 2131558408;
+			public const int Home_Oxygen_Therapy = 2131558407;
 			
 			// aapt resource value: 0x7F0D0009
-			public const int abc_font_family_body_2_material = 2131558409;
+			public const int MDI_without_spacer = 2131558409;
+			
+			// aapt resource value: 0x7F0D0008
+			public const int MDI_with_spacer = 2131558408;
 			
 			// aapt resource value: 0x7F0D000A
-			public const int abc_font_family_button_material = 2131558410;
+			public const int Prevent_Improve_COPD = 2131558410;
 			
 			// aapt resource value: 0x7F0D000B
-			public const int abc_font_family_caption_material = 2131558411;
+			public const int Respimat = 2131558411;
 			
 			// aapt resource value: 0x7F0D000C
-			public const int abc_font_family_display_1_material = 2131558412;
+			public const int Sputum_Removal = 2131558412;
 			
 			// aapt resource value: 0x7F0D000D
-			public const int abc_font_family_display_2_material = 2131558413;
+			public const int Turbuhaler = 2131558413;
 			
-			// aapt resource value: 0x7F0D000E
-			public const int abc_font_family_display_3_material = 2131558414;
+			static Raw()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
 			
-			// aapt resource value: 0x7F0D000F
-			public const int abc_font_family_display_4_material = 2131558415;
+			private Raw()
+			{
+			}
+		}
+		
+		public partial class String
+		{
 			
-			// aapt resource value: 0x7F0D0010
-			public const int abc_font_family_headline_material = 2131558416;
+			// aapt resource value: 0x7F0E0000
+			public const int abc_action_bar_home_description = 2131623936;
 			
-			// aapt resource value: 0x7F0D0011
-			public const int abc_font_family_menu_material = 2131558417;
+			// aapt resource value: 0x7F0E0001
+			public const int abc_action_bar_up_description = 2131623937;
 			
-			// aapt resource value: 0x7F0D0012
-			public const int abc_font_family_subhead_material = 2131558418;
+			// aapt resource value: 0x7F0E0002
+			public const int abc_action_menu_overflow_description = 2131623938;
 			
-			// aapt resource value: 0x7F0D0013
-			public const int abc_font_family_title_material = 2131558419;
+			// aapt resource value: 0x7F0E0003
+			public const int abc_action_mode_done = 2131623939;
 			
-			// aapt resource value: 0x7F0D0014
-			public const int abc_menu_alt_shortcut_label = 2131558420;
+			// aapt resource value: 0x7F0E0005
+			public const int abc_activitychooserview_choose_application = 2131623941;
 			
-			// aapt resource value: 0x7F0D0015
-			public const int abc_menu_ctrl_shortcut_label = 2131558421;
+			// aapt resource value: 0x7F0E0004
+			public const int abc_activity_chooser_view_see_all = 2131623940;
 			
-			// aapt resource value: 0x7F0D0016
-			public const int abc_menu_delete_shortcut_label = 2131558422;
+			// aapt resource value: 0x7F0E0006
+			public const int abc_capital_off = 2131623942;
 			
-			// aapt resource value: 0x7F0D0017
-			public const int abc_menu_enter_shortcut_label = 2131558423;
+			// aapt resource value: 0x7F0E0007
+			public const int abc_capital_on = 2131623943;
 			
-			// aapt resource value: 0x7F0D0018
-			public const int abc_menu_function_shortcut_label = 2131558424;
+			// aapt resource value: 0x7F0E0008
+			public const int abc_font_family_body_1_material = 2131623944;
 			
-			// aapt resource value: 0x7F0D0019
-			public const int abc_menu_meta_shortcut_label = 2131558425;
+			// aapt resource value: 0x7F0E0009
+			public const int abc_font_family_body_2_material = 2131623945;
 			
-			// aapt resource value: 0x7F0D001A
-			public const int abc_menu_shift_shortcut_label = 2131558426;
+			// aapt resource value: 0x7F0E000A
+			public const int abc_font_family_button_material = 2131623946;
 			
-			// aapt resource value: 0x7F0D001B
-			public const int abc_menu_space_shortcut_label = 2131558427;
+			// aapt resource value: 0x7F0E000B
+			public const int abc_font_family_caption_material = 2131623947;
 			
-			// aapt resource value: 0x7F0D001C
-			public const int abc_menu_sym_shortcut_label = 2131558428;
+			// aapt resource value: 0x7F0E000C
+			public const int abc_font_family_display_1_material = 2131623948;
 			
-			// aapt resource value: 0x7F0D001D
-			public const int abc_prepend_shortcut_label = 2131558429;
+			// aapt resource value: 0x7F0E000D
+			public const int abc_font_family_display_2_material = 2131623949;
 			
-			// aapt resource value: 0x7F0D001F
-			public const int abc_searchview_description_clear = 2131558431;
+			// aapt resource value: 0x7F0E000E
+			public const int abc_font_family_display_3_material = 2131623950;
 			
-			// aapt resource value: 0x7F0D0020
-			public const int abc_searchview_description_query = 2131558432;
+			// aapt resource value: 0x7F0E000F
+			public const int abc_font_family_display_4_material = 2131623951;
 			
-			// aapt resource value: 0x7F0D0021
-			public const int abc_searchview_description_search = 2131558433;
+			// aapt resource value: 0x7F0E0010
+			public const int abc_font_family_headline_material = 2131623952;
 			
-			// aapt resource value: 0x7F0D0022
-			public const int abc_searchview_description_submit = 2131558434;
+			// aapt resource value: 0x7F0E0011
+			public const int abc_font_family_menu_material = 2131623953;
 			
-			// aapt resource value: 0x7F0D0023
-			public const int abc_searchview_description_voice = 2131558435;
+			// aapt resource value: 0x7F0E0012
+			public const int abc_font_family_subhead_material = 2131623954;
 			
-			// aapt resource value: 0x7F0D001E
-			public const int abc_search_hint = 2131558430;
+			// aapt resource value: 0x7F0E0013
+			public const int abc_font_family_title_material = 2131623955;
 			
-			// aapt resource value: 0x7F0D0024
-			public const int abc_shareactionprovider_share_with = 2131558436;
+			// aapt resource value: 0x7F0E0014
+			public const int abc_menu_alt_shortcut_label = 2131623956;
 			
-			// aapt resource value: 0x7F0D0025
-			public const int abc_shareactionprovider_share_with_application = 2131558437;
+			// aapt resource value: 0x7F0E0015
+			public const int abc_menu_ctrl_shortcut_label = 2131623957;
 			
-			// aapt resource value: 0x7F0D0026
-			public const int abc_toolbar_collapse_description = 2131558438;
+			// aapt resource value: 0x7F0E0016
+			public const int abc_menu_delete_shortcut_label = 2131623958;
 			
-			// aapt resource value: 0x7F0D0028
-			public const int appbar_scrolling_view_behavior = 2131558440;
+			// aapt resource value: 0x7F0E0017
+			public const int abc_menu_enter_shortcut_label = 2131623959;
 			
-			// aapt resource value: 0x7F0D0027
-			public const int app_name = 2131558439;
+			// aapt resource value: 0x7F0E0018
+			public const int abc_menu_function_shortcut_label = 2131623960;
 			
-			// aapt resource value: 0x7F0D0029
-			public const int bottom_sheet_behavior = 2131558441;
+			// aapt resource value: 0x7F0E0019
+			public const int abc_menu_meta_shortcut_label = 2131623961;
 			
-			// aapt resource value: 0x7F0D002A
-			public const int character_counter_content_description = 2131558442;
+			// aapt resource value: 0x7F0E001A
+			public const int abc_menu_shift_shortcut_label = 2131623962;
 			
-			// aapt resource value: 0x7F0D002B
-			public const int character_counter_pattern = 2131558443;
+			// aapt resource value: 0x7F0E001B
+			public const int abc_menu_space_shortcut_label = 2131623963;
 			
-			// aapt resource value: 0x7F0D002C
-			public const int fab_transformation_scrim_behavior = 2131558444;
+			// aapt resource value: 0x7F0E001C
+			public const int abc_menu_sym_shortcut_label = 2131623964;
 			
-			// aapt resource value: 0x7F0D002D
-			public const int fab_transformation_sheet_behavior = 2131558445;
+			// aapt resource value: 0x7F0E001D
+			public const int abc_prepend_shortcut_label = 2131623965;
 			
-			// aapt resource value: 0x7F0D002E
-			public const int hello = 2131558446;
+			// aapt resource value: 0x7F0E001F
+			public const int abc_searchview_description_clear = 2131623967;
 			
-			// aapt resource value: 0x7F0D002F
-			public const int hide_bottom_view_on_scroll_behavior = 2131558447;
+			// aapt resource value: 0x7F0E0020
+			public const int abc_searchview_description_query = 2131623968;
 			
-			// aapt resource value: 0x7F0D0030
-			public const int mtrl_chip_close_icon_content_description = 2131558448;
+			// aapt resource value: 0x7F0E0021
+			public const int abc_searchview_description_search = 2131623969;
 			
-			// aapt resource value: 0x7F0D0031
-			public const int overflow_tab_title = 2131558449;
+			// aapt resource value: 0x7F0E0022
+			public const int abc_searchview_description_submit = 2131623970;
 			
-			// aapt resource value: 0x7F0D0032
-			public const int password_toggle_content_description = 2131558450;
+			// aapt resource value: 0x7F0E0023
+			public const int abc_searchview_description_voice = 2131623971;
 			
-			// aapt resource value: 0x7F0D0033
-			public const int path_password_eye = 2131558451;
+			// aapt resource value: 0x7F0E001E
+			public const int abc_search_hint = 2131623966;
 			
-			// aapt resource value: 0x7F0D0034
-			public const int path_password_eye_mask_strike_through = 2131558452;
+			// aapt resource value: 0x7F0E0024
+			public const int abc_shareactionprovider_share_with = 2131623972;
 			
-			// aapt resource value: 0x7F0D0035
-			public const int path_password_eye_mask_visible = 2131558453;
+			// aapt resource value: 0x7F0E0025
+			public const int abc_shareactionprovider_share_with_application = 2131623973;
 			
-			// aapt resource value: 0x7F0D0036
-			public const int path_password_strike_through = 2131558454;
+			// aapt resource value: 0x7F0E0026
+			public const int abc_toolbar_collapse_description = 2131623974;
 			
-			// aapt resource value: 0x7F0D0037
-			public const int search_menu_title = 2131558455;
+			// aapt resource value: 0x7F0E0027
+			public const int appbar_scrolling_view_behavior = 2131623975;
 			
-			// aapt resource value: 0x7F0D0038
-			public const int status_bar_notification_info_overflow = 2131558456;
+			// aapt resource value: 0x7F0E0028
+			public const int bottom_sheet_behavior = 2131623976;
+			
+			// aapt resource value: 0x7F0E0029
+			public const int character_counter_content_description = 2131623977;
+			
+			// aapt resource value: 0x7F0E002A
+			public const int character_counter_pattern = 2131623978;
+			
+			// aapt resource value: 0x7F0E002B
+			public const int fab_transformation_scrim_behavior = 2131623979;
+			
+			// aapt resource value: 0x7F0E002C
+			public const int fab_transformation_sheet_behavior = 2131623980;
+			
+			// aapt resource value: 0x7F0E002D
+			public const int hide_bottom_view_on_scroll_behavior = 2131623981;
+			
+			// aapt resource value: 0x7F0E002E
+			public const int mtrl_chip_close_icon_content_description = 2131623982;
+			
+			// aapt resource value: 0x7F0E002F
+			public const int overflow_tab_title = 2131623983;
+			
+			// aapt resource value: 0x7F0E0030
+			public const int password_toggle_content_description = 2131623984;
+			
+			// aapt resource value: 0x7F0E0031
+			public const int path_password_eye = 2131623985;
+			
+			// aapt resource value: 0x7F0E0032
+			public const int path_password_eye_mask_strike_through = 2131623986;
+			
+			// aapt resource value: 0x7F0E0033
+			public const int path_password_eye_mask_visible = 2131623987;
+			
+			// aapt resource value: 0x7F0E0034
+			public const int path_password_strike_through = 2131623988;
+			
+			// aapt resource value: 0x7F0E0035
+			public const int search_menu_title = 2131623989;
+			
+			// aapt resource value: 0x7F0E0036
+			public const int status_bar_notification_info_overflow = 2131623990;
 			
 			static String()
 			{
@@ -11746,1526 +9823,1526 @@ namespace COPDapp.Droid
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7F0E0000
-			public const int AlertDialog_AppCompat = 2131623936;
+			// aapt resource value: 0x7F0F0000
+			public const int AlertDialog_AppCompat = 2131689472;
 			
-			// aapt resource value: 0x7F0E0001
-			public const int AlertDialog_AppCompat_Light = 2131623937;
+			// aapt resource value: 0x7F0F0001
+			public const int AlertDialog_AppCompat_Light = 2131689473;
 			
-			// aapt resource value: 0x7F0E0002
-			public const int Animation_AppCompat_Dialog = 2131623938;
+			// aapt resource value: 0x7F0F0002
+			public const int Animation_AppCompat_Dialog = 2131689474;
 			
-			// aapt resource value: 0x7F0E0003
-			public const int Animation_AppCompat_DropDownUp = 2131623939;
+			// aapt resource value: 0x7F0F0003
+			public const int Animation_AppCompat_DropDownUp = 2131689475;
 			
-			// aapt resource value: 0x7F0E0004
-			public const int Animation_AppCompat_Tooltip = 2131623940;
+			// aapt resource value: 0x7F0F0004
+			public const int Animation_AppCompat_Tooltip = 2131689476;
 			
-			// aapt resource value: 0x7F0E0005
-			public const int Animation_Design_BottomSheetDialog = 2131623941;
+			// aapt resource value: 0x7F0F0005
+			public const int Animation_Design_BottomSheetDialog = 2131689477;
 			
-			// aapt resource value: 0x7F0E0006
-			public const int AppCompatDialogStyle = 2131623942;
+			// aapt resource value: 0x7F0F0006
+			public const int AppCompatDialogStyle = 2131689478;
 			
-			// aapt resource value: 0x7F0E0007
-			public const int Base_AlertDialog_AppCompat = 2131623943;
+			// aapt resource value: 0x7F0F0007
+			public const int Base_AlertDialog_AppCompat = 2131689479;
 			
-			// aapt resource value: 0x7F0E0008
-			public const int Base_AlertDialog_AppCompat_Light = 2131623944;
+			// aapt resource value: 0x7F0F0008
+			public const int Base_AlertDialog_AppCompat_Light = 2131689480;
 			
-			// aapt resource value: 0x7F0E0009
-			public const int Base_Animation_AppCompat_Dialog = 2131623945;
+			// aapt resource value: 0x7F0F0009
+			public const int Base_Animation_AppCompat_Dialog = 2131689481;
 			
-			// aapt resource value: 0x7F0E000A
-			public const int Base_Animation_AppCompat_DropDownUp = 2131623946;
+			// aapt resource value: 0x7F0F000A
+			public const int Base_Animation_AppCompat_DropDownUp = 2131689482;
 			
-			// aapt resource value: 0x7F0E000B
-			public const int Base_Animation_AppCompat_Tooltip = 2131623947;
+			// aapt resource value: 0x7F0F000B
+			public const int Base_Animation_AppCompat_Tooltip = 2131689483;
 			
-			// aapt resource value: 0x7F0E000C
-			public const int Base_CardView = 2131623948;
+			// aapt resource value: 0x7F0F000C
+			public const int Base_CardView = 2131689484;
 			
-			// aapt resource value: 0x7F0E000E
-			public const int Base_DialogWindowTitleBackground_AppCompat = 2131623950;
+			// aapt resource value: 0x7F0F000E
+			public const int Base_DialogWindowTitleBackground_AppCompat = 2131689486;
 			
-			// aapt resource value: 0x7F0E000D
-			public const int Base_DialogWindowTitle_AppCompat = 2131623949;
+			// aapt resource value: 0x7F0F000D
+			public const int Base_DialogWindowTitle_AppCompat = 2131689485;
 			
-			// aapt resource value: 0x7F0E000F
-			public const int Base_TextAppearance_AppCompat = 2131623951;
+			// aapt resource value: 0x7F0F000F
+			public const int Base_TextAppearance_AppCompat = 2131689487;
 			
-			// aapt resource value: 0x7F0E0010
-			public const int Base_TextAppearance_AppCompat_Body1 = 2131623952;
+			// aapt resource value: 0x7F0F0010
+			public const int Base_TextAppearance_AppCompat_Body1 = 2131689488;
 			
-			// aapt resource value: 0x7F0E0011
-			public const int Base_TextAppearance_AppCompat_Body2 = 2131623953;
+			// aapt resource value: 0x7F0F0011
+			public const int Base_TextAppearance_AppCompat_Body2 = 2131689489;
 			
-			// aapt resource value: 0x7F0E0012
-			public const int Base_TextAppearance_AppCompat_Button = 2131623954;
+			// aapt resource value: 0x7F0F0012
+			public const int Base_TextAppearance_AppCompat_Button = 2131689490;
 			
-			// aapt resource value: 0x7F0E0013
-			public const int Base_TextAppearance_AppCompat_Caption = 2131623955;
+			// aapt resource value: 0x7F0F0013
+			public const int Base_TextAppearance_AppCompat_Caption = 2131689491;
 			
-			// aapt resource value: 0x7F0E0014
-			public const int Base_TextAppearance_AppCompat_Display1 = 2131623956;
+			// aapt resource value: 0x7F0F0014
+			public const int Base_TextAppearance_AppCompat_Display1 = 2131689492;
 			
-			// aapt resource value: 0x7F0E0015
-			public const int Base_TextAppearance_AppCompat_Display2 = 2131623957;
+			// aapt resource value: 0x7F0F0015
+			public const int Base_TextAppearance_AppCompat_Display2 = 2131689493;
 			
-			// aapt resource value: 0x7F0E0016
-			public const int Base_TextAppearance_AppCompat_Display3 = 2131623958;
+			// aapt resource value: 0x7F0F0016
+			public const int Base_TextAppearance_AppCompat_Display3 = 2131689494;
 			
-			// aapt resource value: 0x7F0E0017
-			public const int Base_TextAppearance_AppCompat_Display4 = 2131623959;
+			// aapt resource value: 0x7F0F0017
+			public const int Base_TextAppearance_AppCompat_Display4 = 2131689495;
 			
-			// aapt resource value: 0x7F0E0018
-			public const int Base_TextAppearance_AppCompat_Headline = 2131623960;
+			// aapt resource value: 0x7F0F0018
+			public const int Base_TextAppearance_AppCompat_Headline = 2131689496;
 			
-			// aapt resource value: 0x7F0E0019
-			public const int Base_TextAppearance_AppCompat_Inverse = 2131623961;
+			// aapt resource value: 0x7F0F0019
+			public const int Base_TextAppearance_AppCompat_Inverse = 2131689497;
 			
-			// aapt resource value: 0x7F0E001A
-			public const int Base_TextAppearance_AppCompat_Large = 2131623962;
+			// aapt resource value: 0x7F0F001A
+			public const int Base_TextAppearance_AppCompat_Large = 2131689498;
 			
-			// aapt resource value: 0x7F0E001B
-			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131623963;
+			// aapt resource value: 0x7F0F001B
+			public const int Base_TextAppearance_AppCompat_Large_Inverse = 2131689499;
 			
-			// aapt resource value: 0x7F0E001C
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131623964;
+			// aapt resource value: 0x7F0F001C
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689500;
 			
-			// aapt resource value: 0x7F0E001D
-			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131623965;
+			// aapt resource value: 0x7F0F001D
+			public const int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689501;
 			
-			// aapt resource value: 0x7F0E001E
-			public const int Base_TextAppearance_AppCompat_Medium = 2131623966;
+			// aapt resource value: 0x7F0F001E
+			public const int Base_TextAppearance_AppCompat_Medium = 2131689502;
 			
-			// aapt resource value: 0x7F0E001F
-			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131623967;
+			// aapt resource value: 0x7F0F001F
+			public const int Base_TextAppearance_AppCompat_Medium_Inverse = 2131689503;
 			
-			// aapt resource value: 0x7F0E0020
-			public const int Base_TextAppearance_AppCompat_Menu = 2131623968;
+			// aapt resource value: 0x7F0F0020
+			public const int Base_TextAppearance_AppCompat_Menu = 2131689504;
 			
-			// aapt resource value: 0x7F0E0021
-			public const int Base_TextAppearance_AppCompat_SearchResult = 2131623969;
+			// aapt resource value: 0x7F0F0021
+			public const int Base_TextAppearance_AppCompat_SearchResult = 2131689505;
 			
-			// aapt resource value: 0x7F0E0022
-			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131623970;
+			// aapt resource value: 0x7F0F0022
+			public const int Base_TextAppearance_AppCompat_SearchResult_Subtitle = 2131689506;
 			
-			// aapt resource value: 0x7F0E0023
-			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131623971;
+			// aapt resource value: 0x7F0F0023
+			public const int Base_TextAppearance_AppCompat_SearchResult_Title = 2131689507;
 			
-			// aapt resource value: 0x7F0E0024
-			public const int Base_TextAppearance_AppCompat_Small = 2131623972;
+			// aapt resource value: 0x7F0F0024
+			public const int Base_TextAppearance_AppCompat_Small = 2131689508;
 			
-			// aapt resource value: 0x7F0E0025
-			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131623973;
+			// aapt resource value: 0x7F0F0025
+			public const int Base_TextAppearance_AppCompat_Small_Inverse = 2131689509;
 			
-			// aapt resource value: 0x7F0E0026
-			public const int Base_TextAppearance_AppCompat_Subhead = 2131623974;
+			// aapt resource value: 0x7F0F0026
+			public const int Base_TextAppearance_AppCompat_Subhead = 2131689510;
 			
-			// aapt resource value: 0x7F0E0027
-			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131623975;
+			// aapt resource value: 0x7F0F0027
+			public const int Base_TextAppearance_AppCompat_Subhead_Inverse = 2131689511;
 			
-			// aapt resource value: 0x7F0E0028
-			public const int Base_TextAppearance_AppCompat_Title = 2131623976;
+			// aapt resource value: 0x7F0F0028
+			public const int Base_TextAppearance_AppCompat_Title = 2131689512;
 			
-			// aapt resource value: 0x7F0E0029
-			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131623977;
+			// aapt resource value: 0x7F0F0029
+			public const int Base_TextAppearance_AppCompat_Title_Inverse = 2131689513;
 			
-			// aapt resource value: 0x7F0E002A
-			public const int Base_TextAppearance_AppCompat_Tooltip = 2131623978;
+			// aapt resource value: 0x7F0F002A
+			public const int Base_TextAppearance_AppCompat_Tooltip = 2131689514;
 			
-			// aapt resource value: 0x7F0E002B
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131623979;
+			// aapt resource value: 0x7F0F002B
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689515;
 			
-			// aapt resource value: 0x7F0E002C
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131623980;
+			// aapt resource value: 0x7F0F002C
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689516;
 			
-			// aapt resource value: 0x7F0E002D
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131623981;
+			// aapt resource value: 0x7F0F002D
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689517;
 			
-			// aapt resource value: 0x7F0E002E
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131623982;
+			// aapt resource value: 0x7F0F002E
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689518;
 			
-			// aapt resource value: 0x7F0E002F
-			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131623983;
+			// aapt resource value: 0x7F0F002F
+			public const int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689519;
 			
-			// aapt resource value: 0x7F0E0030
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131623984;
+			// aapt resource value: 0x7F0F0030
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689520;
 			
-			// aapt resource value: 0x7F0E0031
-			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131623985;
+			// aapt resource value: 0x7F0F0031
+			public const int Base_TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689521;
 			
-			// aapt resource value: 0x7F0E0032
-			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131623986;
+			// aapt resource value: 0x7F0F0032
+			public const int Base_TextAppearance_AppCompat_Widget_Button = 2131689522;
 			
-			// aapt resource value: 0x7F0E0033
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131623987;
+			// aapt resource value: 0x7F0F0033
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689523;
 			
-			// aapt resource value: 0x7F0E0034
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131623988;
+			// aapt resource value: 0x7F0F0034
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Colored = 2131689524;
 			
-			// aapt resource value: 0x7F0E0035
-			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131623989;
+			// aapt resource value: 0x7F0F0035
+			public const int Base_TextAppearance_AppCompat_Widget_Button_Inverse = 2131689525;
 			
-			// aapt resource value: 0x7F0E0036
-			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131623990;
+			// aapt resource value: 0x7F0F0036
+			public const int Base_TextAppearance_AppCompat_Widget_DropDownItem = 2131689526;
 			
-			// aapt resource value: 0x7F0E0037
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131623991;
+			// aapt resource value: 0x7F0F0037
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689527;
 			
-			// aapt resource value: 0x7F0E0038
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131623992;
+			// aapt resource value: 0x7F0F0038
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689528;
 			
-			// aapt resource value: 0x7F0E0039
-			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131623993;
+			// aapt resource value: 0x7F0F0039
+			public const int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689529;
 			
-			// aapt resource value: 0x7F0E003A
-			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131623994;
+			// aapt resource value: 0x7F0F003A
+			public const int Base_TextAppearance_AppCompat_Widget_Switch = 2131689530;
 			
-			// aapt resource value: 0x7F0E003B
-			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131623995;
+			// aapt resource value: 0x7F0F003B
+			public const int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689531;
 			
-			// aapt resource value: 0x7F0E003C
-			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131623996;
+			// aapt resource value: 0x7F0F003C
+			public const int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689532;
 			
-			// aapt resource value: 0x7F0E003D
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131623997;
+			// aapt resource value: 0x7F0F003D
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689533;
 			
-			// aapt resource value: 0x7F0E003E
-			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131623998;
+			// aapt resource value: 0x7F0F003E
+			public const int Base_TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689534;
 			
-			// aapt resource value: 0x7F0E005E
-			public const int Base_ThemeOverlay_AppCompat = 2131624030;
+			// aapt resource value: 0x7F0F005E
+			public const int Base_ThemeOverlay_AppCompat = 2131689566;
 			
-			// aapt resource value: 0x7F0E005F
-			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131624031;
+			// aapt resource value: 0x7F0F005F
+			public const int Base_ThemeOverlay_AppCompat_ActionBar = 2131689567;
 			
-			// aapt resource value: 0x7F0E0060
-			public const int Base_ThemeOverlay_AppCompat_Dark = 2131624032;
+			// aapt resource value: 0x7F0F0060
+			public const int Base_ThemeOverlay_AppCompat_Dark = 2131689568;
 			
-			// aapt resource value: 0x7F0E0061
-			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131624033;
+			// aapt resource value: 0x7F0F0061
+			public const int Base_ThemeOverlay_AppCompat_Dark_ActionBar = 2131689569;
 			
-			// aapt resource value: 0x7F0E0062
-			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131624034;
+			// aapt resource value: 0x7F0F0062
+			public const int Base_ThemeOverlay_AppCompat_Dialog = 2131689570;
 			
-			// aapt resource value: 0x7F0E0063
-			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131624035;
+			// aapt resource value: 0x7F0F0063
+			public const int Base_ThemeOverlay_AppCompat_Dialog_Alert = 2131689571;
 			
-			// aapt resource value: 0x7F0E0064
-			public const int Base_ThemeOverlay_AppCompat_Light = 2131624036;
+			// aapt resource value: 0x7F0F0064
+			public const int Base_ThemeOverlay_AppCompat_Light = 2131689572;
 			
-			// aapt resource value: 0x7F0E0065
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131624037;
+			// aapt resource value: 0x7F0F0065
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog = 2131689573;
 			
-			// aapt resource value: 0x7F0E0066
-			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624038;
+			// aapt resource value: 0x7F0F0066
+			public const int Base_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689574;
 			
-			// aapt resource value: 0x7F0E003F
-			public const int Base_Theme_AppCompat = 2131623999;
+			// aapt resource value: 0x7F0F003F
+			public const int Base_Theme_AppCompat = 2131689535;
 			
-			// aapt resource value: 0x7F0E0040
-			public const int Base_Theme_AppCompat_CompactMenu = 2131624000;
+			// aapt resource value: 0x7F0F0040
+			public const int Base_Theme_AppCompat_CompactMenu = 2131689536;
 			
-			// aapt resource value: 0x7F0E0041
-			public const int Base_Theme_AppCompat_Dialog = 2131624001;
+			// aapt resource value: 0x7F0F0041
+			public const int Base_Theme_AppCompat_Dialog = 2131689537;
 			
-			// aapt resource value: 0x7F0E0045
-			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131624005;
+			// aapt resource value: 0x7F0F0045
+			public const int Base_Theme_AppCompat_DialogWhenLarge = 2131689541;
 			
-			// aapt resource value: 0x7F0E0042
-			public const int Base_Theme_AppCompat_Dialog_Alert = 2131624002;
+			// aapt resource value: 0x7F0F0042
+			public const int Base_Theme_AppCompat_Dialog_Alert = 2131689538;
 			
-			// aapt resource value: 0x7F0E0043
-			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131624003;
+			// aapt resource value: 0x7F0F0043
+			public const int Base_Theme_AppCompat_Dialog_FixedSize = 2131689539;
 			
-			// aapt resource value: 0x7F0E0044
-			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131624004;
+			// aapt resource value: 0x7F0F0044
+			public const int Base_Theme_AppCompat_Dialog_MinWidth = 2131689540;
 			
-			// aapt resource value: 0x7F0E0046
-			public const int Base_Theme_AppCompat_Light = 2131624006;
+			// aapt resource value: 0x7F0F0046
+			public const int Base_Theme_AppCompat_Light = 2131689542;
 			
-			// aapt resource value: 0x7F0E0047
-			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131624007;
+			// aapt resource value: 0x7F0F0047
+			public const int Base_Theme_AppCompat_Light_DarkActionBar = 2131689543;
 			
-			// aapt resource value: 0x7F0E0048
-			public const int Base_Theme_AppCompat_Light_Dialog = 2131624008;
+			// aapt resource value: 0x7F0F0048
+			public const int Base_Theme_AppCompat_Light_Dialog = 2131689544;
 			
-			// aapt resource value: 0x7F0E004C
-			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131624012;
+			// aapt resource value: 0x7F0F004C
+			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131689548;
 			
-			// aapt resource value: 0x7F0E0049
-			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131624009;
+			// aapt resource value: 0x7F0F0049
+			public const int Base_Theme_AppCompat_Light_Dialog_Alert = 2131689545;
 			
-			// aapt resource value: 0x7F0E004A
-			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131624010;
+			// aapt resource value: 0x7F0F004A
+			public const int Base_Theme_AppCompat_Light_Dialog_FixedSize = 2131689546;
 			
-			// aapt resource value: 0x7F0E004B
-			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131624011;
+			// aapt resource value: 0x7F0F004B
+			public const int Base_Theme_AppCompat_Light_Dialog_MinWidth = 2131689547;
 			
-			// aapt resource value: 0x7F0E004D
-			public const int Base_Theme_MaterialComponents = 2131624013;
+			// aapt resource value: 0x7F0F004D
+			public const int Base_Theme_MaterialComponents = 2131689549;
 			
-			// aapt resource value: 0x7F0E004E
-			public const int Base_Theme_MaterialComponents_Bridge = 2131624014;
+			// aapt resource value: 0x7F0F004E
+			public const int Base_Theme_MaterialComponents_Bridge = 2131689550;
 			
-			// aapt resource value: 0x7F0E004F
-			public const int Base_Theme_MaterialComponents_CompactMenu = 2131624015;
+			// aapt resource value: 0x7F0F004F
+			public const int Base_Theme_MaterialComponents_CompactMenu = 2131689551;
 			
-			// aapt resource value: 0x7F0E0050
-			public const int Base_Theme_MaterialComponents_Dialog = 2131624016;
+			// aapt resource value: 0x7F0F0050
+			public const int Base_Theme_MaterialComponents_Dialog = 2131689552;
 			
-			// aapt resource value: 0x7F0E0054
-			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131624020;
+			// aapt resource value: 0x7F0F0054
+			public const int Base_Theme_MaterialComponents_DialogWhenLarge = 2131689556;
 			
-			// aapt resource value: 0x7F0E0051
-			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131624017;
+			// aapt resource value: 0x7F0F0051
+			public const int Base_Theme_MaterialComponents_Dialog_Alert = 2131689553;
 			
-			// aapt resource value: 0x7F0E0052
-			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131624018;
+			// aapt resource value: 0x7F0F0052
+			public const int Base_Theme_MaterialComponents_Dialog_FixedSize = 2131689554;
 			
-			// aapt resource value: 0x7F0E0053
-			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131624019;
+			// aapt resource value: 0x7F0F0053
+			public const int Base_Theme_MaterialComponents_Dialog_MinWidth = 2131689555;
 			
-			// aapt resource value: 0x7F0E0055
-			public const int Base_Theme_MaterialComponents_Light = 2131624021;
+			// aapt resource value: 0x7F0F0055
+			public const int Base_Theme_MaterialComponents_Light = 2131689557;
 			
-			// aapt resource value: 0x7F0E0056
-			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131624022;
+			// aapt resource value: 0x7F0F0056
+			public const int Base_Theme_MaterialComponents_Light_Bridge = 2131689558;
 			
-			// aapt resource value: 0x7F0E0057
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131624023;
+			// aapt resource value: 0x7F0F0057
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar = 2131689559;
 			
-			// aapt resource value: 0x7F0E0058
-			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624024;
+			// aapt resource value: 0x7F0F0058
+			public const int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689560;
 			
-			// aapt resource value: 0x7F0E0059
-			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131624025;
+			// aapt resource value: 0x7F0F0059
+			public const int Base_Theme_MaterialComponents_Light_Dialog = 2131689561;
 			
-			// aapt resource value: 0x7F0E005D
-			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131624029;
+			// aapt resource value: 0x7F0F005D
+			public const int Base_Theme_MaterialComponents_Light_DialogWhenLarge = 2131689565;
 			
-			// aapt resource value: 0x7F0E005A
-			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131624026;
+			// aapt resource value: 0x7F0F005A
+			public const int Base_Theme_MaterialComponents_Light_Dialog_Alert = 2131689562;
 			
-			// aapt resource value: 0x7F0E005B
-			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131624027;
+			// aapt resource value: 0x7F0F005B
+			public const int Base_Theme_MaterialComponents_Light_Dialog_FixedSize = 2131689563;
 			
-			// aapt resource value: 0x7F0E005C
-			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624028;
+			// aapt resource value: 0x7F0F005C
+			public const int Base_Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689564;
 			
-			// aapt resource value: 0x7F0E006E
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131624046;
+			// aapt resource value: 0x7F0F006E
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog = 2131689582;
 			
-			// aapt resource value: 0x7F0E006F
-			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624047;
+			// aapt resource value: 0x7F0F006F
+			public const int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689583;
 			
-			// aapt resource value: 0x7F0E0067
-			public const int Base_V14_Theme_MaterialComponents = 2131624039;
+			// aapt resource value: 0x7F0F0067
+			public const int Base_V14_Theme_MaterialComponents = 2131689575;
 			
-			// aapt resource value: 0x7F0E0068
-			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131624040;
+			// aapt resource value: 0x7F0F0068
+			public const int Base_V14_Theme_MaterialComponents_Bridge = 2131689576;
 			
-			// aapt resource value: 0x7F0E0069
-			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131624041;
+			// aapt resource value: 0x7F0F0069
+			public const int Base_V14_Theme_MaterialComponents_Dialog = 2131689577;
 			
-			// aapt resource value: 0x7F0E006A
-			public const int Base_V14_Theme_MaterialComponents_Light = 2131624042;
+			// aapt resource value: 0x7F0F006A
+			public const int Base_V14_Theme_MaterialComponents_Light = 2131689578;
 			
-			// aapt resource value: 0x7F0E006B
-			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131624043;
+			// aapt resource value: 0x7F0F006B
+			public const int Base_V14_Theme_MaterialComponents_Light_Bridge = 2131689579;
 			
-			// aapt resource value: 0x7F0E006C
-			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624044;
+			// aapt resource value: 0x7F0F006C
+			public const int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689580;
 			
-			// aapt resource value: 0x7F0E006D
-			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131624045;
+			// aapt resource value: 0x7F0F006D
+			public const int Base_V14_Theme_MaterialComponents_Light_Dialog = 2131689581;
 			
-			// aapt resource value: 0x7F0E0074
-			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131624052;
+			// aapt resource value: 0x7F0F0074
+			public const int Base_V21_ThemeOverlay_AppCompat_Dialog = 2131689588;
 			
-			// aapt resource value: 0x7F0E0070
-			public const int Base_V21_Theme_AppCompat = 2131624048;
+			// aapt resource value: 0x7F0F0070
+			public const int Base_V21_Theme_AppCompat = 2131689584;
 			
-			// aapt resource value: 0x7F0E0071
-			public const int Base_V21_Theme_AppCompat_Dialog = 2131624049;
+			// aapt resource value: 0x7F0F0071
+			public const int Base_V21_Theme_AppCompat_Dialog = 2131689585;
 			
-			// aapt resource value: 0x7F0E0072
-			public const int Base_V21_Theme_AppCompat_Light = 2131624050;
+			// aapt resource value: 0x7F0F0072
+			public const int Base_V21_Theme_AppCompat_Light = 2131689586;
 			
-			// aapt resource value: 0x7F0E0073
-			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131624051;
+			// aapt resource value: 0x7F0F0073
+			public const int Base_V21_Theme_AppCompat_Light_Dialog = 2131689587;
 			
-			// aapt resource value: 0x7F0E0075
-			public const int Base_V22_Theme_AppCompat = 2131624053;
+			// aapt resource value: 0x7F0F0075
+			public const int Base_V22_Theme_AppCompat = 2131689589;
 			
-			// aapt resource value: 0x7F0E0076
-			public const int Base_V22_Theme_AppCompat_Light = 2131624054;
+			// aapt resource value: 0x7F0F0076
+			public const int Base_V22_Theme_AppCompat_Light = 2131689590;
 			
-			// aapt resource value: 0x7F0E0077
-			public const int Base_V23_Theme_AppCompat = 2131624055;
+			// aapt resource value: 0x7F0F0077
+			public const int Base_V23_Theme_AppCompat = 2131689591;
 			
-			// aapt resource value: 0x7F0E0078
-			public const int Base_V23_Theme_AppCompat_Light = 2131624056;
+			// aapt resource value: 0x7F0F0078
+			public const int Base_V23_Theme_AppCompat_Light = 2131689592;
 			
-			// aapt resource value: 0x7F0E0079
-			public const int Base_V26_Theme_AppCompat = 2131624057;
+			// aapt resource value: 0x7F0F0079
+			public const int Base_V26_Theme_AppCompat = 2131689593;
 			
-			// aapt resource value: 0x7F0E007A
-			public const int Base_V26_Theme_AppCompat_Light = 2131624058;
+			// aapt resource value: 0x7F0F007A
+			public const int Base_V26_Theme_AppCompat_Light = 2131689594;
 			
-			// aapt resource value: 0x7F0E007B
-			public const int Base_V26_Widget_AppCompat_Toolbar = 2131624059;
+			// aapt resource value: 0x7F0F007B
+			public const int Base_V26_Widget_AppCompat_Toolbar = 2131689595;
 			
-			// aapt resource value: 0x7F0E007C
-			public const int Base_V28_Theme_AppCompat = 2131624060;
+			// aapt resource value: 0x7F0F007C
+			public const int Base_V28_Theme_AppCompat = 2131689596;
 			
-			// aapt resource value: 0x7F0E007D
-			public const int Base_V28_Theme_AppCompat_Light = 2131624061;
+			// aapt resource value: 0x7F0F007D
+			public const int Base_V28_Theme_AppCompat_Light = 2131689597;
 			
-			// aapt resource value: 0x7F0E0082
-			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131624066;
+			// aapt resource value: 0x7F0F0082
+			public const int Base_V7_ThemeOverlay_AppCompat_Dialog = 2131689602;
 			
-			// aapt resource value: 0x7F0E007E
-			public const int Base_V7_Theme_AppCompat = 2131624062;
+			// aapt resource value: 0x7F0F007E
+			public const int Base_V7_Theme_AppCompat = 2131689598;
 			
-			// aapt resource value: 0x7F0E007F
-			public const int Base_V7_Theme_AppCompat_Dialog = 2131624063;
+			// aapt resource value: 0x7F0F007F
+			public const int Base_V7_Theme_AppCompat_Dialog = 2131689599;
 			
-			// aapt resource value: 0x7F0E0080
-			public const int Base_V7_Theme_AppCompat_Light = 2131624064;
+			// aapt resource value: 0x7F0F0080
+			public const int Base_V7_Theme_AppCompat_Light = 2131689600;
 			
-			// aapt resource value: 0x7F0E0081
-			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131624065;
+			// aapt resource value: 0x7F0F0081
+			public const int Base_V7_Theme_AppCompat_Light_Dialog = 2131689601;
 			
-			// aapt resource value: 0x7F0E0083
-			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131624067;
+			// aapt resource value: 0x7F0F0083
+			public const int Base_V7_Widget_AppCompat_AutoCompleteTextView = 2131689603;
 			
-			// aapt resource value: 0x7F0E0084
-			public const int Base_V7_Widget_AppCompat_EditText = 2131624068;
+			// aapt resource value: 0x7F0F0084
+			public const int Base_V7_Widget_AppCompat_EditText = 2131689604;
 			
-			// aapt resource value: 0x7F0E0085
-			public const int Base_V7_Widget_AppCompat_Toolbar = 2131624069;
+			// aapt resource value: 0x7F0F0085
+			public const int Base_V7_Widget_AppCompat_Toolbar = 2131689605;
 			
-			// aapt resource value: 0x7F0E0086
-			public const int Base_Widget_AppCompat_ActionBar = 2131624070;
+			// aapt resource value: 0x7F0F0086
+			public const int Base_Widget_AppCompat_ActionBar = 2131689606;
 			
-			// aapt resource value: 0x7F0E0087
-			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131624071;
+			// aapt resource value: 0x7F0F0087
+			public const int Base_Widget_AppCompat_ActionBar_Solid = 2131689607;
 			
-			// aapt resource value: 0x7F0E0088
-			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131624072;
+			// aapt resource value: 0x7F0F0088
+			public const int Base_Widget_AppCompat_ActionBar_TabBar = 2131689608;
 			
-			// aapt resource value: 0x7F0E0089
-			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131624073;
+			// aapt resource value: 0x7F0F0089
+			public const int Base_Widget_AppCompat_ActionBar_TabText = 2131689609;
 			
-			// aapt resource value: 0x7F0E008A
-			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131624074;
+			// aapt resource value: 0x7F0F008A
+			public const int Base_Widget_AppCompat_ActionBar_TabView = 2131689610;
 			
-			// aapt resource value: 0x7F0E008B
-			public const int Base_Widget_AppCompat_ActionButton = 2131624075;
+			// aapt resource value: 0x7F0F008B
+			public const int Base_Widget_AppCompat_ActionButton = 2131689611;
 			
-			// aapt resource value: 0x7F0E008C
-			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131624076;
+			// aapt resource value: 0x7F0F008C
+			public const int Base_Widget_AppCompat_ActionButton_CloseMode = 2131689612;
 			
-			// aapt resource value: 0x7F0E008D
-			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131624077;
+			// aapt resource value: 0x7F0F008D
+			public const int Base_Widget_AppCompat_ActionButton_Overflow = 2131689613;
 			
-			// aapt resource value: 0x7F0E008E
-			public const int Base_Widget_AppCompat_ActionMode = 2131624078;
+			// aapt resource value: 0x7F0F008E
+			public const int Base_Widget_AppCompat_ActionMode = 2131689614;
 			
-			// aapt resource value: 0x7F0E008F
-			public const int Base_Widget_AppCompat_ActivityChooserView = 2131624079;
+			// aapt resource value: 0x7F0F008F
+			public const int Base_Widget_AppCompat_ActivityChooserView = 2131689615;
 			
-			// aapt resource value: 0x7F0E0090
-			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131624080;
+			// aapt resource value: 0x7F0F0090
+			public const int Base_Widget_AppCompat_AutoCompleteTextView = 2131689616;
 			
-			// aapt resource value: 0x7F0E0091
-			public const int Base_Widget_AppCompat_Button = 2131624081;
+			// aapt resource value: 0x7F0F0091
+			public const int Base_Widget_AppCompat_Button = 2131689617;
 			
-			// aapt resource value: 0x7F0E0097
-			public const int Base_Widget_AppCompat_ButtonBar = 2131624087;
+			// aapt resource value: 0x7F0F0097
+			public const int Base_Widget_AppCompat_ButtonBar = 2131689623;
 			
-			// aapt resource value: 0x7F0E0098
-			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131624088;
+			// aapt resource value: 0x7F0F0098
+			public const int Base_Widget_AppCompat_ButtonBar_AlertDialog = 2131689624;
 			
-			// aapt resource value: 0x7F0E0092
-			public const int Base_Widget_AppCompat_Button_Borderless = 2131624082;
+			// aapt resource value: 0x7F0F0092
+			public const int Base_Widget_AppCompat_Button_Borderless = 2131689618;
 			
-			// aapt resource value: 0x7F0E0093
-			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131624083;
+			// aapt resource value: 0x7F0F0093
+			public const int Base_Widget_AppCompat_Button_Borderless_Colored = 2131689619;
 			
-			// aapt resource value: 0x7F0E0094
-			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624084;
+			// aapt resource value: 0x7F0F0094
+			public const int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689620;
 			
-			// aapt resource value: 0x7F0E0095
-			public const int Base_Widget_AppCompat_Button_Colored = 2131624085;
+			// aapt resource value: 0x7F0F0095
+			public const int Base_Widget_AppCompat_Button_Colored = 2131689621;
 			
-			// aapt resource value: 0x7F0E0096
-			public const int Base_Widget_AppCompat_Button_Small = 2131624086;
+			// aapt resource value: 0x7F0F0096
+			public const int Base_Widget_AppCompat_Button_Small = 2131689622;
 			
-			// aapt resource value: 0x7F0E0099
-			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131624089;
+			// aapt resource value: 0x7F0F0099
+			public const int Base_Widget_AppCompat_CompoundButton_CheckBox = 2131689625;
 			
-			// aapt resource value: 0x7F0E009A
-			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131624090;
+			// aapt resource value: 0x7F0F009A
+			public const int Base_Widget_AppCompat_CompoundButton_RadioButton = 2131689626;
 			
-			// aapt resource value: 0x7F0E009B
-			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131624091;
+			// aapt resource value: 0x7F0F009B
+			public const int Base_Widget_AppCompat_CompoundButton_Switch = 2131689627;
 			
-			// aapt resource value: 0x7F0E009C
-			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131624092;
+			// aapt resource value: 0x7F0F009C
+			public const int Base_Widget_AppCompat_DrawerArrowToggle = 2131689628;
 			
-			// aapt resource value: 0x7F0E009D
-			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131624093;
+			// aapt resource value: 0x7F0F009D
+			public const int Base_Widget_AppCompat_DrawerArrowToggle_Common = 2131689629;
 			
-			// aapt resource value: 0x7F0E009E
-			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131624094;
+			// aapt resource value: 0x7F0F009E
+			public const int Base_Widget_AppCompat_DropDownItem_Spinner = 2131689630;
 			
-			// aapt resource value: 0x7F0E009F
-			public const int Base_Widget_AppCompat_EditText = 2131624095;
+			// aapt resource value: 0x7F0F009F
+			public const int Base_Widget_AppCompat_EditText = 2131689631;
 			
-			// aapt resource value: 0x7F0E00A0
-			public const int Base_Widget_AppCompat_ImageButton = 2131624096;
+			// aapt resource value: 0x7F0F00A0
+			public const int Base_Widget_AppCompat_ImageButton = 2131689632;
 			
-			// aapt resource value: 0x7F0E00A1
-			public const int Base_Widget_AppCompat_Light_ActionBar = 2131624097;
+			// aapt resource value: 0x7F0F00A1
+			public const int Base_Widget_AppCompat_Light_ActionBar = 2131689633;
 			
-			// aapt resource value: 0x7F0E00A2
-			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131624098;
+			// aapt resource value: 0x7F0F00A2
+			public const int Base_Widget_AppCompat_Light_ActionBar_Solid = 2131689634;
 			
-			// aapt resource value: 0x7F0E00A3
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131624099;
+			// aapt resource value: 0x7F0F00A3
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabBar = 2131689635;
 			
-			// aapt resource value: 0x7F0E00A4
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131624100;
+			// aapt resource value: 0x7F0F00A4
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText = 2131689636;
 			
-			// aapt resource value: 0x7F0E00A5
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624101;
+			// aapt resource value: 0x7F0F00A5
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689637;
 			
-			// aapt resource value: 0x7F0E00A6
-			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131624102;
+			// aapt resource value: 0x7F0F00A6
+			public const int Base_Widget_AppCompat_Light_ActionBar_TabView = 2131689638;
 			
-			// aapt resource value: 0x7F0E00A7
-			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131624103;
+			// aapt resource value: 0x7F0F00A7
+			public const int Base_Widget_AppCompat_Light_PopupMenu = 2131689639;
 			
-			// aapt resource value: 0x7F0E00A8
-			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131624104;
+			// aapt resource value: 0x7F0F00A8
+			public const int Base_Widget_AppCompat_Light_PopupMenu_Overflow = 2131689640;
 			
-			// aapt resource value: 0x7F0E00A9
-			public const int Base_Widget_AppCompat_ListMenuView = 2131624105;
+			// aapt resource value: 0x7F0F00A9
+			public const int Base_Widget_AppCompat_ListMenuView = 2131689641;
 			
-			// aapt resource value: 0x7F0E00AA
-			public const int Base_Widget_AppCompat_ListPopupWindow = 2131624106;
+			// aapt resource value: 0x7F0F00AA
+			public const int Base_Widget_AppCompat_ListPopupWindow = 2131689642;
 			
-			// aapt resource value: 0x7F0E00AB
-			public const int Base_Widget_AppCompat_ListView = 2131624107;
+			// aapt resource value: 0x7F0F00AB
+			public const int Base_Widget_AppCompat_ListView = 2131689643;
 			
-			// aapt resource value: 0x7F0E00AC
-			public const int Base_Widget_AppCompat_ListView_DropDown = 2131624108;
+			// aapt resource value: 0x7F0F00AC
+			public const int Base_Widget_AppCompat_ListView_DropDown = 2131689644;
 			
-			// aapt resource value: 0x7F0E00AD
-			public const int Base_Widget_AppCompat_ListView_Menu = 2131624109;
+			// aapt resource value: 0x7F0F00AD
+			public const int Base_Widget_AppCompat_ListView_Menu = 2131689645;
 			
-			// aapt resource value: 0x7F0E00AE
-			public const int Base_Widget_AppCompat_PopupMenu = 2131624110;
+			// aapt resource value: 0x7F0F00AE
+			public const int Base_Widget_AppCompat_PopupMenu = 2131689646;
 			
-			// aapt resource value: 0x7F0E00AF
-			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131624111;
+			// aapt resource value: 0x7F0F00AF
+			public const int Base_Widget_AppCompat_PopupMenu_Overflow = 2131689647;
 			
-			// aapt resource value: 0x7F0E00B0
-			public const int Base_Widget_AppCompat_PopupWindow = 2131624112;
+			// aapt resource value: 0x7F0F00B0
+			public const int Base_Widget_AppCompat_PopupWindow = 2131689648;
 			
-			// aapt resource value: 0x7F0E00B1
-			public const int Base_Widget_AppCompat_ProgressBar = 2131624113;
+			// aapt resource value: 0x7F0F00B1
+			public const int Base_Widget_AppCompat_ProgressBar = 2131689649;
 			
-			// aapt resource value: 0x7F0E00B2
-			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131624114;
+			// aapt resource value: 0x7F0F00B2
+			public const int Base_Widget_AppCompat_ProgressBar_Horizontal = 2131689650;
 			
-			// aapt resource value: 0x7F0E00B3
-			public const int Base_Widget_AppCompat_RatingBar = 2131624115;
+			// aapt resource value: 0x7F0F00B3
+			public const int Base_Widget_AppCompat_RatingBar = 2131689651;
 			
-			// aapt resource value: 0x7F0E00B4
-			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131624116;
+			// aapt resource value: 0x7F0F00B4
+			public const int Base_Widget_AppCompat_RatingBar_Indicator = 2131689652;
 			
-			// aapt resource value: 0x7F0E00B5
-			public const int Base_Widget_AppCompat_RatingBar_Small = 2131624117;
+			// aapt resource value: 0x7F0F00B5
+			public const int Base_Widget_AppCompat_RatingBar_Small = 2131689653;
 			
-			// aapt resource value: 0x7F0E00B6
-			public const int Base_Widget_AppCompat_SearchView = 2131624118;
+			// aapt resource value: 0x7F0F00B6
+			public const int Base_Widget_AppCompat_SearchView = 2131689654;
 			
-			// aapt resource value: 0x7F0E00B7
-			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131624119;
+			// aapt resource value: 0x7F0F00B7
+			public const int Base_Widget_AppCompat_SearchView_ActionBar = 2131689655;
 			
-			// aapt resource value: 0x7F0E00B8
-			public const int Base_Widget_AppCompat_SeekBar = 2131624120;
+			// aapt resource value: 0x7F0F00B8
+			public const int Base_Widget_AppCompat_SeekBar = 2131689656;
 			
-			// aapt resource value: 0x7F0E00B9
-			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131624121;
+			// aapt resource value: 0x7F0F00B9
+			public const int Base_Widget_AppCompat_SeekBar_Discrete = 2131689657;
 			
-			// aapt resource value: 0x7F0E00BA
-			public const int Base_Widget_AppCompat_Spinner = 2131624122;
+			// aapt resource value: 0x7F0F00BA
+			public const int Base_Widget_AppCompat_Spinner = 2131689658;
 			
-			// aapt resource value: 0x7F0E00BB
-			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131624123;
+			// aapt resource value: 0x7F0F00BB
+			public const int Base_Widget_AppCompat_Spinner_Underlined = 2131689659;
 			
-			// aapt resource value: 0x7F0E00BC
-			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131624124;
+			// aapt resource value: 0x7F0F00BC
+			public const int Base_Widget_AppCompat_TextView_SpinnerItem = 2131689660;
 			
-			// aapt resource value: 0x7F0E00BD
-			public const int Base_Widget_AppCompat_Toolbar = 2131624125;
+			// aapt resource value: 0x7F0F00BD
+			public const int Base_Widget_AppCompat_Toolbar = 2131689661;
 			
-			// aapt resource value: 0x7F0E00BE
-			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131624126;
+			// aapt resource value: 0x7F0F00BE
+			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131689662;
 			
-			// aapt resource value: 0x7F0E00BF
-			public const int Base_Widget_Design_TabLayout = 2131624127;
+			// aapt resource value: 0x7F0F00BF
+			public const int Base_Widget_Design_TabLayout = 2131689663;
 			
-			// aapt resource value: 0x7F0E00C0
-			public const int Base_Widget_MaterialComponents_Chip = 2131624128;
+			// aapt resource value: 0x7F0F00C0
+			public const int Base_Widget_MaterialComponents_Chip = 2131689664;
 			
-			// aapt resource value: 0x7F0E00C1
-			public const int Base_Widget_MaterialComponents_TextInputEditText = 2131624129;
+			// aapt resource value: 0x7F0F00C1
+			public const int Base_Widget_MaterialComponents_TextInputEditText = 2131689665;
 			
-			// aapt resource value: 0x7F0E00C2
-			public const int Base_Widget_MaterialComponents_TextInputLayout = 2131624130;
+			// aapt resource value: 0x7F0F00C2
+			public const int Base_Widget_MaterialComponents_TextInputLayout = 2131689666;
 			
-			// aapt resource value: 0x7F0E00C3
-			public const int CardView = 2131624131;
+			// aapt resource value: 0x7F0F00C3
+			public const int CardView = 2131689667;
 			
-			// aapt resource value: 0x7F0E00C4
-			public const int CardView_Dark = 2131624132;
+			// aapt resource value: 0x7F0F00C4
+			public const int CardView_Dark = 2131689668;
 			
-			// aapt resource value: 0x7F0E00C5
-			public const int CardView_Light = 2131624133;
+			// aapt resource value: 0x7F0F00C5
+			public const int CardView_Light = 2131689669;
 			
-			// aapt resource value: 0x7F0E01F8
-			public const int collectionViewTheme = 2131624440;
+			// aapt resource value: 0x7F0F01F8
+			public const int collectionViewTheme = 2131689976;
 			
-			// aapt resource value: 0x7F0E00C6
-			public const int MainTheme = 2131624134;
+			// aapt resource value: 0x7F0F00C6
+			public const int MainTheme = 2131689670;
 			
-			// aapt resource value: 0x7F0E00C7
-			public const int MainTheme_Base = 2131624135;
+			// aapt resource value: 0x7F0F00C7
+			public const int MainTheme_Base = 2131689671;
 			
-			// aapt resource value: 0x7F0E00C8
-			public const int Platform_AppCompat = 2131624136;
+			// aapt resource value: 0x7F0F00C8
+			public const int Platform_AppCompat = 2131689672;
 			
-			// aapt resource value: 0x7F0E00C9
-			public const int Platform_AppCompat_Light = 2131624137;
+			// aapt resource value: 0x7F0F00C9
+			public const int Platform_AppCompat_Light = 2131689673;
 			
-			// aapt resource value: 0x7F0E00CA
-			public const int Platform_MaterialComponents = 2131624138;
+			// aapt resource value: 0x7F0F00CA
+			public const int Platform_MaterialComponents = 2131689674;
 			
-			// aapt resource value: 0x7F0E00CB
-			public const int Platform_MaterialComponents_Dialog = 2131624139;
+			// aapt resource value: 0x7F0F00CB
+			public const int Platform_MaterialComponents_Dialog = 2131689675;
 			
-			// aapt resource value: 0x7F0E00CC
-			public const int Platform_MaterialComponents_Light = 2131624140;
+			// aapt resource value: 0x7F0F00CC
+			public const int Platform_MaterialComponents_Light = 2131689676;
 			
-			// aapt resource value: 0x7F0E00CD
-			public const int Platform_MaterialComponents_Light_Dialog = 2131624141;
+			// aapt resource value: 0x7F0F00CD
+			public const int Platform_MaterialComponents_Light_Dialog = 2131689677;
 			
-			// aapt resource value: 0x7F0E00CE
-			public const int Platform_ThemeOverlay_AppCompat = 2131624142;
+			// aapt resource value: 0x7F0F00CE
+			public const int Platform_ThemeOverlay_AppCompat = 2131689678;
 			
-			// aapt resource value: 0x7F0E00CF
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131624143;
+			// aapt resource value: 0x7F0F00CF
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689679;
 			
-			// aapt resource value: 0x7F0E00D0
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131624144;
+			// aapt resource value: 0x7F0F00D0
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689680;
 			
-			// aapt resource value: 0x7F0E00D1
-			public const int Platform_V21_AppCompat = 2131624145;
+			// aapt resource value: 0x7F0F00D1
+			public const int Platform_V21_AppCompat = 2131689681;
 			
-			// aapt resource value: 0x7F0E00D2
-			public const int Platform_V21_AppCompat_Light = 2131624146;
+			// aapt resource value: 0x7F0F00D2
+			public const int Platform_V21_AppCompat_Light = 2131689682;
 			
-			// aapt resource value: 0x7F0E00D3
-			public const int Platform_V25_AppCompat = 2131624147;
+			// aapt resource value: 0x7F0F00D3
+			public const int Platform_V25_AppCompat = 2131689683;
 			
-			// aapt resource value: 0x7F0E00D4
-			public const int Platform_V25_AppCompat_Light = 2131624148;
+			// aapt resource value: 0x7F0F00D4
+			public const int Platform_V25_AppCompat_Light = 2131689684;
 			
-			// aapt resource value: 0x7F0E00D5
-			public const int Platform_Widget_AppCompat_Spinner = 2131624149;
+			// aapt resource value: 0x7F0F00D5
+			public const int Platform_Widget_AppCompat_Spinner = 2131689685;
 			
-			// aapt resource value: 0x7F0E00D6
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131624150;
+			// aapt resource value: 0x7F0F00D6
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689686;
 			
-			// aapt resource value: 0x7F0E00D7
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131624151;
+			// aapt resource value: 0x7F0F00D7
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689687;
 			
-			// aapt resource value: 0x7F0E00D8
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131624152;
+			// aapt resource value: 0x7F0F00D8
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689688;
 			
-			// aapt resource value: 0x7F0E00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131624153;
+			// aapt resource value: 0x7F0F00D9
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689689;
 			
-			// aapt resource value: 0x7F0E00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131624154;
+			// aapt resource value: 0x7F0F00DA
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689690;
 			
-			// aapt resource value: 0x7F0E00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131624155;
+			// aapt resource value: 0x7F0F00DB
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689691;
 			
-			// aapt resource value: 0x7F0E00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131624156;
+			// aapt resource value: 0x7F0F00DC
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689692;
 			
-			// aapt resource value: 0x7F0E00DD
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131624157;
+			// aapt resource value: 0x7F0F00DD
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689693;
 			
-			// aapt resource value: 0x7F0E00DE
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131624158;
+			// aapt resource value: 0x7F0F00DE
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689694;
 			
-			// aapt resource value: 0x7F0E00E4
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131624164;
+			// aapt resource value: 0x7F0F00E4
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689700;
 			
-			// aapt resource value: 0x7F0E00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131624159;
+			// aapt resource value: 0x7F0F00DF
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689695;
 			
-			// aapt resource value: 0x7F0E00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131624160;
+			// aapt resource value: 0x7F0F00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689696;
 			
-			// aapt resource value: 0x7F0E00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131624161;
+			// aapt resource value: 0x7F0F00E1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689697;
 			
-			// aapt resource value: 0x7F0E00E2
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131624162;
+			// aapt resource value: 0x7F0F00E2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689698;
 			
-			// aapt resource value: 0x7F0E00E3
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131624163;
+			// aapt resource value: 0x7F0F00E3
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689699;
 			
-			// aapt resource value: 0x7F0E00E5
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131624165;
+			// aapt resource value: 0x7F0F00E5
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689701;
 			
-			// aapt resource value: 0x7F0E00E6
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131624166;
+			// aapt resource value: 0x7F0F00E6
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689702;
 			
-			// aapt resource value: 0x7F0E01F9
-			public const int scrollViewScrollBars = 2131624441;
+			// aapt resource value: 0x7F0F01F9
+			public const int scrollViewScrollBars = 2131689977;
 			
-			// aapt resource value: 0x7F0E01FA
-			public const int scrollViewTheme = 2131624442;
+			// aapt resource value: 0x7F0F01FA
+			public const int scrollViewTheme = 2131689978;
 			
-			// aapt resource value: 0x7F0E00E7
-			public const int SplashTheme = 2131624167;
+			// aapt resource value: 0x7F0F00E7
+			public const int SplashTheme = 2131689703;
 			
-			// aapt resource value: 0x7F0E00E8
-			public const int TextAppearance_AppCompat = 2131624168;
+			// aapt resource value: 0x7F0F00E8
+			public const int TextAppearance_AppCompat = 2131689704;
 			
-			// aapt resource value: 0x7F0E00E9
-			public const int TextAppearance_AppCompat_Body1 = 2131624169;
+			// aapt resource value: 0x7F0F00E9
+			public const int TextAppearance_AppCompat_Body1 = 2131689705;
 			
-			// aapt resource value: 0x7F0E00EA
-			public const int TextAppearance_AppCompat_Body2 = 2131624170;
+			// aapt resource value: 0x7F0F00EA
+			public const int TextAppearance_AppCompat_Body2 = 2131689706;
 			
-			// aapt resource value: 0x7F0E00EB
-			public const int TextAppearance_AppCompat_Button = 2131624171;
+			// aapt resource value: 0x7F0F00EB
+			public const int TextAppearance_AppCompat_Button = 2131689707;
 			
-			// aapt resource value: 0x7F0E00EC
-			public const int TextAppearance_AppCompat_Caption = 2131624172;
+			// aapt resource value: 0x7F0F00EC
+			public const int TextAppearance_AppCompat_Caption = 2131689708;
 			
-			// aapt resource value: 0x7F0E00ED
-			public const int TextAppearance_AppCompat_Display1 = 2131624173;
+			// aapt resource value: 0x7F0F00ED
+			public const int TextAppearance_AppCompat_Display1 = 2131689709;
 			
-			// aapt resource value: 0x7F0E00EE
-			public const int TextAppearance_AppCompat_Display2 = 2131624174;
+			// aapt resource value: 0x7F0F00EE
+			public const int TextAppearance_AppCompat_Display2 = 2131689710;
 			
-			// aapt resource value: 0x7F0E00EF
-			public const int TextAppearance_AppCompat_Display3 = 2131624175;
+			// aapt resource value: 0x7F0F00EF
+			public const int TextAppearance_AppCompat_Display3 = 2131689711;
 			
-			// aapt resource value: 0x7F0E00F0
-			public const int TextAppearance_AppCompat_Display4 = 2131624176;
+			// aapt resource value: 0x7F0F00F0
+			public const int TextAppearance_AppCompat_Display4 = 2131689712;
 			
-			// aapt resource value: 0x7F0E00F1
-			public const int TextAppearance_AppCompat_Headline = 2131624177;
+			// aapt resource value: 0x7F0F00F1
+			public const int TextAppearance_AppCompat_Headline = 2131689713;
 			
-			// aapt resource value: 0x7F0E00F2
-			public const int TextAppearance_AppCompat_Inverse = 2131624178;
+			// aapt resource value: 0x7F0F00F2
+			public const int TextAppearance_AppCompat_Inverse = 2131689714;
 			
-			// aapt resource value: 0x7F0E00F3
-			public const int TextAppearance_AppCompat_Large = 2131624179;
+			// aapt resource value: 0x7F0F00F3
+			public const int TextAppearance_AppCompat_Large = 2131689715;
 			
-			// aapt resource value: 0x7F0E00F4
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131624180;
+			// aapt resource value: 0x7F0F00F4
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131689716;
 			
-			// aapt resource value: 0x7F0E00F5
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131624181;
+			// aapt resource value: 0x7F0F00F5
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689717;
 			
-			// aapt resource value: 0x7F0E00F6
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131624182;
+			// aapt resource value: 0x7F0F00F6
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689718;
 			
-			// aapt resource value: 0x7F0E00F7
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131624183;
+			// aapt resource value: 0x7F0F00F7
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689719;
 			
-			// aapt resource value: 0x7F0E00F8
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131624184;
+			// aapt resource value: 0x7F0F00F8
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689720;
 			
-			// aapt resource value: 0x7F0E00F9
-			public const int TextAppearance_AppCompat_Medium = 2131624185;
+			// aapt resource value: 0x7F0F00F9
+			public const int TextAppearance_AppCompat_Medium = 2131689721;
 			
-			// aapt resource value: 0x7F0E00FA
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131624186;
+			// aapt resource value: 0x7F0F00FA
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689722;
 			
-			// aapt resource value: 0x7F0E00FB
-			public const int TextAppearance_AppCompat_Menu = 2131624187;
+			// aapt resource value: 0x7F0F00FB
+			public const int TextAppearance_AppCompat_Menu = 2131689723;
 			
-			// aapt resource value: 0x7F0E00FC
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131624188;
+			// aapt resource value: 0x7F0F00FC
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689724;
 			
-			// aapt resource value: 0x7F0E00FD
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131624189;
+			// aapt resource value: 0x7F0F00FD
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689725;
 			
-			// aapt resource value: 0x7F0E00FE
-			public const int TextAppearance_AppCompat_Small = 2131624190;
+			// aapt resource value: 0x7F0F00FE
+			public const int TextAppearance_AppCompat_Small = 2131689726;
 			
-			// aapt resource value: 0x7F0E00FF
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131624191;
+			// aapt resource value: 0x7F0F00FF
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131689727;
 			
-			// aapt resource value: 0x7F0E0100
-			public const int TextAppearance_AppCompat_Subhead = 2131624192;
+			// aapt resource value: 0x7F0F0100
+			public const int TextAppearance_AppCompat_Subhead = 2131689728;
 			
-			// aapt resource value: 0x7F0E0101
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131624193;
+			// aapt resource value: 0x7F0F0101
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689729;
 			
-			// aapt resource value: 0x7F0E0102
-			public const int TextAppearance_AppCompat_Title = 2131624194;
+			// aapt resource value: 0x7F0F0102
+			public const int TextAppearance_AppCompat_Title = 2131689730;
 			
-			// aapt resource value: 0x7F0E0103
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131624195;
+			// aapt resource value: 0x7F0F0103
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131689731;
 			
-			// aapt resource value: 0x7F0E0104
-			public const int TextAppearance_AppCompat_Tooltip = 2131624196;
+			// aapt resource value: 0x7F0F0104
+			public const int TextAppearance_AppCompat_Tooltip = 2131689732;
 			
-			// aapt resource value: 0x7F0E0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131624197;
+			// aapt resource value: 0x7F0F0105
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689733;
 			
-			// aapt resource value: 0x7F0E0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131624198;
+			// aapt resource value: 0x7F0F0106
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689734;
 			
-			// aapt resource value: 0x7F0E0107
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131624199;
+			// aapt resource value: 0x7F0F0107
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689735;
 			
-			// aapt resource value: 0x7F0E0108
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131624200;
+			// aapt resource value: 0x7F0F0108
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689736;
 			
-			// aapt resource value: 0x7F0E0109
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131624201;
+			// aapt resource value: 0x7F0F0109
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689737;
 			
-			// aapt resource value: 0x7F0E010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131624202;
+			// aapt resource value: 0x7F0F010A
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689738;
 			
-			// aapt resource value: 0x7F0E010B
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131624203;
+			// aapt resource value: 0x7F0F010B
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689739;
 			
-			// aapt resource value: 0x7F0E010C
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131624204;
+			// aapt resource value: 0x7F0F010C
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689740;
 			
-			// aapt resource value: 0x7F0E010D
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131624205;
+			// aapt resource value: 0x7F0F010D
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689741;
 			
-			// aapt resource value: 0x7F0E010E
-			public const int TextAppearance_AppCompat_Widget_Button = 2131624206;
+			// aapt resource value: 0x7F0F010E
+			public const int TextAppearance_AppCompat_Widget_Button = 2131689742;
 			
-			// aapt resource value: 0x7F0E010F
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131624207;
+			// aapt resource value: 0x7F0F010F
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689743;
 			
-			// aapt resource value: 0x7F0E0110
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131624208;
+			// aapt resource value: 0x7F0F0110
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689744;
 			
-			// aapt resource value: 0x7F0E0111
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131624209;
+			// aapt resource value: 0x7F0F0111
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689745;
 			
-			// aapt resource value: 0x7F0E0112
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131624210;
+			// aapt resource value: 0x7F0F0112
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689746;
 			
-			// aapt resource value: 0x7F0E0113
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131624211;
+			// aapt resource value: 0x7F0F0113
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689747;
 			
-			// aapt resource value: 0x7F0E0114
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131624212;
+			// aapt resource value: 0x7F0F0114
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689748;
 			
-			// aapt resource value: 0x7F0E0115
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131624213;
+			// aapt resource value: 0x7F0F0115
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689749;
 			
-			// aapt resource value: 0x7F0E0116
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131624214;
+			// aapt resource value: 0x7F0F0116
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131689750;
 			
-			// aapt resource value: 0x7F0E0117
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131624215;
+			// aapt resource value: 0x7F0F0117
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689751;
 			
-			// aapt resource value: 0x7F0E0118
-			public const int TextAppearance_Compat_Notification = 2131624216;
+			// aapt resource value: 0x7F0F0118
+			public const int TextAppearance_Compat_Notification = 2131689752;
 			
-			// aapt resource value: 0x7F0E0119
-			public const int TextAppearance_Compat_Notification_Info = 2131624217;
+			// aapt resource value: 0x7F0F0119
+			public const int TextAppearance_Compat_Notification_Info = 2131689753;
 			
-			// aapt resource value: 0x7F0E011A
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131624218;
+			// aapt resource value: 0x7F0F011A
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131689754;
 			
-			// aapt resource value: 0x7F0E011B
-			public const int TextAppearance_Compat_Notification_Line2 = 2131624219;
+			// aapt resource value: 0x7F0F011B
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689755;
 			
-			// aapt resource value: 0x7F0E011C
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131624220;
+			// aapt resource value: 0x7F0F011C
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689756;
 			
-			// aapt resource value: 0x7F0E011D
-			public const int TextAppearance_Compat_Notification_Media = 2131624221;
+			// aapt resource value: 0x7F0F011D
+			public const int TextAppearance_Compat_Notification_Media = 2131689757;
 			
-			// aapt resource value: 0x7F0E011E
-			public const int TextAppearance_Compat_Notification_Time = 2131624222;
+			// aapt resource value: 0x7F0F011E
+			public const int TextAppearance_Compat_Notification_Time = 2131689758;
 			
-			// aapt resource value: 0x7F0E011F
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131624223;
+			// aapt resource value: 0x7F0F011F
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131689759;
 			
-			// aapt resource value: 0x7F0E0120
-			public const int TextAppearance_Compat_Notification_Title = 2131624224;
+			// aapt resource value: 0x7F0F0120
+			public const int TextAppearance_Compat_Notification_Title = 2131689760;
 			
-			// aapt resource value: 0x7F0E0121
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131624225;
+			// aapt resource value: 0x7F0F0121
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131689761;
 			
-			// aapt resource value: 0x7F0E0122
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131624226;
+			// aapt resource value: 0x7F0F0122
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689762;
 			
-			// aapt resource value: 0x7F0E0123
-			public const int TextAppearance_Design_Counter = 2131624227;
+			// aapt resource value: 0x7F0F0123
+			public const int TextAppearance_Design_Counter = 2131689763;
 			
-			// aapt resource value: 0x7F0E0124
-			public const int TextAppearance_Design_Counter_Overflow = 2131624228;
+			// aapt resource value: 0x7F0F0124
+			public const int TextAppearance_Design_Counter_Overflow = 2131689764;
 			
-			// aapt resource value: 0x7F0E0125
-			public const int TextAppearance_Design_Error = 2131624229;
+			// aapt resource value: 0x7F0F0125
+			public const int TextAppearance_Design_Error = 2131689765;
 			
-			// aapt resource value: 0x7F0E0126
-			public const int TextAppearance_Design_HelperText = 2131624230;
+			// aapt resource value: 0x7F0F0126
+			public const int TextAppearance_Design_HelperText = 2131689766;
 			
-			// aapt resource value: 0x7F0E0127
-			public const int TextAppearance_Design_Hint = 2131624231;
+			// aapt resource value: 0x7F0F0127
+			public const int TextAppearance_Design_Hint = 2131689767;
 			
-			// aapt resource value: 0x7F0E0128
-			public const int TextAppearance_Design_Snackbar_Message = 2131624232;
+			// aapt resource value: 0x7F0F0128
+			public const int TextAppearance_Design_Snackbar_Message = 2131689768;
 			
-			// aapt resource value: 0x7F0E0129
-			public const int TextAppearance_Design_Tab = 2131624233;
+			// aapt resource value: 0x7F0F0129
+			public const int TextAppearance_Design_Tab = 2131689769;
 			
-			// aapt resource value: 0x7F0E012A
-			public const int TextAppearance_MaterialComponents_Body1 = 2131624234;
+			// aapt resource value: 0x7F0F012A
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689770;
 			
-			// aapt resource value: 0x7F0E012B
-			public const int TextAppearance_MaterialComponents_Body2 = 2131624235;
+			// aapt resource value: 0x7F0F012B
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689771;
 			
-			// aapt resource value: 0x7F0E012C
-			public const int TextAppearance_MaterialComponents_Button = 2131624236;
+			// aapt resource value: 0x7F0F012C
+			public const int TextAppearance_MaterialComponents_Button = 2131689772;
 			
-			// aapt resource value: 0x7F0E012D
-			public const int TextAppearance_MaterialComponents_Caption = 2131624237;
+			// aapt resource value: 0x7F0F012D
+			public const int TextAppearance_MaterialComponents_Caption = 2131689773;
 			
-			// aapt resource value: 0x7F0E012E
-			public const int TextAppearance_MaterialComponents_Chip = 2131624238;
+			// aapt resource value: 0x7F0F012E
+			public const int TextAppearance_MaterialComponents_Chip = 2131689774;
 			
-			// aapt resource value: 0x7F0E012F
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131624239;
+			// aapt resource value: 0x7F0F012F
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689775;
 			
-			// aapt resource value: 0x7F0E0130
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131624240;
+			// aapt resource value: 0x7F0F0130
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689776;
 			
-			// aapt resource value: 0x7F0E0131
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131624241;
+			// aapt resource value: 0x7F0F0131
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689777;
 			
-			// aapt resource value: 0x7F0E0132
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131624242;
+			// aapt resource value: 0x7F0F0132
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689778;
 			
-			// aapt resource value: 0x7F0E0133
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131624243;
+			// aapt resource value: 0x7F0F0133
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689779;
 			
-			// aapt resource value: 0x7F0E0134
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131624244;
+			// aapt resource value: 0x7F0F0134
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689780;
 			
-			// aapt resource value: 0x7F0E0135
-			public const int TextAppearance_MaterialComponents_Overline = 2131624245;
+			// aapt resource value: 0x7F0F0135
+			public const int TextAppearance_MaterialComponents_Overline = 2131689781;
 			
-			// aapt resource value: 0x7F0E0136
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131624246;
+			// aapt resource value: 0x7F0F0136
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689782;
 			
-			// aapt resource value: 0x7F0E0137
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131624247;
+			// aapt resource value: 0x7F0F0137
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689783;
 			
-			// aapt resource value: 0x7F0E0138
-			public const int TextAppearance_MaterialComponents_Tab = 2131624248;
+			// aapt resource value: 0x7F0F0138
+			public const int TextAppearance_MaterialComponents_Tab = 2131689784;
 			
-			// aapt resource value: 0x7F0E0139
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131624249;
+			// aapt resource value: 0x7F0F0139
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689785;
 			
-			// aapt resource value: 0x7F0E013A
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131624250;
+			// aapt resource value: 0x7F0F013A
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689786;
 			
-			// aapt resource value: 0x7F0E013B
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131624251;
+			// aapt resource value: 0x7F0F013B
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689787;
 			
-			// aapt resource value: 0x7F0E016C
-			public const int ThemeOverlay_AppCompat = 2131624300;
+			// aapt resource value: 0x7F0F016C
+			public const int ThemeOverlay_AppCompat = 2131689836;
 			
-			// aapt resource value: 0x7F0E016D
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131624301;
+			// aapt resource value: 0x7F0F016D
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689837;
 			
-			// aapt resource value: 0x7F0E016E
-			public const int ThemeOverlay_AppCompat_Dark = 2131624302;
+			// aapt resource value: 0x7F0F016E
+			public const int ThemeOverlay_AppCompat_Dark = 2131689838;
 			
-			// aapt resource value: 0x7F0E016F
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131624303;
+			// aapt resource value: 0x7F0F016F
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689839;
 			
-			// aapt resource value: 0x7F0E0170
-			public const int ThemeOverlay_AppCompat_Dialog = 2131624304;
+			// aapt resource value: 0x7F0F0170
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689840;
 			
-			// aapt resource value: 0x7F0E0171
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131624305;
+			// aapt resource value: 0x7F0F0171
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689841;
 			
-			// aapt resource value: 0x7F0E0172
-			public const int ThemeOverlay_AppCompat_Light = 2131624306;
+			// aapt resource value: 0x7F0F0172
+			public const int ThemeOverlay_AppCompat_Light = 2131689842;
 			
-			// aapt resource value: 0x7F0E0173
-			public const int ThemeOverlay_MaterialComponents = 2131624307;
+			// aapt resource value: 0x7F0F0173
+			public const int ThemeOverlay_MaterialComponents = 2131689843;
 			
-			// aapt resource value: 0x7F0E0174
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131624308;
+			// aapt resource value: 0x7F0F0174
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689844;
 			
-			// aapt resource value: 0x7F0E0175
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131624309;
+			// aapt resource value: 0x7F0F0175
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689845;
 			
-			// aapt resource value: 0x7F0E0176
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131624310;
+			// aapt resource value: 0x7F0F0176
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689846;
 			
-			// aapt resource value: 0x7F0E0177
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131624311;
+			// aapt resource value: 0x7F0F0177
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689847;
 			
-			// aapt resource value: 0x7F0E0178
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131624312;
+			// aapt resource value: 0x7F0F0178
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689848;
 			
-			// aapt resource value: 0x7F0E0179
-			public const int ThemeOverlay_MaterialComponents_Light = 2131624313;
+			// aapt resource value: 0x7F0F0179
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689849;
 			
-			// aapt resource value: 0x7F0E017A
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131624314;
+			// aapt resource value: 0x7F0F017A
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689850;
 			
-			// aapt resource value: 0x7F0E017B
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131624315;
+			// aapt resource value: 0x7F0F017B
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689851;
 			
-			// aapt resource value: 0x7F0E017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624316;
+			// aapt resource value: 0x7F0F017C
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689852;
 			
-			// aapt resource value: 0x7F0E017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131624317;
+			// aapt resource value: 0x7F0F017D
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689853;
 			
-			// aapt resource value: 0x7F0E017E
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624318;
+			// aapt resource value: 0x7F0F017E
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689854;
 			
-			// aapt resource value: 0x7F0E013C
-			public const int Theme_AppCompat = 2131624252;
+			// aapt resource value: 0x7F0F013C
+			public const int Theme_AppCompat = 2131689788;
 			
-			// aapt resource value: 0x7F0E013D
-			public const int Theme_AppCompat_CompactMenu = 2131624253;
+			// aapt resource value: 0x7F0F013D
+			public const int Theme_AppCompat_CompactMenu = 2131689789;
 			
-			// aapt resource value: 0x7F0E013E
-			public const int Theme_AppCompat_DayNight = 2131624254;
+			// aapt resource value: 0x7F0F013E
+			public const int Theme_AppCompat_DayNight = 2131689790;
 			
-			// aapt resource value: 0x7F0E013F
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131624255;
+			// aapt resource value: 0x7F0F013F
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689791;
 			
-			// aapt resource value: 0x7F0E0140
-			public const int Theme_AppCompat_DayNight_Dialog = 2131624256;
+			// aapt resource value: 0x7F0F0140
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689792;
 			
-			// aapt resource value: 0x7F0E0143
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131624259;
+			// aapt resource value: 0x7F0F0143
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689795;
 			
-			// aapt resource value: 0x7F0E0141
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131624257;
+			// aapt resource value: 0x7F0F0141
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689793;
 			
-			// aapt resource value: 0x7F0E0142
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131624258;
+			// aapt resource value: 0x7F0F0142
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689794;
 			
-			// aapt resource value: 0x7F0E0144
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131624260;
+			// aapt resource value: 0x7F0F0144
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689796;
 			
-			// aapt resource value: 0x7F0E0145
-			public const int Theme_AppCompat_Dialog = 2131624261;
+			// aapt resource value: 0x7F0F0145
+			public const int Theme_AppCompat_Dialog = 2131689797;
 			
-			// aapt resource value: 0x7F0E0148
-			public const int Theme_AppCompat_DialogWhenLarge = 2131624264;
+			// aapt resource value: 0x7F0F0148
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689800;
 			
-			// aapt resource value: 0x7F0E0146
-			public const int Theme_AppCompat_Dialog_Alert = 2131624262;
+			// aapt resource value: 0x7F0F0146
+			public const int Theme_AppCompat_Dialog_Alert = 2131689798;
 			
-			// aapt resource value: 0x7F0E0147
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131624263;
+			// aapt resource value: 0x7F0F0147
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689799;
 			
-			// aapt resource value: 0x7F0E0149
-			public const int Theme_AppCompat_Light = 2131624265;
+			// aapt resource value: 0x7F0F0149
+			public const int Theme_AppCompat_Light = 2131689801;
 			
-			// aapt resource value: 0x7F0E014A
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131624266;
+			// aapt resource value: 0x7F0F014A
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689802;
 			
-			// aapt resource value: 0x7F0E014B
-			public const int Theme_AppCompat_Light_Dialog = 2131624267;
+			// aapt resource value: 0x7F0F014B
+			public const int Theme_AppCompat_Light_Dialog = 2131689803;
 			
-			// aapt resource value: 0x7F0E014E
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131624270;
+			// aapt resource value: 0x7F0F014E
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689806;
 			
-			// aapt resource value: 0x7F0E014C
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131624268;
+			// aapt resource value: 0x7F0F014C
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689804;
 			
-			// aapt resource value: 0x7F0E014D
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131624269;
+			// aapt resource value: 0x7F0F014D
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689805;
 			
-			// aapt resource value: 0x7F0E014F
-			public const int Theme_AppCompat_Light_NoActionBar = 2131624271;
+			// aapt resource value: 0x7F0F014F
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689807;
 			
-			// aapt resource value: 0x7F0E0150
-			public const int Theme_AppCompat_NoActionBar = 2131624272;
+			// aapt resource value: 0x7F0F0150
+			public const int Theme_AppCompat_NoActionBar = 2131689808;
 			
-			// aapt resource value: 0x7F0E0151
-			public const int Theme_Design = 2131624273;
+			// aapt resource value: 0x7F0F0151
+			public const int Theme_Design = 2131689809;
 			
-			// aapt resource value: 0x7F0E0152
-			public const int Theme_Design_BottomSheetDialog = 2131624274;
+			// aapt resource value: 0x7F0F0152
+			public const int Theme_Design_BottomSheetDialog = 2131689810;
 			
-			// aapt resource value: 0x7F0E0153
-			public const int Theme_Design_Light = 2131624275;
+			// aapt resource value: 0x7F0F0153
+			public const int Theme_Design_Light = 2131689811;
 			
-			// aapt resource value: 0x7F0E0154
-			public const int Theme_Design_Light_BottomSheetDialog = 2131624276;
+			// aapt resource value: 0x7F0F0154
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689812;
 			
-			// aapt resource value: 0x7F0E0155
-			public const int Theme_Design_Light_NoActionBar = 2131624277;
+			// aapt resource value: 0x7F0F0155
+			public const int Theme_Design_Light_NoActionBar = 2131689813;
 			
-			// aapt resource value: 0x7F0E0156
-			public const int Theme_Design_NoActionBar = 2131624278;
+			// aapt resource value: 0x7F0F0156
+			public const int Theme_Design_NoActionBar = 2131689814;
 			
-			// aapt resource value: 0x7F0E0157
-			public const int Theme_MaterialComponents = 2131624279;
+			// aapt resource value: 0x7F0F0157
+			public const int Theme_MaterialComponents = 2131689815;
 			
-			// aapt resource value: 0x7F0E0158
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131624280;
+			// aapt resource value: 0x7F0F0158
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689816;
 			
-			// aapt resource value: 0x7F0E0159
-			public const int Theme_MaterialComponents_Bridge = 2131624281;
+			// aapt resource value: 0x7F0F0159
+			public const int Theme_MaterialComponents_Bridge = 2131689817;
 			
-			// aapt resource value: 0x7F0E015A
-			public const int Theme_MaterialComponents_CompactMenu = 2131624282;
+			// aapt resource value: 0x7F0F015A
+			public const int Theme_MaterialComponents_CompactMenu = 2131689818;
 			
-			// aapt resource value: 0x7F0E015B
-			public const int Theme_MaterialComponents_Dialog = 2131624283;
+			// aapt resource value: 0x7F0F015B
+			public const int Theme_MaterialComponents_Dialog = 2131689819;
 			
-			// aapt resource value: 0x7F0E015E
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131624286;
+			// aapt resource value: 0x7F0F015E
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689822;
 			
-			// aapt resource value: 0x7F0E015C
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131624284;
+			// aapt resource value: 0x7F0F015C
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689820;
 			
-			// aapt resource value: 0x7F0E015D
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131624285;
+			// aapt resource value: 0x7F0F015D
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689821;
 			
-			// aapt resource value: 0x7F0E015F
-			public const int Theme_MaterialComponents_Light = 2131624287;
+			// aapt resource value: 0x7F0F015F
+			public const int Theme_MaterialComponents_Light = 2131689823;
 			
-			// aapt resource value: 0x7F0E0160
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131624288;
+			// aapt resource value: 0x7F0F0160
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689824;
 			
-			// aapt resource value: 0x7F0E0161
-			public const int Theme_MaterialComponents_Light_Bridge = 2131624289;
+			// aapt resource value: 0x7F0F0161
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689825;
 			
-			// aapt resource value: 0x7F0E0162
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131624290;
+			// aapt resource value: 0x7F0F0162
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689826;
 			
-			// aapt resource value: 0x7F0E0163
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131624291;
+			// aapt resource value: 0x7F0F0163
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689827;
 			
-			// aapt resource value: 0x7F0E0164
-			public const int Theme_MaterialComponents_Light_Dialog = 2131624292;
+			// aapt resource value: 0x7F0F0164
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689828;
 			
-			// aapt resource value: 0x7F0E0167
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131624295;
+			// aapt resource value: 0x7F0F0167
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689831;
 			
-			// aapt resource value: 0x7F0E0165
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131624293;
+			// aapt resource value: 0x7F0F0165
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689829;
 			
-			// aapt resource value: 0x7F0E0166
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131624294;
+			// aapt resource value: 0x7F0F0166
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689830;
 			
-			// aapt resource value: 0x7F0E0168
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131624296;
+			// aapt resource value: 0x7F0F0168
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689832;
 			
-			// aapt resource value: 0x7F0E0169
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131624297;
+			// aapt resource value: 0x7F0F0169
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689833;
 			
-			// aapt resource value: 0x7F0E016A
-			public const int Theme_MaterialComponents_NoActionBar = 2131624298;
+			// aapt resource value: 0x7F0F016A
+			public const int Theme_MaterialComponents_NoActionBar = 2131689834;
 			
-			// aapt resource value: 0x7F0E016B
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131624299;
+			// aapt resource value: 0x7F0F016B
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689835;
 			
-			// aapt resource value: 0x7F0E017F
-			public const int Widget_AppCompat_ActionBar = 2131624319;
+			// aapt resource value: 0x7F0F017F
+			public const int Widget_AppCompat_ActionBar = 2131689855;
 			
-			// aapt resource value: 0x7F0E0180
-			public const int Widget_AppCompat_ActionBar_Solid = 2131624320;
+			// aapt resource value: 0x7F0F0180
+			public const int Widget_AppCompat_ActionBar_Solid = 2131689856;
 			
-			// aapt resource value: 0x7F0E0181
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131624321;
+			// aapt resource value: 0x7F0F0181
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131689857;
 			
-			// aapt resource value: 0x7F0E0182
-			public const int Widget_AppCompat_ActionBar_TabText = 2131624322;
+			// aapt resource value: 0x7F0F0182
+			public const int Widget_AppCompat_ActionBar_TabText = 2131689858;
 			
-			// aapt resource value: 0x7F0E0183
-			public const int Widget_AppCompat_ActionBar_TabView = 2131624323;
+			// aapt resource value: 0x7F0F0183
+			public const int Widget_AppCompat_ActionBar_TabView = 2131689859;
 			
-			// aapt resource value: 0x7F0E0184
-			public const int Widget_AppCompat_ActionButton = 2131624324;
+			// aapt resource value: 0x7F0F0184
+			public const int Widget_AppCompat_ActionButton = 2131689860;
 			
-			// aapt resource value: 0x7F0E0185
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131624325;
+			// aapt resource value: 0x7F0F0185
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689861;
 			
-			// aapt resource value: 0x7F0E0186
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131624326;
+			// aapt resource value: 0x7F0F0186
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131689862;
 			
-			// aapt resource value: 0x7F0E0187
-			public const int Widget_AppCompat_ActionMode = 2131624327;
+			// aapt resource value: 0x7F0F0187
+			public const int Widget_AppCompat_ActionMode = 2131689863;
 			
-			// aapt resource value: 0x7F0E0188
-			public const int Widget_AppCompat_ActivityChooserView = 2131624328;
+			// aapt resource value: 0x7F0F0188
+			public const int Widget_AppCompat_ActivityChooserView = 2131689864;
 			
-			// aapt resource value: 0x7F0E0189
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131624329;
+			// aapt resource value: 0x7F0F0189
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131689865;
 			
-			// aapt resource value: 0x7F0E018A
-			public const int Widget_AppCompat_Button = 2131624330;
+			// aapt resource value: 0x7F0F018A
+			public const int Widget_AppCompat_Button = 2131689866;
 			
-			// aapt resource value: 0x7F0E0190
-			public const int Widget_AppCompat_ButtonBar = 2131624336;
+			// aapt resource value: 0x7F0F0190
+			public const int Widget_AppCompat_ButtonBar = 2131689872;
 			
-			// aapt resource value: 0x7F0E0191
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131624337;
+			// aapt resource value: 0x7F0F0191
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689873;
 			
-			// aapt resource value: 0x7F0E018B
-			public const int Widget_AppCompat_Button_Borderless = 2131624331;
+			// aapt resource value: 0x7F0F018B
+			public const int Widget_AppCompat_Button_Borderless = 2131689867;
 			
-			// aapt resource value: 0x7F0E018C
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131624332;
+			// aapt resource value: 0x7F0F018C
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689868;
 			
-			// aapt resource value: 0x7F0E018D
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131624333;
+			// aapt resource value: 0x7F0F018D
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689869;
 			
-			// aapt resource value: 0x7F0E018E
-			public const int Widget_AppCompat_Button_Colored = 2131624334;
+			// aapt resource value: 0x7F0F018E
+			public const int Widget_AppCompat_Button_Colored = 2131689870;
 			
-			// aapt resource value: 0x7F0E018F
-			public const int Widget_AppCompat_Button_Small = 2131624335;
+			// aapt resource value: 0x7F0F018F
+			public const int Widget_AppCompat_Button_Small = 2131689871;
 			
-			// aapt resource value: 0x7F0E0192
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131624338;
+			// aapt resource value: 0x7F0F0192
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689874;
 			
-			// aapt resource value: 0x7F0E0193
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131624339;
+			// aapt resource value: 0x7F0F0193
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689875;
 			
-			// aapt resource value: 0x7F0E0194
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131624340;
+			// aapt resource value: 0x7F0F0194
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131689876;
 			
-			// aapt resource value: 0x7F0E0195
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131624341;
+			// aapt resource value: 0x7F0F0195
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131689877;
 			
-			// aapt resource value: 0x7F0E0196
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131624342;
+			// aapt resource value: 0x7F0F0196
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689878;
 			
-			// aapt resource value: 0x7F0E0197
-			public const int Widget_AppCompat_EditText = 2131624343;
+			// aapt resource value: 0x7F0F0197
+			public const int Widget_AppCompat_EditText = 2131689879;
 			
-			// aapt resource value: 0x7F0E0198
-			public const int Widget_AppCompat_ImageButton = 2131624344;
+			// aapt resource value: 0x7F0F0198
+			public const int Widget_AppCompat_ImageButton = 2131689880;
 			
-			// aapt resource value: 0x7F0E0199
-			public const int Widget_AppCompat_Light_ActionBar = 2131624345;
+			// aapt resource value: 0x7F0F0199
+			public const int Widget_AppCompat_Light_ActionBar = 2131689881;
 			
-			// aapt resource value: 0x7F0E019A
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131624346;
+			// aapt resource value: 0x7F0F019A
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689882;
 			
-			// aapt resource value: 0x7F0E019B
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131624347;
+			// aapt resource value: 0x7F0F019B
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689883;
 			
-			// aapt resource value: 0x7F0E019C
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131624348;
+			// aapt resource value: 0x7F0F019C
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689884;
 			
-			// aapt resource value: 0x7F0E019D
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131624349;
+			// aapt resource value: 0x7F0F019D
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689885;
 			
-			// aapt resource value: 0x7F0E019E
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131624350;
+			// aapt resource value: 0x7F0F019E
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689886;
 			
-			// aapt resource value: 0x7F0E019F
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131624351;
+			// aapt resource value: 0x7F0F019F
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689887;
 			
-			// aapt resource value: 0x7F0E01A0
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131624352;
+			// aapt resource value: 0x7F0F01A0
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689888;
 			
-			// aapt resource value: 0x7F0E01A1
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131624353;
+			// aapt resource value: 0x7F0F01A1
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689889;
 			
-			// aapt resource value: 0x7F0E01A2
-			public const int Widget_AppCompat_Light_ActionButton = 2131624354;
+			// aapt resource value: 0x7F0F01A2
+			public const int Widget_AppCompat_Light_ActionButton = 2131689890;
 			
-			// aapt resource value: 0x7F0E01A3
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131624355;
+			// aapt resource value: 0x7F0F01A3
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689891;
 			
-			// aapt resource value: 0x7F0E01A4
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131624356;
+			// aapt resource value: 0x7F0F01A4
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689892;
 			
-			// aapt resource value: 0x7F0E01A5
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131624357;
+			// aapt resource value: 0x7F0F01A5
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689893;
 			
-			// aapt resource value: 0x7F0E01A6
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131624358;
+			// aapt resource value: 0x7F0F01A6
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689894;
 			
-			// aapt resource value: 0x7F0E01A7
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131624359;
+			// aapt resource value: 0x7F0F01A7
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689895;
 			
-			// aapt resource value: 0x7F0E01A8
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131624360;
+			// aapt resource value: 0x7F0F01A8
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689896;
 			
-			// aapt resource value: 0x7F0E01A9
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131624361;
+			// aapt resource value: 0x7F0F01A9
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689897;
 			
-			// aapt resource value: 0x7F0E01AA
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131624362;
+			// aapt resource value: 0x7F0F01AA
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689898;
 			
-			// aapt resource value: 0x7F0E01AB
-			public const int Widget_AppCompat_Light_PopupMenu = 2131624363;
+			// aapt resource value: 0x7F0F01AB
+			public const int Widget_AppCompat_Light_PopupMenu = 2131689899;
 			
-			// aapt resource value: 0x7F0E01AC
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131624364;
+			// aapt resource value: 0x7F0F01AC
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689900;
 			
-			// aapt resource value: 0x7F0E01AD
-			public const int Widget_AppCompat_Light_SearchView = 2131624365;
+			// aapt resource value: 0x7F0F01AD
+			public const int Widget_AppCompat_Light_SearchView = 2131689901;
 			
-			// aapt resource value: 0x7F0E01AE
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131624366;
+			// aapt resource value: 0x7F0F01AE
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689902;
 			
-			// aapt resource value: 0x7F0E01AF
-			public const int Widget_AppCompat_ListMenuView = 2131624367;
+			// aapt resource value: 0x7F0F01AF
+			public const int Widget_AppCompat_ListMenuView = 2131689903;
 			
-			// aapt resource value: 0x7F0E01B0
-			public const int Widget_AppCompat_ListPopupWindow = 2131624368;
+			// aapt resource value: 0x7F0F01B0
+			public const int Widget_AppCompat_ListPopupWindow = 2131689904;
 			
-			// aapt resource value: 0x7F0E01B1
-			public const int Widget_AppCompat_ListView = 2131624369;
+			// aapt resource value: 0x7F0F01B1
+			public const int Widget_AppCompat_ListView = 2131689905;
 			
-			// aapt resource value: 0x7F0E01B2
-			public const int Widget_AppCompat_ListView_DropDown = 2131624370;
+			// aapt resource value: 0x7F0F01B2
+			public const int Widget_AppCompat_ListView_DropDown = 2131689906;
 			
-			// aapt resource value: 0x7F0E01B3
-			public const int Widget_AppCompat_ListView_Menu = 2131624371;
+			// aapt resource value: 0x7F0F01B3
+			public const int Widget_AppCompat_ListView_Menu = 2131689907;
 			
-			// aapt resource value: 0x7F0E01B4
-			public const int Widget_AppCompat_PopupMenu = 2131624372;
+			// aapt resource value: 0x7F0F01B4
+			public const int Widget_AppCompat_PopupMenu = 2131689908;
 			
-			// aapt resource value: 0x7F0E01B5
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131624373;
+			// aapt resource value: 0x7F0F01B5
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689909;
 			
-			// aapt resource value: 0x7F0E01B6
-			public const int Widget_AppCompat_PopupWindow = 2131624374;
+			// aapt resource value: 0x7F0F01B6
+			public const int Widget_AppCompat_PopupWindow = 2131689910;
 			
-			// aapt resource value: 0x7F0E01B7
-			public const int Widget_AppCompat_ProgressBar = 2131624375;
+			// aapt resource value: 0x7F0F01B7
+			public const int Widget_AppCompat_ProgressBar = 2131689911;
 			
-			// aapt resource value: 0x7F0E01B8
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131624376;
+			// aapt resource value: 0x7F0F01B8
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689912;
 			
-			// aapt resource value: 0x7F0E01B9
-			public const int Widget_AppCompat_RatingBar = 2131624377;
+			// aapt resource value: 0x7F0F01B9
+			public const int Widget_AppCompat_RatingBar = 2131689913;
 			
-			// aapt resource value: 0x7F0E01BA
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131624378;
+			// aapt resource value: 0x7F0F01BA
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131689914;
 			
-			// aapt resource value: 0x7F0E01BB
-			public const int Widget_AppCompat_RatingBar_Small = 2131624379;
+			// aapt resource value: 0x7F0F01BB
+			public const int Widget_AppCompat_RatingBar_Small = 2131689915;
 			
-			// aapt resource value: 0x7F0E01BC
-			public const int Widget_AppCompat_SearchView = 2131624380;
+			// aapt resource value: 0x7F0F01BC
+			public const int Widget_AppCompat_SearchView = 2131689916;
 			
-			// aapt resource value: 0x7F0E01BD
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131624381;
+			// aapt resource value: 0x7F0F01BD
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131689917;
 			
-			// aapt resource value: 0x7F0E01BE
-			public const int Widget_AppCompat_SeekBar = 2131624382;
+			// aapt resource value: 0x7F0F01BE
+			public const int Widget_AppCompat_SeekBar = 2131689918;
 			
-			// aapt resource value: 0x7F0E01BF
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131624383;
+			// aapt resource value: 0x7F0F01BF
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131689919;
 			
-			// aapt resource value: 0x7F0E01C0
-			public const int Widget_AppCompat_Spinner = 2131624384;
+			// aapt resource value: 0x7F0F01C0
+			public const int Widget_AppCompat_Spinner = 2131689920;
 			
-			// aapt resource value: 0x7F0E01C1
-			public const int Widget_AppCompat_Spinner_DropDown = 2131624385;
+			// aapt resource value: 0x7F0F01C1
+			public const int Widget_AppCompat_Spinner_DropDown = 2131689921;
 			
-			// aapt resource value: 0x7F0E01C2
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131624386;
+			// aapt resource value: 0x7F0F01C2
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689922;
 			
-			// aapt resource value: 0x7F0E01C3
-			public const int Widget_AppCompat_Spinner_Underlined = 2131624387;
+			// aapt resource value: 0x7F0F01C3
+			public const int Widget_AppCompat_Spinner_Underlined = 2131689923;
 			
-			// aapt resource value: 0x7F0E01C4
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131624388;
+			// aapt resource value: 0x7F0F01C4
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689924;
 			
-			// aapt resource value: 0x7F0E01C5
-			public const int Widget_AppCompat_Toolbar = 2131624389;
+			// aapt resource value: 0x7F0F01C5
+			public const int Widget_AppCompat_Toolbar = 2131689925;
 			
-			// aapt resource value: 0x7F0E01C6
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131624390;
+			// aapt resource value: 0x7F0F01C6
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689926;
 			
-			// aapt resource value: 0x7F0E01C7
-			public const int Widget_Compat_NotificationActionContainer = 2131624391;
+			// aapt resource value: 0x7F0F01C7
+			public const int Widget_Compat_NotificationActionContainer = 2131689927;
 			
-			// aapt resource value: 0x7F0E01C8
-			public const int Widget_Compat_NotificationActionText = 2131624392;
+			// aapt resource value: 0x7F0F01C8
+			public const int Widget_Compat_NotificationActionText = 2131689928;
 			
-			// aapt resource value: 0x7F0E01C9
-			public const int Widget_Design_AppBarLayout = 2131624393;
+			// aapt resource value: 0x7F0F01C9
+			public const int Widget_Design_AppBarLayout = 2131689929;
 			
-			// aapt resource value: 0x7F0E01CA
-			public const int Widget_Design_BottomNavigationView = 2131624394;
+			// aapt resource value: 0x7F0F01CA
+			public const int Widget_Design_BottomNavigationView = 2131689930;
 			
-			// aapt resource value: 0x7F0E01CB
-			public const int Widget_Design_BottomSheet_Modal = 2131624395;
+			// aapt resource value: 0x7F0F01CB
+			public const int Widget_Design_BottomSheet_Modal = 2131689931;
 			
-			// aapt resource value: 0x7F0E01CC
-			public const int Widget_Design_CollapsingToolbar = 2131624396;
+			// aapt resource value: 0x7F0F01CC
+			public const int Widget_Design_CollapsingToolbar = 2131689932;
 			
-			// aapt resource value: 0x7F0E01CD
-			public const int Widget_Design_FloatingActionButton = 2131624397;
+			// aapt resource value: 0x7F0F01CD
+			public const int Widget_Design_FloatingActionButton = 2131689933;
 			
-			// aapt resource value: 0x7F0E01CE
-			public const int Widget_Design_NavigationView = 2131624398;
+			// aapt resource value: 0x7F0F01CE
+			public const int Widget_Design_NavigationView = 2131689934;
 			
-			// aapt resource value: 0x7F0E01CF
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131624399;
+			// aapt resource value: 0x7F0F01CF
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689935;
 			
-			// aapt resource value: 0x7F0E01D0
-			public const int Widget_Design_Snackbar = 2131624400;
+			// aapt resource value: 0x7F0F01D0
+			public const int Widget_Design_Snackbar = 2131689936;
 			
-			// aapt resource value: 0x7F0E01D1
-			public const int Widget_Design_TabLayout = 2131624401;
+			// aapt resource value: 0x7F0F01D1
+			public const int Widget_Design_TabLayout = 2131689937;
 			
-			// aapt resource value: 0x7F0E01D2
-			public const int Widget_Design_TextInputLayout = 2131624402;
+			// aapt resource value: 0x7F0F01D2
+			public const int Widget_Design_TextInputLayout = 2131689938;
 			
-			// aapt resource value: 0x7F0E01D3
-			public const int Widget_MaterialComponents_BottomAppBar = 2131624403;
+			// aapt resource value: 0x7F0F01D3
+			public const int Widget_MaterialComponents_BottomAppBar = 2131689939;
 			
-			// aapt resource value: 0x7F0E01D4
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131624404;
+			// aapt resource value: 0x7F0F01D4
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689940;
 			
-			// aapt resource value: 0x7F0E01D5
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131624405;
+			// aapt resource value: 0x7F0F01D5
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131689941;
 			
-			// aapt resource value: 0x7F0E01D6
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131624406;
+			// aapt resource value: 0x7F0F01D6
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689942;
 			
-			// aapt resource value: 0x7F0E01D7
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131624407;
+			// aapt resource value: 0x7F0F01D7
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689943;
 			
-			// aapt resource value: 0x7F0E01D8
-			public const int Widget_MaterialComponents_Button = 2131624408;
+			// aapt resource value: 0x7F0F01D8
+			public const int Widget_MaterialComponents_Button = 2131689944;
 			
-			// aapt resource value: 0x7F0E01D9
-			public const int Widget_MaterialComponents_Button_Icon = 2131624409;
+			// aapt resource value: 0x7F0F01D9
+			public const int Widget_MaterialComponents_Button_Icon = 2131689945;
 			
-			// aapt resource value: 0x7F0E01DA
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131624410;
+			// aapt resource value: 0x7F0F01DA
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689946;
 			
-			// aapt resource value: 0x7F0E01DB
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131624411;
+			// aapt resource value: 0x7F0F01DB
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689947;
 			
-			// aapt resource value: 0x7F0E01DC
-			public const int Widget_MaterialComponents_Button_TextButton = 2131624412;
+			// aapt resource value: 0x7F0F01DC
+			public const int Widget_MaterialComponents_Button_TextButton = 2131689948;
 			
-			// aapt resource value: 0x7F0E01DD
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131624413;
+			// aapt resource value: 0x7F0F01DD
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689949;
 			
-			// aapt resource value: 0x7F0E01DE
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131624414;
+			// aapt resource value: 0x7F0F01DE
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689950;
 			
-			// aapt resource value: 0x7F0E01DF
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131624415;
+			// aapt resource value: 0x7F0F01DF
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689951;
 			
-			// aapt resource value: 0x7F0E01E0
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131624416;
+			// aapt resource value: 0x7F0F01E0
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689952;
 			
-			// aapt resource value: 0x7F0E01E1
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131624417;
+			// aapt resource value: 0x7F0F01E1
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689953;
 			
-			// aapt resource value: 0x7F0E01E2
-			public const int Widget_MaterialComponents_CardView = 2131624418;
+			// aapt resource value: 0x7F0F01E2
+			public const int Widget_MaterialComponents_CardView = 2131689954;
 			
-			// aapt resource value: 0x7F0E01E7
-			public const int Widget_MaterialComponents_ChipGroup = 2131624423;
+			// aapt resource value: 0x7F0F01E7
+			public const int Widget_MaterialComponents_ChipGroup = 2131689959;
 			
-			// aapt resource value: 0x7F0E01E3
-			public const int Widget_MaterialComponents_Chip_Action = 2131624419;
+			// aapt resource value: 0x7F0F01E3
+			public const int Widget_MaterialComponents_Chip_Action = 2131689955;
 			
-			// aapt resource value: 0x7F0E01E4
-			public const int Widget_MaterialComponents_Chip_Choice = 2131624420;
+			// aapt resource value: 0x7F0F01E4
+			public const int Widget_MaterialComponents_Chip_Choice = 2131689956;
 			
-			// aapt resource value: 0x7F0E01E5
-			public const int Widget_MaterialComponents_Chip_Entry = 2131624421;
+			// aapt resource value: 0x7F0F01E5
+			public const int Widget_MaterialComponents_Chip_Entry = 2131689957;
 			
-			// aapt resource value: 0x7F0E01E6
-			public const int Widget_MaterialComponents_Chip_Filter = 2131624422;
+			// aapt resource value: 0x7F0F01E6
+			public const int Widget_MaterialComponents_Chip_Filter = 2131689958;
 			
-			// aapt resource value: 0x7F0E01E8
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131624424;
+			// aapt resource value: 0x7F0F01E8
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131689960;
 			
-			// aapt resource value: 0x7F0E01E9
-			public const int Widget_MaterialComponents_NavigationView = 2131624425;
+			// aapt resource value: 0x7F0F01E9
+			public const int Widget_MaterialComponents_NavigationView = 2131689961;
 			
-			// aapt resource value: 0x7F0E01EA
-			public const int Widget_MaterialComponents_Snackbar = 2131624426;
+			// aapt resource value: 0x7F0F01EA
+			public const int Widget_MaterialComponents_Snackbar = 2131689962;
 			
-			// aapt resource value: 0x7F0E01EB
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131624427;
+			// aapt resource value: 0x7F0F01EB
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689963;
 			
-			// aapt resource value: 0x7F0E01EC
-			public const int Widget_MaterialComponents_TabLayout = 2131624428;
+			// aapt resource value: 0x7F0F01EC
+			public const int Widget_MaterialComponents_TabLayout = 2131689964;
 			
-			// aapt resource value: 0x7F0E01ED
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131624429;
+			// aapt resource value: 0x7F0F01ED
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689965;
 			
-			// aapt resource value: 0x7F0E01EE
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131624430;
+			// aapt resource value: 0x7F0F01EE
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689966;
 			
-			// aapt resource value: 0x7F0E01EF
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131624431;
+			// aapt resource value: 0x7F0F01EF
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689967;
 			
-			// aapt resource value: 0x7F0E01F0
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131624432;
+			// aapt resource value: 0x7F0F01F0
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689968;
 			
-			// aapt resource value: 0x7F0E01F1
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131624433;
+			// aapt resource value: 0x7F0F01F1
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689969;
 			
-			// aapt resource value: 0x7F0E01F2
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131624434;
+			// aapt resource value: 0x7F0F01F2
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689970;
 			
-			// aapt resource value: 0x7F0E01F3
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131624435;
+			// aapt resource value: 0x7F0F01F3
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689971;
 			
-			// aapt resource value: 0x7F0E01F4
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131624436;
+			// aapt resource value: 0x7F0F01F4
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689972;
 			
-			// aapt resource value: 0x7F0E01F5
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131624437;
+			// aapt resource value: 0x7F0F01F5
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689973;
 			
-			// aapt resource value: 0x7F0E01F6
-			public const int Widget_MaterialComponents_Toolbar = 2131624438;
+			// aapt resource value: 0x7F0F01F6
+			public const int Widget_MaterialComponents_Toolbar = 2131689974;
 			
-			// aapt resource value: 0x7F0E01F7
-			public const int Widget_Support_CoordinatorLayout = 2131624439;
+			// aapt resource value: 0x7F0F01F7
+			public const int Widget_Support_CoordinatorLayout = 2131689975;
 			
 			static Style()
 			{
@@ -16239,8 +14316,8 @@ namespace COPDapp.Droid
 		public partial class Xml
 		{
 			
-			// aapt resource value: 0x7F100000
-			public const int xamarin_essentials_fileprovider_file_paths = 2131755008;
+			// aapt resource value: 0x7F110000
+			public const int xamarin_essentials_fileprovider_file_paths = 2131820544;
 			
 			static Xml()
 			{
