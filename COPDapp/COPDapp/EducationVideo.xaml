@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
              NavigationPage.HasNavigationBar="False"
              x:Class="COPDapp.EducationVideo" BackgroundColor="#dff4d7">
     <ContentPage.Content>
         <AbsoluteLayout HorizontalOptions="FillAndExpand">
-            <MediaElement x:Name="videoBox" ShowsPlaybackControls="True" AutoPlay="True" KeepScreenOn="True"
+            <xct:MediaElement x:Name="videoBox" ShowsPlaybackControls="True" AutoPlay="True" KeepScreenOn="True"
                           AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"
                           MediaOpened="OnMediaOpened" MediaFailed="OnMediaFailed" />
             

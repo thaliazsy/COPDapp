@@ -3,6 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="COPDapp.App">
     <Application.Resources>
-
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor" Value="#f78f8d"/>
+            <Setter Property="TextColor" Value="White"/>
+            <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        </Style>
     </Application.Resources>
 </Application>

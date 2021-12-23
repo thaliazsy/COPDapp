@@ -27,14 +27,14 @@
                 <StackLayout Grid.Row="1" Grid.Column="0" VerticalOptions="End" BackgroundColor="#b3e5a0">
                     <PanCake:PancakeView Grid.Row="1" CornerRadius="0,90,0,0">
                         <StackLayout VerticalOptions="Center" Padding="15,50,15,10" BackgroundColor="White">
-                            <Button x:Name="btn_selfAsses" 			Clicked="OnButtonClicked" Text="自我檢測" 			BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
-                            <Button x:Name="btn_prevention" 		Clicked="OnButtonClicked" Text="預防改善" 			BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
-                            <Button x:Name="btn_vaccine" 			Clicked="OnButtonClicked" Text="疫苗施打" 			BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
-                            <Button x:Name="btn_aboutCOPD" 			Clicked="OnButtonClicked" Text="關於肺阻塞" 			BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
-                            <Button x:Name="btn_acuteExacerbation" 	Clicked="OnButtonClicked" Text="急性惡化的徵兆及處理" BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
-                            <Button x:Name="btn_comorbidity" 		Clicked="OnButtonClicked" Text="肺阻塞的共病症" 		BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
-                            <Button x:Name="btn_mucusRemoval" 		Clicked="OnButtonClicked" Text="呼吸道痰液清除方法" 	BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
-                            <Button x:Name="btn_oxygenTherapy" 		Clicked="OnButtonClicked" Text="居家氧氣治療" 		BackgroundColor="#f78f8d" TextColor="White" HorizontalOptions="FillAndExpand" CornerRadius="5" />
+                            <Button x:Name="btn_selfAsses" 			Clicked="OnButtonClicked" Text="自我檢測"               CornerRadius="5" />
+                            <Button x:Name="btn_prevention" 		Clicked="OnButtonClicked" Text="預防改善"               CornerRadius="5" />
+                            <Button x:Name="btn_vaccine" 			Clicked="OnButtonClicked" Text="疫苗施打"               CornerRadius="5" />
+                            <Button x:Name="btn_aboutCOPD" 			Clicked="OnButtonClicked" Text="關於肺阻塞" 	        CornerRadius="5" />
+                            <Button x:Name="btn_acuteExacerbation" 	Clicked="OnButtonClicked" Text="急性惡化的徵兆及處理"   CornerRadius="5" />
+                            <Button x:Name="btn_comorbidity" 		Clicked="OnButtonClicked" Text="肺阻塞的共病症" 		CornerRadius="5" />
+                            <Button x:Name="btn_mucusRemoval" 		Clicked="OnButtonClicked" Text="呼吸道痰液清除方法" 	CornerRadius="5" />
+                            <Button x:Name="btn_oxygenTherapy" 		Clicked="OnButtonClicked" Text="居家氧氣治療"           CornerRadius="5" />
 							<!--　加 button 
 								<Button x:Name="button名稱"	Clicked="點擊button所引發的事件"	Text="button上顯示的文字"	BackgroundColor="背景顏色"	TextColor="button上文字的顏色" HorizontalOptions="button佔用的寬度" CornerRadius="button圓角" /> 
 							-->
