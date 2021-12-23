@@ -21,6 +21,7 @@ namespace COPDapp
         {
             while (Navigation.ModalStack.Count > 0)
             {
+                Console.WriteLine("Home button pressed");
                 Navigation.PopModalAsync();
             }
         }
