@@ -11,9 +11,9 @@
             <Label Text="非藥物治療" Padding="0, 15" HorizontalOptions="CenterAndExpand" CharacterSpacing="3" HorizontalTextAlignment="Center" FontSize="45"/>
             <PanCake:PancakeView  CornerRadius="40" Margin="10, 0">
                 <StackLayout VerticalOptions="CenterAndExpand" Padding="15, 50" BackgroundColor="#ffdf90">
-                    <Button x:Name="btn_smoke"          Clicked="BtnMenu_Clicked" Text="戒菸" FontSize="Title" CornerRadius="60"/>
-                    <Button x:Name="btn_rehabilitation" Clicked="BtnMenu_Clicked" Text="復健" FontSize="Large"	 CornerRadius="60"/>
-                    <Button x:Name="btn_nutrition" 		Clicked="BtnMenu_Clicked" Text="營養" FontSize="Large"	CornerRadius="60"/>
+                    <Button x:Name="btn_smoke"          Clicked="BtnMenu_Clicked" Text="戒菸" CornerRadius="60"/>
+                    <Button x:Name="btn_rehabilitation" Clicked="BtnMenu_Clicked" Text="復健" CornerRadius="60"/>
+                    <Button x:Name="btn_nutrition" 		Clicked="BtnMenu_Clicked" Text="營養" CornerRadius="60"/>
                     <!--　加 button 
 						<Button x:Name="button名稱"	Clicked="點擊button所引發的事件"	Text="button上顯示的文字" FontSize="button上文字的大小" BackgroundColor="背景顏色"	TextColor="button上文字的顏色" HorizontalOptions="button佔用的寬度" CornerRadius="button圓角" /> 
 					-->

@@ -13,11 +13,11 @@
                 <PanCake:PancakeView  CornerRadius="40" Margin="10, 0">
                     <StackLayout VerticalOptions="Center" Padding="15, 50" BackgroundColor="#ffdf90">
                         <Button Grid.Row="0" Grid.Column="1" x:Name="btn_breezehaler" Clicked="OnButtonClicked" Text="Breezehaler"  CornerRadius="55"/>
-                        <Button Grid.Row="1" Grid.Column="1" x:Name="btn_ellipta" Clicked="OnButtonClicked" Text="Ellipta" FontSize="20" CornerRadius="55"/>
-                        <Button Grid.Row="2" Grid.Column="1" x:Name="btn_mdiWspacer" Clicked="OnButtonClicked" Text="MDI With Spacer" FontSize="20" CornerRadius="55"/>
-                        <Button Grid.Row="3" Grid.Column="1" x:Name="btn_mdiWOspacer" Clicked="OnButtonClicked" Text="MDI Without Spacer"  FontSize="20" CornerRadius="55"/>
-                        <Button Grid.Row="4" Grid.Column="1" x:Name="btn_respimat" Clicked="OnButtonClicked" Text="Respimat" FontSize="20" CornerRadius="55"/>
-                        <Button Grid.Row="5" Grid.Column="1" x:Name="btn_turbuhaler" Clicked="OnButtonClicked" Text="Turbuhaler" FontSize="20" CornerRadius="55"/>
+                        <Button Grid.Row="1" Grid.Column="1" x:Name="btn_ellipta" Clicked="OnButtonClicked" Text="Ellipta" CornerRadius="55"/>
+                        <Button Grid.Row="2" Grid.Column="1" x:Name="btn_mdiWspacer" Clicked="OnButtonClicked" Text="MDI With Spacer" CornerRadius="55"/>
+                        <Button Grid.Row="3" Grid.Column="1" x:Name="btn_mdiWOspacer" Clicked="OnButtonClicked" Text="MDI Without Spacer" CornerRadius="55"/>
+                        <Button Grid.Row="4" Grid.Column="1" x:Name="btn_respimat" Clicked="OnButtonClicked" Text="Respimat" CornerRadius="55"/>
+                        <Button Grid.Row="5" Grid.Column="1" x:Name="btn_turbuhaler" Clicked="OnButtonClicked" Text="Turbuhaler" CornerRadius="55"/>
                     </StackLayout>
                 </PanCake:PancakeView>
             </StackLayout>

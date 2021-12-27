@@ -8,7 +8,6 @@
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <StackLayout>
-            <!--<Label x:Name="header" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />-->
             <CarouselView x:Name="carouselPPT">
                 <CarouselView.ItemTemplate>
                     <DataTemplate>

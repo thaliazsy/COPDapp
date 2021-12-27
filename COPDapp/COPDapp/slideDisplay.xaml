@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="COPDapp.slideDisplay"
+             BackgroundColor="#dff4d7">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Home" Order="Primary" Icon="home.png" Text="Home" Priority="0" Activated="Home_Activated" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid HorizontalOptions="FillAndExpand">
+                <Image Source="slides_bg.png" Aspect="Fill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+                <CarouselView x:Name="carouselPPT" Loop="False" PositionChanged="PositionChanged" CurrentItemChanged="ItemChanged">
+                    <CarouselView.ItemTemplate>
+                        <DataTemplate>
+                            <ScrollView Orientation="Vertical" HorizontalOptions="Start" VerticalOptions="Center" >
+                                <Label Padding="25, 0, 80, 0" Text="{Binding .}" FontSize="35" TextColor="Black" HorizontalTextAlignment="Start" VerticalOptions="Center" />
+                            </ScrollView>
+                        </DataTemplate>
+                    </CarouselView.ItemTemplate>
+                </CarouselView>
+                <Label x:Name="currentItemPositionLabel" FontSize="10" HorizontalTextAlignment="End" VerticalOptions="End"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -22416,52 +22416,55 @@ namespace COPDapp.Droid
 			public const int sdm_9 = 2131165386;
 			
 			// aapt resource value: 0x7F0700CB
-			public const int smoking_1 = 2131165387;
+			public const int slides_bg = 2131165387;
 			
 			// aapt resource value: 0x7F0700CC
-			public const int smoking_10 = 2131165388;
+			public const int smoking_1 = 2131165388;
 			
 			// aapt resource value: 0x7F0700CD
-			public const int smoking_11 = 2131165389;
+			public const int smoking_10 = 2131165389;
 			
 			// aapt resource value: 0x7F0700CE
-			public const int smoking_2 = 2131165390;
+			public const int smoking_11 = 2131165390;
 			
 			// aapt resource value: 0x7F0700CF
-			public const int smoking_3 = 2131165391;
+			public const int smoking_2 = 2131165391;
 			
 			// aapt resource value: 0x7F0700D0
-			public const int smoking_4 = 2131165392;
+			public const int smoking_3 = 2131165392;
 			
 			// aapt resource value: 0x7F0700D1
-			public const int smoking_5 = 2131165393;
+			public const int smoking_4 = 2131165393;
 			
 			// aapt resource value: 0x7F0700D2
-			public const int smoking_6 = 2131165394;
+			public const int smoking_5 = 2131165394;
 			
 			// aapt resource value: 0x7F0700D3
-			public const int smoking_7 = 2131165395;
+			public const int smoking_6 = 2131165395;
 			
 			// aapt resource value: 0x7F0700D4
-			public const int smoking_8 = 2131165396;
+			public const int smoking_7 = 2131165396;
 			
 			// aapt resource value: 0x7F0700D5
-			public const int smoking_9 = 2131165397;
+			public const int smoking_8 = 2131165397;
 			
 			// aapt resource value: 0x7F0700D6
-			public const int splash_logo = 2131165398;
+			public const int smoking_9 = 2131165398;
 			
 			// aapt resource value: 0x7F0700D7
-			public const int splash_screen = 2131165399;
+			public const int splash_logo = 2131165399;
 			
 			// aapt resource value: 0x7F0700D8
-			public const int test_custom_background = 2131165400;
+			public const int splash_screen = 2131165400;
 			
 			// aapt resource value: 0x7F0700D9
-			public const int tooltip_frame_dark = 2131165401;
+			public const int test_custom_background = 2131165401;
 			
 			// aapt resource value: 0x7F0700DA
-			public const int tooltip_frame_light = 2131165402;
+			public const int tooltip_frame_dark = 2131165402;
+			
+			// aapt resource value: 0x7F0700DB
+			public const int tooltip_frame_light = 2131165403;
 			
 			static Drawable()
 			{
